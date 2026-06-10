@@ -1,0 +1,2001 @@
+product_id,product_name,category,sub_category,brand,price,discount_percent,stock_quantity,rating,is_available
+PROD00001,ITC Toor Dal,grocery,,ITC,10323.3,20,153,1.0,No
+PROD00002,,Electronics,Smartwatch,Mi,16872.55,12,250,2.3,0
+PROD00003,Decathlon Resistance Band,Sports,Resistance Band,Decathlon,16245.92,42,136,2.9,Yes
+PROD00004,OnePlus Keyboard,Electronics,Keyboard,,55617.19,58,-5,3.7,0
+PROD00005,Cosco Cycling Gloves,Sports,Cycling Gloves,Cosco,79755.08,32,213,0,Out of Stock
+PROD00006,S.Chand Atlas,Books,Atlas,S.Chand,2048.18,33,172,3.0,No
+PROD00007,Samsung Smartwatch,Electronics,Smartwatch,Samsung,54684.55,30,373,3.6,No
+PROD00008,Oxford Novel,,Novel,,20740.18,59,246,1.5,0
+PROD00009,Cello Knife Set,Home & Kitchen,Knife Set,Cello,-50044.19,18,,2.5,
+PROD00010,MRF Water Jug,Sports,Water Jug,MRF,66952.87,11,252,4.2,No
+PROD00011,Puma Leggings,Fashion,Leggings,Puma,74737.76,37,336,1.2,No
+PROD00012,Zara Dupatta,Fashion,Dupatta,Zara,50056.66,30,221,4.9,Out of Stock
+PROD00013,Prestige Mop,Home & Kitchen,Mop,Prestige,-20631.21,13,198,3.1,0
+PROD00014,Pigeon Water Bottle,Home & Kitchen,Water Bottle,Pigeon,35016.99,21,38,4.3,No
+PROD00015,Realme Mouse,Electronics,Mouse,Realme,77188.44,51,15,1.5,Yes
+PROD00016,Realme Smartwatch,Electronics,Smartwatch,Realme,57373.05,150,176,3.9,No
+PROD00017,Burnish Skipping Rope,Sports,Skipping Rope,Burnish,74783.85,58,466,1.4,No
+PROD00018,Garnier Moisturizer,Beauty,Moisturizer,Garnier,54494.97,,70,1.4,Yes
+PROD00019,,,Lipstick,L'Oreal,28673.67,13,,3.1,No
+PROD00020,Orient Biography,Books,Biography,Orient,62769.91,56,260,1.6,0
+PROD00021,,HOME & KITCHEN,Knife Set,Milton,8663.72,48,177,4.4,No
+PROD00022,Decathlon Yoga Mat,Sports,Yoga Mat,,48320.43,21,209,4.0,No
+PROD00023,Dove Moisturizer,beauty,Moisturizer,Dove,44469.77,0,470,3.6,No
+PROD00024,HP Power Bank,Electronics,Power Bank,HP,62362.94,3,148,0,No
+PROD00025,Patanjali Salt,Grocery,Salt,Patanjali,23379.71,57,334,3.7,Yes
+PROD00026,Vector X Knee Cap,Sports,Knee Cap,Vector X,38890.74,26,138,1.8,Available
+PROD00027,Haldiram Saffola Oil,grocery,,,502.96,34,99999,3.7,
+PROD00028,Yonex Water Jug,Sports,Water Jug,Yonex,-53424.99,35,173,0,Yes
+PROD00029,Dabur Basmati Rice,GROCERY,Basmati Rice,Dabur,69533.87,32,212,-1,Yes
+PROD00030,boAt Tablet,ELECTRONICS,Tablet,boAt,14675.32,3,311,2.0,Yes
+PROD00031,Prestige Pillow,Home & Kitchen,Pillow,Prestige,29350.64,43,73,1.2,No
+PROD00032,Penguin Self Help Book,Books,Self Help Book,,64393.72,150,141,4.1,No
+PROD00033,S.Chand Textbook,Books,Textbook,,29405.29,52,498,4.6,No
+PROD00034,Lenovo Tablet,Electronics,Tablet,Lenovo,2101.4,28,455,-1,No
+PROD00035,Patanjali Atta,Grocery,Atta,Patanjali,29085.28,26,236,2.8,
+PROD00036,Dove Shampoo,Beauty,Shampoo,Dove,78680.13,,189,6.5,No
+PROD00037,Hawkins Knife Set,Home & Kitchen,Knife Set,Hawkins,13960.45,24,268,1.4,Yes
+PROD00038,Cello Pillow,Home & Kitchen,Pillow,Cello,42401.92,53,86,1.2,No
+PROD00039,Samsung Tablet,Electronics,Tablet,Samsung,0,59,112,1.4,0
+PROD00040,Zara Saree,Fashion,Saree,Zara,61250.32,4,386,2.5,No
+PROD00041,Nykaa Toner,Beauty,Toner,Nykaa,47991.73,150,266,2.0,Yes
+PROD00042,HarperCollins Atlas,BOOKS,Atlas,HarperCollins,68797.66,16,241,4.3,No
+PROD00043,Vector X Skipping Rope,Sports,Skipping Rope,Vector X,27669.36,42,172,3.8,Yes
+PROD00044,Orient Self Help Book,Books,Self Help Book,Orient,66021.08,2,417,1.3,Yes
+PROD00045,Arihant Journal,Books,Journal,Arihant,36315.89,35,,4.2,Yes
+PROD00046,Libas Kurta,Fashion,Kurta,Libas,44464.73,32,25,1.1,No
+PROD00047,Borosil Pillow,Home & Kitchen,Pillow,Borosil,53727.98,38,303,3.8,No
+PROD00048,Biba Leggings,Fashion,Leggings,Biba,18731.21,6,284,4.0,No
+PROD00049,Patanjali Saffola Oil,Grocery,Saffola Oil,Patanjali,,23,99999,3.9,No
+PROD00050,Vector X Resistance Band,Sports,Resistance Band,Vector X,53994.44,8,7,2.5,No
+PROD00051,OnePlus Speaker,Electronics,Speaker,OnePlus,27905.98,22,500,1.9,No
+PROD00052,Cosco Cricket Bat,SPORTS,Cricket Bat,Cosco,23406.65,-10,66,2.7,No
+PROD00053,OnePlus Smartphone,Electronics,Smartphone,OnePlus,51964.64,16,166,4.6,No
+PROD00054,boAt Keyboard,Electronics,Keyboard,boAt,72560.18,-10,364,4.3,
+PROD00055,Dabur Amul Butter,Grocery,Amul Butter,Dabur,16380.12,22,26,4.6,No
+PROD00056,Fingerprint Dictionary,Books,Dictionary,Fingerprint,20436.01,45,232,3.3,1
+PROD00057,Orient Comic,Books,,Orient,28308.57,25,249,4.1,Out of Stock
+PROD00058,Biotique Shampoo,Beauty,,Biotique,3975.88,,457,1.2,No
+PROD00059,,Beauty,Toner,,18440.2,31,172,4.4,No
+PROD00060,Decathlon Skipping Rope,Sports,Skipping Rope,Decathlon,72741.69,53,387,5.0,Yes
+PROD00061,ITC Amul Butter,Grocery,Amul Butter,ITC,44071.66,60,126,2.2,No
+PROD00062,Lakmé Lipstick,Beauty,Lipstick,Lakmé,55026.51,17,258,4.4,No
+PROD00063,Arihant Self Help Book,Books,,Arihant,41153.75,60,442,4.3,No
+PROD00064,Oxford Workbook,Books,Workbook,Oxford,20147.67,10,397,1.3,Yes
+PROD00065,Cosco Dumbbells,Sports,,Cosco,71055.83,45,262,3.7,0
+PROD00066,Borosil Curtain,Home & Kitchen,Curtain,Borosil,26826.46,22,97,1.8,0
+PROD00067,MDH Toor Dal,Grocery,Toor Dal,MDH,30126.16,31,468,,No
+PROD00068,Garnier Moisturizer,,Moisturizer,Garnier,68915.82,28,335,2.8,No
+PROD00069,Lenovo Smartphone,Electronics,,Lenovo,-22435.18,51,362,2.0,yes
+PROD00070,Orient Mop,Home & Kitchen,Mop,Orient,28119.39,14,239,2.3,Yes
+PROD00071,Cosco Skipping Rope,Sports,Skipping Rope,Cosco,79713.04,39,341,1.1,No
+PROD00072,Puma Belt,fashion,Belt,Puma,27770.83,15,289,2.0,Out of Stock
+PROD00073,,Beauty,Moisturizer,,72063.3,4,349,6.5,No
+PROD00074,L'Oreal Shampoo,Beauty,Shampoo,L'Oreal,34710.1,150,19,1.6,Yes
+PROD00075,Reebok Yoga Mat,Sports,,Reebok,71692.72,-10,324,,No
+PROD00076,Dabur Salt,Grocery,Salt,Dabur,20214.28,50,312,1.5,No
+PROD00077,Milton Mixer Grinder,Home & Kitchen,Mixer Grinder,Milton,73526.6,18,3,,yes
+PROD00078,S.Chand Biography,Books,Biography,S.Chand,29394.53,150,429,4.7,Yes
+PROD00079,Britannia Saffola Oil,Grocery,Saffola Oil,Britannia,53858.4,50,226,1.9,Yes
+PROD00080,Nike Belt,Fashion,Belt,Nike,1634.88,-10,438,4.7,Yes
+PROD00081,Biotique Hair Oil,Beauty,Hair Oil,Biotique,61944.71,52,124,3.0,Yes
+PROD00082,Dove Lipstick,Beauty,Lipstick,Dove,79727.13,57,350,2.4,Yes
+PROD00083,,Electronics,Power Bank,Lenovo,70393.82,2,205,4.2,yes
+PROD00084,,Home & Kitchen,Bed Sheet,Prestige,15570.81,150,331,3.4,Yes
+PROD00085,Realme Tablet,Electronics,Tablet,Realme,56968.77,9,212,4.8,Yes
+PROD00086,JBL Keyboard,Electronics,Keyboard,JBL,58714.65,60,463,,1
+PROD00087,Nivia Water Jug,Sports,Water Jug,Nivia,8029.3,26,433,4.5,No
+PROD00088,HP Mouse,Electronics,Mouse,HP,32317.74,59,177,4.7,Yes
+PROD00089,Disha Biography,Books,,Disha,71380.09,19,164,0,No
+PROD00090,Garnier Shampoo,Beauty,Shampoo,Garnier,65241.99,8,390,3.2,Yes
+PROD00091,Cosco Yoga Mat,Sports,,Cosco,26330.95,59,-5,1.6,No
+PROD00092,Yonex Football,Sports,,Yonex,3562.2,53,,4.7,
+PROD00093,ITC Toor Dal,Grocery,Toor Dal,,75667.19,60,133,2.6,No
+PROD00094,Orient Textbook,books,Textbook,Orient,67161.13,28,25,4.9,No
+PROD00095,OnePlus Speaker,ELECTRONICS,Speaker,OnePlus,63929.76,46,126,3.9,Yes
+PROD00096,,Sports,Football,Yonex,78863.78,15,9,4.8,No
+PROD00097,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,6107.51,25,53,3.5,Yes
+PROD00098,Nestle Biscuits,Grocery,Biscuits,Nestle,16039.55,11,285,2.3,No
+PROD00099,L'Oreal Face Wash,Beauty,Face Wash,L'Oreal,4079.4,43,337,,Yes
+PROD00100,OnePlus Tablet,ELECTRONICS,Tablet,,21358.49,150,225,2.1,Yes
+PROD00101,Rupa Journal,Books,Journal,Rupa,2735.49,20,321,4.0,Yes
+PROD00102,Adidas Knee Cap,Sports,Knee Cap,Adidas,65774.71,53,493,1.9,Yes
+PROD00103,S.Chand Cookbook,Books,Cookbook,S.Chand,64623.99,46,149,4.9,No
+PROD00104,L'Oreal Sunscreen,Beauty,Sunscreen,L'Oreal,73980.87,26,392,3.6,Yes
+PROD00105,Nivea Toner,BEAUTY,Toner,Nivea,40011.34,33,411,1.2,No
+PROD00106,Biotique Foundation,Beauty,Foundation,Biotique,,25,53,3.7,Yes
+PROD00107,Nestle Maggi,Grocery,Maggi,Nestle,1190.38,4,357,2.5,Yes
+PROD00108,Haldiram Biscuits,Grocery,Biscuits,Haldiram,2526.03,45,270,2.0,Yes
+PROD00109,Decathlon Cricket Bat,sports,Cricket Bat,Decathlon,,60,86,1.6,Yes
+PROD00110,Lenovo Smartphone,Electronics,Smartphone,Lenovo,78848.42,,281,1.7,Yes
+PROD00111,Bajaj Air Fryer,Home & Kitchen,Air Fryer,Bajaj,37041.42,29,398,3.4,yes
+PROD00112,JBL Keyboard,Electronics,Keyboard,JBL,27536.04,11,379,1.6,No
+PROD00113,Borosil Pressure Cooker,home & kitchen,Pressure Cooker,Borosil,36547.63,56,151,4.7,Yes
+PROD00114,Dell Charger,Electronics,Charger,Dell,0,48,177,1.8,Yes
+PROD00115,Rupa Self Help Book,Books,Self Help Book,Rupa,33732.64,-10,62,1.2,Yes
+PROD00116,Cello Mixer Grinder,HOME & KITCHEN,Mixer Grinder,Cello,76226.31,40,46,2.1,Yes
+PROD00117,Vector X Dumbbells,Sports,Dumbbells,Vector X,76363.93,28,434,1.5,Yes
+PROD00118,HP Laptop,Electronics,Laptop,HP,9023.3,23,99999,1.4,Yes
+PROD00119,Lakmé Moisturizer,Beauty,Moisturizer,Lakmé,-2103.07,2,394,2.3,Yes
+PROD00120,Decathlon Badminton Racket,sports,Badminton Racket,Decathlon,8953.86,150,170,2.1,No
+PROD00121,Decathlon Water Jug,Sports,Water Jug,Decathlon,57720.19,17,154,,No
+PROD00122,WOW Shampoo,Beauty,Shampoo,WOW,66464.23,52,321,4.3,Out of Stock
+PROD00123,Decathlon Badminton Racket,Sports,,Decathlon,25347.19,35,-5,-1,Yes
+PROD00124,Lenovo Smartphone,Electronics,Smartphone,Lenovo,74421.27,50,314,2.5,Available
+PROD00125,Aashirvaad Honey,Grocery,Honey,Aashirvaad,25173.16,,2,2.2,Yes
+PROD00126,Vector X Knee Cap,Sports,Knee Cap,Vector X,6389.69,25,18,2.9,No
+PROD00127,Orient Biography,Books,Biography,Orient,71301.38,45,72,3.6,Yes
+PROD00128,,Fashion,Dress,Biba,3995.18,23,186,3.3,Yes
+PROD00129,HarperCollins Journal,Books,Journal,HarperCollins,13487.07,34,374,2.3,Yes
+PROD00130,Samsung Power Bank,Electronics,Power Bank,Samsung,24194.22,57,170,2.9,No
+PROD00131,Samsung Laptop,Electronics,Laptop,Samsung,20653.38,49,317,4.4,Yes
+PROD00132,Manyavar Saree,Fashion,Saree,Manyavar,9999999,31,362,3.0,No
+PROD00133,Reebok Dumbbells,Sports,,Reebok,0,56,374,1.5,Out of Stock
+PROD00134,Orient Curtain,HOME & KITCHEN,Curtain,Orient,10515.37,38,230,4.1,Yes
+PROD00135,Hawkins Mixer Grinder,Home & Kitchen,,Hawkins,68614.92,150,386,1.6,No
+PROD00136,Biotique Shampoo,Beauty,Shampoo,Biotique,22375.38,46,165,2.9,No
+PROD00137,Manyavar Jeans,Fashion,Jeans,Manyavar,-823.55,2,242,1.5,No
+PROD00138,Nike Saree,Fashion,Saree,Nike,27870.83,10,-5,5.0,0
+PROD00139,Realme Earbuds,Electronics,,Realme,39352.61,50,249,3.8,No
+PROD00140,Zara Dress,Fashion,Dress,Zara,43649.66,12,291,4.9,No
+PROD00141,WOW Toner,Beauty,Toner,WOW,21991.97,28,50,3.5,Yes
+PROD00142,Lenovo Mouse,Electronics,Mouse,Lenovo,53473.25,8,412,,No
+PROD00143,Tata Toor Dal,Grocery,Toor Dal,Tata,14894.99,45,147,4.5,No
+PROD00144,Nike Shoes,Fashion,,Nike,42436.49,-10,279,6.5,yes
+PROD00145,Britannia Honey,Grocery,Honey,,49633.38,60,456,3.4,
+PROD00146,OnePlus Power Bank,,,OnePlus,63435.75,57,115,5.0,Yes
+PROD00147,SG Water Jug,Sports,Water Jug,SG,14070.36,34,312,4.9,0
+PROD00148,Puma Kurta,Fashion,Kurta,Puma,46016.94,48,367,0,
+PROD00149,Samsung Laptop,Electronics,Laptop,Samsung,77663.66,58,463,2.2,Yes
+PROD00150,FabIndia Shoes,FASHION,Shoes,,11325.19,0,106,2.5,
+PROD00151,MRF Resistance Band,Sports,,MRF,23000.17,45,114,1.9,Out of Stock
+PROD00152,Hawkins Pillow,Home & Kitchen,Pillow,Hawkins,59664.3,47,257,1.5,Available
+PROD00153,OnePlus Smartwatch,ELECTRONICS,Smartwatch,OnePlus,68953.53,36,370,3.2,No
+PROD00154,Dove Sunscreen,Beauty,Sunscreen,Dove,51647.59,31,345,3.5,yes
+PROD00155,Decathlon Yoga Mat,Sports,,Decathlon,65274.04,48,82,1.6,Yes
+PROD00156,Puma Belt,Fashion,Belt,Puma,-17295.48,33,205,4.2,Available
+PROD00157,Nivia Dumbbells,Sports,Dumbbells,Nivia,6032.65,31,419,2.8,No
+PROD00158,Biotique Moisturizer,Beauty,,Biotique,79381.83,12,90,4.3,No
+PROD00159,Nike Dress,Fashion,Dress,Nike,48124.09,33,273,1.0,No
+PROD00160,Arihant Textbook,Books,Textbook,,17563.5,7,185,4.9,No
+PROD00161,Realme Speaker,Electronics,Speaker,Realme,79484.02,48,327,1.1,yes
+PROD00162,Westland Textbook,Books,Textbook,Westland,38849.26,27,153,3.0,
+PROD00163,W Dress,Fashion,Dress,W,38986.47,4,338,4.1,Out of Stock
+PROD00164,W Jeans,Fashion,Jeans,W,74784.3,49,296,3.5,0
+PROD00165,Samsung Speaker,Electronics,Speaker,,50950.67,36,210,4.5,no
+PROD00166,Mi Smartwatch,Electronics,Smartwatch,Mi,38046.45,39,75,1.8,
+PROD00167,Cosco Water Jug,Sports,Water Jug,Cosco,45012.49,22,292,3.0,no
+PROD00168,Nivia Badminton Racket,Sports,,Nivia,8327.53,39,361,-1,no
+PROD00169,Dove Hair Oil,BEAUTY,Hair Oil,Dove,20946.49,0,485,2.4,Yes
+PROD00170,Apple Mouse,Electronics,Mouse,Apple,63494.09,27,58,2.8,No
+PROD00171,Oxford Dictionary,Books,Dictionary,Oxford,14615.27,31,379,0,Yes
+PROD00172,Fingerprint Journal,Books,Journal,Fingerprint,49753.66,6,201,4.1,Yes
+PROD00173,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,69182.47,47,14,4.9,No
+PROD00174,Nivia Water Jug,Sports,Water Jug,Nivia,68183.84,50,487,4.3,Yes
+PROD00175,Orient Cookbook,Books,Cookbook,Orient,74686.1,55,373,3.4,0
+PROD00176,Fingerprint Workbook,Books,Workbook,Fingerprint,5128.75,35,319,1.8,Yes
+PROD00177,Haldiram Maggi,Grocery,Maggi,Haldiram,73771.19,52,-5,4.3,Yes
+PROD00178,Bajaj Air Fryer,Home & Kitchen,Air Fryer,Bajaj,37672.0,1,408,4.0,Out of Stock
+PROD00179,Rupa Workbook,Books,Workbook,Rupa,61955.36,26,221,3.0,yes
+PROD00180,Nestle Honey,Grocery,Honey,Nestle,61140.28,30,24,4.7,Yes
+PROD00181,Lenovo Earbuds,Electronics,Earbuds,Lenovo,58339.88,42,432,2.7,Yes
+PROD00182,Arihant Comic,books,,Arihant,-59265.78,50,288,3.8,0
+PROD00183,Himalaya Lipstick,BEAUTY,Lipstick,Himalaya,18786.68,19,11,2.9,No
+PROD00184,Dove Toner,Beauty,Toner,Dove,0,45,253,2.6,Yes
+PROD00185,Aashirvaad Amul Butter,Grocery,,Aashirvaad,9999999,1,61,4.1,No
+PROD00186,H&M Saree,Fashion,Saree,H&M,1953.94,,469,2.2,Yes
+PROD00187,Fingerprint Workbook,Books,Workbook,Fingerprint,21013.4,35,165,1.7,Yes
+PROD00188,Adidas T-Shirt,Fashion,T-Shirt,Adidas,56160.71,11,16,1.6,Yes
+PROD00189,ITC Green Tea,Grocery,Green Tea,ITC,14822.92,40,341,1.4,1
+PROD00190,Nykaa Hair Oil,Beauty,Hair Oil,Nykaa,46494.65,17,307,2.7,Yes
+PROD00191,Lenovo Smartwatch,Electronics,Smartwatch,Lenovo,37449.24,0,377,4.6,
+PROD00192,Haldiram Basmati Rice,Grocery,Basmati Rice,Haldiram,76267.43,10,94,2.2,No
+PROD00193,Westland Atlas,Books,Atlas,Westland,71437.64,57,436,4.2,Yes
+PROD00194,Rupa Biography,Books,,Rupa,75571.9,51,338,3.0,Yes
+PROD00195,Prestige Pressure Cooker,Home & Kitchen,Pressure Cooker,Prestige,9999999,36,204,3.9,no
+PROD00196,MDH Maggi,Grocery,Maggi,MDH,282.92,21,144,,No
+PROD00197,MDH Amul Butter,GROCERY,Amul Butter,MDH,63193.39,7,175,3.1,No
+PROD00198,Vector X Resistance Band,Sports,Resistance Band,Vector X,22491.91,15,64,,Yes
+PROD00199,Orient Water Bottle,Home & Kitchen,,Orient,16372.53,2,346,4.6,Yes
+PROD00200,Garnier Kajal,Beauty,Kajal,Garnier,77031.54,1,433,1.5,Yes
+PROD00201,Oxford Atlas,Books,Atlas,Oxford,60532.48,27,84,4.2,No
+PROD00202,Orient Cookbook,Books,Cookbook,Orient,73660.66,60,156,3.9,Yes
+PROD00203,HarperCollins Workbook,Books,Workbook,HarperCollins,70761.81,1,463,4.6,No
+PROD00204,Manyavar Leggings,Fashion,Leggings,Manyavar,77720.95,-10,44,2.3,Yes
+PROD00205,Burnish Knee Cap,sports,Knee Cap,Burnish,61533.14,47,390,,no
+PROD00206,Cello Knife Set,home & kitchen,Knife Set,Cello,23796.37,5,188,1.4,Yes
+PROD00207,Vector X Resistance Band,Sports,Resistance Band,Vector X,27436.04,22,428,3.3,No
+PROD00208,HP Laptop,Electronics,,HP,23353.3,9,463,1.5,Yes
+PROD00209,Fingerprint Workbook,books,Workbook,Fingerprint,0,2,453,6.5,No
+PROD00210,W Saree,Fashion,Saree,W,73381.73,25,425,3.9,No
+PROD00211,Haldiram Green Tea,Grocery,Green Tea,Haldiram,22039.02,23,220,2.0,No
+PROD00212,Nike Shoes,Fashion,Shoes,Nike,61292.37,48,313,,Yes
+PROD00213,L'Oreal Toner,Beauty,Toner,L'Oreal,55957.51,40,266,1.7,1
+PROD00214,L'Oreal Moisturizer,Beauty,,L'Oreal,26730.41,11,208,1.1,Available
+PROD00215,Philips Knife Set,Home & Kitchen,Knife Set,Philips,68976.54,46,40,2.3,no
+PROD00216,Amul Atta,Grocery,Atta,Amul,62207.35,39,-5,1.3,No
+PROD00217,Realme Tablet,ELECTRONICS,Tablet,,52076.21,16,147,3.2,Out of Stock
+PROD00218,Burnish Skipping Rope,Sports,Skipping Rope,Burnish,14389.24,38,224,2.6,Yes
+PROD00219,Adidas Dupatta,Fashion,Dupatta,Adidas,28173.26,3,430,2.7,No
+PROD00220,Orient Biography,,Biography,Orient,18834.45,27,372,3.7,Yes
+PROD00221,Manyavar Dress,Fashion,Dress,Manyavar,31296.17,9,170,1.6,Yes
+PROD00222,OnePlus Power Bank,ELECTRONICS,Power Bank,OnePlus,15960.16,11,407,1.5,Yes
+PROD00223,Oxford Biography,Books,Biography,Oxford,20817.38,-10,261,4.1,No
+PROD00224,Mi Earbuds,Electronics,Earbuds,Mi,10527.87,22,283,2.4,Yes
+PROD00225,Yonex Skipping Rope,Sports,Skipping Rope,Yonex,5750.06,2,496,2.5,No
+PROD00226,Borosil Water Bottle,Home & Kitchen,Water Bottle,Borosil,34968.34,13,6,1.5,No
+PROD00227,Nike T-Shirt,Fashion,T-Shirt,Nike,10479.53,40,311,4.3,Yes
+PROD00228,Burnish Yoga Mat,Sports,Yoga Mat,Burnish,21995.17,44,341,2.1,No
+PROD00229,Yonex Yoga Mat,Sports,Yoga Mat,Yonex,23040.73,20,351,1.8,Out of Stock
+PROD00230,Westland Self Help Book,BOOKS,Self Help Book,Westland,50156.75,43,98,1.2,No
+PROD00231,Adidas Football,Sports,,Adidas,35965.08,12,370,3.1,No
+PROD00232,,Beauty,Serum,Biotique,23779.14,22,45,3.1,Yes
+PROD00233,Nike Shoes,Fashion,Shoes,Nike,74255.3,51,111,3.2,1
+PROD00234,Haldiram Green Tea,grocery,Green Tea,Haldiram,26021.88,45,183,1.2,Yes
+PROD00235,Borosil Knife Set,Home & Kitchen,Knife Set,Borosil,58414.93,52,185,3.0,Yes
+PROD00236,FabIndia T-Shirt,Fashion,,FabIndia,42363.67,21,401,2.2,No
+PROD00237,Tupperware Mixer Grinder,Home & Kitchen,Mixer Grinder,Tupperware,51089.54,57,254,4.3,Yes
+PROD00238,Tata Toor Dal,Grocery,Toor Dal,Tata,75803.48,60,-5,2.6,Yes
+PROD00239,WOW Foundation,BEAUTY,Foundation,WOW,12378.25,,178,3.1,Yes
+PROD00240,Samsung Tablet,Electronics,,Samsung,3646.14,41,461,4.0,Yes
+PROD00241,Biba Dupatta,Fashion,,Biba,38972.52,150,363,2.5,
+PROD00242,Reebok Football,Sports,Football,Reebok,24959.53,16,301,1.2,No
+PROD00243,Milton Mixer Grinder,Home & Kitchen,Mixer Grinder,Milton,34316.43,15,29,1.1,No
+PROD00244,Reebok Skipping Rope,Sports,Skipping Rope,Reebok,9999999,150,138,4.2,
+PROD00245,,Beauty,Foundation,Garnier,36421.87,52,83,1.7,No
+PROD00246,Samsung Keyboard,Electronics,Keyboard,Samsung,79093.4,29,349,3.8,No
+PROD00247,Orient Atlas,Books,,Orient,7481.04,52,243,1.5,Yes
+PROD00248,ITC Green Tea,Grocery,Green Tea,ITC,38719.64,44,458,2.1,1
+PROD00249,Adidas Dumbbells,Sports,,Adidas,6253.85,37,126,3.5,Available
+PROD00250,Dabur Saffola Oil,Grocery,Saffola Oil,Dabur,16273.56,25,282,4.4,No
+PROD00251,HarperCollins Biography,Books,Biography,HarperCollins,12393.46,28,364,4.1,No
+PROD00252,,FASHION,T-Shirt,W,43500.42,60,415,0,
+PROD00253,Pigeon Water Bottle,Home & Kitchen,Water Bottle,Pigeon,63740.0,4,456,4.6,yes
+PROD00254,Dell Charger,Electronics,Charger,Dell,46003.58,18,152,3.4,No
+PROD00255,S.Chand Journal,,Journal,S.Chand,71324.8,29,181,3.3,No
+PROD00256,Borosil Pillow,Home & Kitchen,Pillow,Borosil,73791.95,8,196,1.9,No
+PROD00257,Milton Air Fryer,Home & Kitchen,Air Fryer,Milton,13063.12,43,428,2.0,Yes
+PROD00258,MRF Dumbbells,Sports,Dumbbells,MRF,64818.25,33,141,4.8,Yes
+PROD00259,Lakmé Shampoo,Beauty,Shampoo,Lakmé,9999999,25,250,6.5,Yes
+PROD00260,Bajaj Air Fryer,HOME & KITCHEN,Air Fryer,Bajaj,56082.12,55,14,4.1,No
+PROD00261,Puma Jacket,Fashion,Jacket,Puma,65944.59,14,483,1.5,No
+PROD00262,Prestige Water Bottle,Home & Kitchen,Water Bottle,Prestige,60352.6,57,493,4.6,No
+PROD00263,Dabur Saffola Oil,Grocery,Saffola Oil,Dabur,24336.12,53,289,3.5,No
+PROD00264,Arihant Cookbook,Books,Cookbook,Arihant,78567.03,43,335,,Available
+PROD00265,H&M Jeans,Fashion,,H&M,6084.95,45,47,2.1,Yes
+PROD00266,HarperCollins Atlas,Books,Atlas,HarperCollins,24051.74,36,139,3.4,
+PROD00267,Garnier Foundation,Beauty,Foundation,Garnier,76393.54,11,68,1.4,No
+PROD00268,boAt Earbuds,Electronics,Earbuds,boAt,14926.91,55,240,1.6,No
+PROD00269,Haldiram Amul Butter,Grocery,Amul Butter,Haldiram,79706.25,49,374,4.0,Available
+PROD00270,FabIndia Kurta,Fashion,Kurta,FabIndia,,19,161,2.4,No
+PROD00271,OnePlus Power Bank,Electronics,Power Bank,OnePlus,53234.82,45,31,1.9,Yes
+PROD00272,MRF Resistance Band,Sports,Resistance Band,MRF,49740.71,1,260,1.2,Yes
+PROD00273,Philips Mop,Home & Kitchen,Mop,Philips,14455.77,,359,1.2,Yes
+PROD00274,Nivia Yoga Mat,Sports,Yoga Mat,Nivia,51494.61,48,31,1.2,No
+PROD00275,L'Oreal Foundation,Beauty,Foundation,,65706.1,46,101,3.3,No
+PROD00276,,Books,,Fingerprint,61532.27,12,137,2.0,1
+PROD00277,Realme Smartwatch,Electronics,Smartwatch,Realme,24007.83,33,39,2.2,Yes
+PROD00278,Prestige Pressure Cooker,Home & Kitchen,Pressure Cooker,Prestige,32369.39,50,245,1.2,Yes
+PROD00279,Lakmé Face Wash,Beauty,Face Wash,Lakmé,34063.86,8,274,2.5,Yes
+PROD00280,Britannia Amul Butter,Grocery,Amul Butter,Britannia,20263.32,,220,3.4,No
+PROD00281,Haldiram Amul Butter,Grocery,Amul Butter,Haldiram,14503.05,53,258,4.9,No
+PROD00282,S.Chand Textbook,Books,Textbook,S.Chand,11296.21,39,,2.2,Out of Stock
+PROD00283,Nivea Lipstick,Beauty,Lipstick,Nivea,9999999,32,149,2.7,No
+PROD00284,Orient Pressure Cooker,Home & Kitchen,Pressure Cooker,Orient,50643.93,48,128,1.0,Yes
+PROD00285,Samsung Keyboard,Electronics,,Samsung,61053.87,54,281,3.7,1
+PROD00286,Borosil Mop,Home & Kitchen,Mop,Borosil,43388.87,21,9,1.8,Yes
+PROD00287,Mamaearth Kajal,Beauty,Kajal,Mamaearth,52674.05,12,408,3.6,Yes
+PROD00288,Zara Jacket,Fashion,Jacket,Zara,35412.78,52,222,5.0,yes
+PROD00289,JBL Speaker,Electronics,Speaker,JBL,32773.07,6,408,3.8,No
+PROD00290,Disha Workbook,Books,Workbook,Disha,28106.85,33,43,4.0,No
+PROD00291,Biba Belt,Fashion,Belt,Biba,14114.54,47,190,4.4,No
+PROD00292,Yonex Badminton Racket,SPORTS,Badminton Racket,Yonex,79938.08,6,207,2.9,Yes
+PROD00293,Nykaa Sunscreen,Beauty,Sunscreen,Nykaa,30097.58,29,285,3.9,Yes
+PROD00294,Cello Mixer Grinder,Home & Kitchen,Mixer Grinder,,0,0,427,4.8,Available
+PROD00295,Dell Earbuds,Electronics,,Dell,21350.32,50,28,3.0,Out of Stock
+PROD00296,boAt Mouse,Electronics,Mouse,boAt,21976.68,21,317,3.9,Yes
+PROD00297,Biotique Face Wash,Beauty,Face Wash,Biotique,63573.78,41,453,4.8,No
+PROD00298,Samsung Laptop,Electronics,Laptop,Samsung,,10,465,3.3,Yes
+PROD00299,Lenovo Charger,Electronics,Charger,Lenovo,54990.42,10,305,3.3,Yes
+PROD00300,HarperCollins Cookbook,Books,,,0,17,168,2.0,No
+PROD00301,Himalaya Hair Oil,beauty,Hair Oil,Himalaya,65803.57,21,485,4.3,No
+PROD00302,Manyavar Dupatta,Fashion,Dupatta,Manyavar,54155.0,50,99999,4.6,No
+PROD00303,Garnier Hair Oil,Beauty,Hair Oil,Garnier,15676.47,42,472,2.4,Yes
+PROD00304,L'Oreal Sunscreen,Beauty,Sunscreen,L'Oreal,30919.82,29,493,3.0,No
+PROD00305,Westland Dictionary,Books,Dictionary,Westland,51029.67,4,,4.0,Yes
+PROD00306,Dabur Amul Butter,Grocery,Amul Butter,Dabur,37979.92,22,371,1.3,No
+PROD00307,Patanjali Honey,Grocery,Honey,Patanjali,53795.07,,99999,1.1,Yes
+PROD00308,Himalaya Lipstick,Beauty,Lipstick,,71119.42,44,253,4.0,No
+PROD00309,Decathlon Yoga Mat,Sports,Yoga Mat,Decathlon,50372.15,30,359,1.3,No
+PROD00310,Westland Workbook,Books,Workbook,,16247.49,,220,6.5,Yes
+PROD00311,Burnish Resistance Band,Sports,Resistance Band,Burnish,52036.08,4,-5,1.1,Yes
+PROD00312,Cello Pressure Cooker,Home & Kitchen,,Cello,79960.25,9,289,1.4,Yes
+PROD00313,OnePlus Mouse,Electronics,Mouse,OnePlus,48776.14,0,173,3.7,0
+PROD00314,Disha Comic,Books,Comic,Disha,33577.06,37,425,1.2,No
+PROD00315,Lenovo Laptop,Electronics,Laptop,Lenovo,76081.04,32,228,4.3,Yes
+PROD00316,Apple Earbuds,Electronics,Earbuds,Apple,4858.5,7,329,0,Yes
+PROD00317,Lenovo Earbuds,Electronics,Earbuds,Lenovo,28689.69,41,153,1.7,No
+PROD00318,Decathlon Cricket Bat,SPORTS,Cricket Bat,Decathlon,2770.92,26,216,3.4,Yes
+PROD00319,Disha Journal,Books,Journal,Disha,5357.29,32,314,3.5,no
+PROD00320,Cosco Skipping Rope,Sports,Skipping Rope,Cosco,40315.82,150,269,2.3,No
+PROD00321,Decathlon Knee Cap,Sports,Knee Cap,Decathlon,46046.39,44,410,4.7,Yes
+PROD00322,Tata Green Tea,Grocery,Green Tea,,35417.03,3,472,5.0,No
+PROD00323,Realme Power Bank,Electronics,Power Bank,Realme,47314.96,25,109,2.8,No
+PROD00324,Mamaearth Lipstick,Beauty,Lipstick,Mamaearth,49939.51,13,229,1.6,Yes
+PROD00325,S.Chand Textbook,Books,Textbook,S.Chand,51398.24,24,444,1.0,yes
+PROD00326,Fingerprint Textbook,Books,Textbook,Fingerprint,75185.46,48,,3.8,Yes
+PROD00327,Fingerprint Self Help Book,Books,Self Help Book,Fingerprint,6888.97,59,91,2.4,Yes
+PROD00328,FabIndia Belt,Fashion,Belt,FabIndia,77058.11,47,489,0,Yes
+PROD00329,Dabur Toor Dal,Grocery,Toor Dal,Dabur,-295.09,36,433,2.8,No
+PROD00330,Amul Basmati Rice,grocery,Basmati Rice,Amul,3891.29,28,199,4.2,No
+PROD00331,FabIndia Belt,Fashion,Belt,FabIndia,50839.86,-10,281,3.5,No
+PROD00332,S.Chand Workbook,Books,Workbook,S.Chand,30890.69,51,161,4.0,No
+PROD00333,SG Cricket Bat,Sports,Cricket Bat,SG,17341.26,24,440,1.6,No
+PROD00334,Pigeon Bed Sheet,Home & Kitchen,Bed Sheet,Pigeon,2945.76,19,170,2.6,No
+PROD00335,Tata Saffola Oil,Grocery,Saffola Oil,Tata,64860.97,35,325,,Yes
+PROD00336,Borosil Mop,Home & Kitchen,Mop,Borosil,30605.25,,441,1.8,Yes
+PROD00337,Dove Sunscreen,Beauty,Sunscreen,Dove,62904.42,18,49,1.9,No
+PROD00338,Mi Smartwatch,Electronics,Smartwatch,Mi,44785.54,58,263,1.4,No
+PROD00339,Aashirvaad Honey,Grocery,Honey,Aashirvaad,-73459.27,24,377,4.1,Out of Stock
+PROD00340,Biba Dupatta,FASHION,Dupatta,Biba,64706.47,8,112,3.9,yes
+PROD00341,MDH Toor Dal,Grocery,Toor Dal,MDH,64116.05,1,105,4.6,No
+PROD00342,boAt Keyboard,Electronics,,boAt,52438.2,20,201,2.1,Out of Stock
+PROD00343,Pigeon Pressure Cooker,Home & Kitchen,,Pigeon,75290.63,26,233,3.2,Yes
+PROD00344,Haldiram Saffola Oil,Grocery,Saffola Oil,,18204.66,150,411,2.1,Out of Stock
+PROD00345,S.Chand Novel,Books,Novel,S.Chand,-76973.1,17,436,1.6,No
+PROD00346,Mi Laptop,Electronics,Laptop,Mi,69124.81,47,365,4.3,No
+PROD00347,Nike Dupatta,Fashion,Dupatta,Nike,24608.9,44,190,1.3,Yes
+PROD00348,Adidas Dress,Fashion,Dress,Adidas,,27,326,2.5,No
+PROD00349,,Electronics,,JBL,22329.22,6,93,-1,No
+PROD00350,Dove Moisturizer,,Moisturizer,Dove,23459.12,-10,434,4.7,0
+PROD00351,Hawkins Mop,Home & Kitchen,Mop,,48337.42,34,434,4.7,No
+PROD00352,Philips Mixer Grinder,Home & Kitchen,Mixer Grinder,Philips,73982.82,16,29,4.2,No
+PROD00353,Manyavar Leggings,Fashion,,Manyavar,67028.85,45,477,6.5,No
+PROD00354,Bajaj Pillow,home & kitchen,Pillow,Bajaj,3837.47,-10,345,3.2,Yes
+PROD00355,HP Earbuds,Electronics,Earbuds,HP,31216.83,26,129,1.7,No
+PROD00356,FabIndia Kurta,Fashion,Kurta,FabIndia,10312.15,57,237,,Yes
+PROD00357,Fingerprint Novel,Books,Novel,Fingerprint,78051.16,7,216,1.0,No
+PROD00358,Dove Hair Oil,Beauty,Hair Oil,Dove,8729.25,28,307,1.4,Yes
+PROD00359,Amul Toor Dal,Grocery,Toor Dal,Amul,9999999,10,250,3.3,No
+PROD00360,W Dupatta,Fashion,,W,75392.35,46,128,1.7,No
+PROD00361,Garnier Foundation,Beauty,Foundation,Garnier,28662.65,52,-5,4.9,No
+PROD00362,Nike Saree,Fashion,Saree,Nike,76268.65,50,205,2.7,No
+PROD00363,Puma Dress,Fashion,Dress,Puma,49134.76,37,303,-1,No
+PROD00364,Mi Keyboard,Electronics,Keyboard,Mi,38802.77,52,119,1.9,Yes
+PROD00365,Vector X Yoga Mat,SPORTS,Yoga Mat,,46395.94,38,357,0,No
+PROD00366,Tupperware Pressure Cooker,Home & Kitchen,Pressure Cooker,Tupperware,59863.1,150,24,4.2,Yes
+PROD00367,Tupperware Pillow,Home & Kitchen,Pillow,,41687.77,17,442,2.9,1
+PROD00368,Disha Journal,BOOKS,Journal,Disha,51396.78,,156,3.2,Yes
+PROD00369,Milton Tiffin Box,home & kitchen,Tiffin Box,Milton,10007.18,37,-5,1.7,No
+PROD00370,Dove Lipstick,beauty,Lipstick,Dove,15332.54,34,,3.7,No
+PROD00371,,home & kitchen,Knife Set,,27337.53,29,315,4.7,Yes
+PROD00372,Samsung Keyboard,Electronics,Keyboard,Samsung,28415.05,15,338,2.6,Yes
+PROD00373,H&M Jeans,Fashion,Jeans,H&M,59731.79,55,-5,1.4,Yes
+PROD00374,Oxford Atlas,Books,,Oxford,65073.09,,65,2.6,No
+PROD00375,ITC Honey,Grocery,Honey,ITC,4517.14,51,18,2.2,
+PROD00376,,Fashion,Dress,Adidas,51656.26,15,328,3.1,Out of Stock
+PROD00377,Mi Smartwatch,Electronics,Smartwatch,Mi,415.84,11,431,1.5,yes
+PROD00378,OnePlus Smartwatch,Electronics,Smartwatch,OnePlus,-39000.48,60,131,2.9,Yes
+PROD00379,Mi Mouse,Electronics,,Mi,59063.16,48,473,2.6,No
+PROD00380,Rupa Atlas,books,Atlas,Rupa,19628.17,24,60,2.5,No
+PROD00381,Realme Earbuds,Electronics,Earbuds,Realme,47018.55,54,85,1.4,No
+PROD00382,Hawkins Curtain,Home & Kitchen,Curtain,Hawkins,,58,487,1.4,
+PROD00383,Tupperware Bed Sheet,Home & Kitchen,Bed Sheet,Tupperware,-35031.92,58,235,2.0,Yes
+PROD00384,,Grocery,Toor Dal,Haldiram,36958.77,29,178,2.4,Yes
+PROD00385,Arihant Novel,BOOKS,Novel,Arihant,7237.19,60,41,1.0,no
+PROD00386,Pigeon Curtain,home & kitchen,Curtain,Pigeon,43615.91,58,369,1.4,no
+PROD00387,Adidas Jacket,Fashion,Jacket,Adidas,67878.11,22,120,1.8,No
+PROD00388,Tupperware Pillow,Home & Kitchen,Pillow,Tupperware,74988.17,0,198,4.0,Yes
+PROD00389,Prestige Curtain,Home & Kitchen,Curtain,Prestige,47762.95,53,5,3.5,Yes
+PROD00390,Britannia Atta,Grocery,Atta,Britannia,68035.96,10,99999,3.9,No
+PROD00391,Realme Keyboard,Electronics,Keyboard,Realme,34661.65,12,455,1.2,Yes
+PROD00392,Nykaa Foundation,Beauty,Foundation,Nykaa,9999999,5,482,3.5,No
+PROD00393,,Sports,Skipping Rope,Reebok,29209.88,39,159,3.3,No
+PROD00394,Vector X Skipping Rope,Sports,Skipping Rope,Vector X,54195.29,39,67,1.1,Yes
+PROD00395,Adidas Cycling Gloves,Sports,Cycling Gloves,Adidas,22155.46,21,132,4.7,No
+PROD00396,Nykaa Sunscreen,Beauty,Sunscreen,Nykaa,42464.29,60,62,2.1,No
+PROD00397,Dove Sunscreen,beauty,Sunscreen,Dove,48304.19,,346,2.1,Yes
+PROD00398,Prestige Mop,Home & Kitchen,Mop,Prestige,20085.78,2,180,2.6,Yes
+PROD00399,Pigeon Water Bottle,Home & Kitchen,Water Bottle,Pigeon,14893.79,53,208,2.4,no
+PROD00400,Reebok Dumbbells,Sports,Dumbbells,Reebok,45770.22,54,226,4.2,Yes
+PROD00401,Nivia Water Jug,Sports,Water Jug,Nivia,35880.38,58,359,4.0,Yes
+PROD00402,Nestle Atta,Grocery,Atta,Nestle,0,22,345,4.9,No
+PROD00403,HP Mouse,Electronics,Mouse,HP,24497.35,20,490,-1,Yes
+PROD00404,Nivia Football,SPORTS,Football,Nivia,42548.05,19,238,2.8,No
+PROD00405,Dabur Biscuits,Grocery,Biscuits,Dabur,15801.39,28,169,1.8,No
+PROD00406,SG Badminton Racket,Sports,Badminton Racket,SG,23593.71,17,10,4.4,Yes
+PROD00407,Orient Biography,Books,Biography,Orient,65746.9,150,260,2.1,Yes
+PROD00408,Mi Power Bank,Electronics,Power Bank,Mi,47691.88,33,197,1.0,No
+PROD00409,Pigeon Mixer Grinder,HOME & KITCHEN,Mixer Grinder,,38467.6,9,45,4.7,No
+PROD00410,Dell Power Bank,Electronics,Power Bank,Dell,60422.16,15,320,4.9,No
+PROD00411,Burnish Cycling Gloves,Sports,Cycling Gloves,Burnish,9933.84,35,433,3.4,0
+PROD00412,Britannia Toor Dal,Grocery,Toor Dal,Britannia,56316.62,10,467,3.2,Yes
+PROD00413,S.Chand Novel,BOOKS,Novel,S.Chand,38160.38,19,19,4.4,Yes
+PROD00414,Prestige Water Bottle,Home & Kitchen,Water Bottle,Prestige,38883.22,27,125,4.0,No
+PROD00415,,Electronics,,Dell,49645.87,6,231,1.9,yes
+PROD00416,Oxford Journal,,Journal,Oxford,-53697.78,48,474,2.5,yes
+PROD00417,Biba Jacket,Fashion,Jacket,,12531.56,17,414,1.4,No
+PROD00418,Realme Smartphone,Electronics,,,49063.71,39,301,2.7,No
+PROD00419,Garnier Shampoo,Beauty,Shampoo,Garnier,10061.78,24,469,2.5,No
+PROD00420,Rupa Atlas,BOOKS,Atlas,Rupa,4765.97,38,402,2.2,0
+PROD00421,ITC Atta,Grocery,Atta,ITC,51730.44,4,95,1.1,1
+PROD00422,Lakmé Kajal,Beauty,Kajal,,75404.52,24,380,1.6,No
+PROD00423,Penguin Journal,Books,Journal,Penguin,44560.72,60,-5,2.4,Yes
+PROD00424,Orient Pillow,Home & Kitchen,Pillow,Orient,22108.19,41,70,4.5,No
+PROD00425,Arihant Atlas,BOOKS,,Arihant,76577.67,45,266,0,Yes
+PROD00426,Mamaearth Moisturizer,Beauty,Moisturizer,Mamaearth,30333.15,-10,331,3.2,Yes
+PROD00427,ITC Honey,Grocery,Honey,ITC,62864.85,16,112,4.3,
+PROD00428,Decathlon Resistance Band,Sports,Resistance Band,Decathlon,17796.91,25,460,1.8,No
+PROD00429,Decathlon Cycling Gloves,Sports,Cycling Gloves,Decathlon,32330.34,33,343,4.8,Yes
+PROD00430,Lakmé Serum,Beauty,Serum,Lakmé,69972.38,0,394,4.4,Yes
+PROD00431,OnePlus Tablet,Electronics,Tablet,,63727.33,31,355,3.4,No
+PROD00432,Britannia Saffola Oil,Grocery,Saffola Oil,,61524.58,25,36,4.1,no
+PROD00433,Biba Belt,Fashion,Belt,Biba,25566.71,150,107,3.1,Available
+PROD00434,Burnish Resistance Band,Sports,Resistance Band,Burnish,60678.71,24,149,4.5,No
+PROD00435,,Sports,Knee Cap,Decathlon,49638.75,14,367,1.0,Yes
+PROD00436,Orient Comic,Books,Comic,Orient,11000.11,-10,427,,No
+PROD00437,Apple Smartphone,Electronics,Smartphone,Apple,29952.79,13,282,4.4,yes
+PROD00438,Lakmé Lipstick,BEAUTY,Lipstick,Lakmé,68289.6,29,458,3.6,no
+PROD00439,Philips Knife Set,Home & Kitchen,Knife Set,Philips,39472.57,45,296,1.5,No
+PROD00440,WOW Moisturizer,Beauty,Moisturizer,WOW,78211.28,1,454,4.6,No
+PROD00441,Fingerprint Textbook,Books,Textbook,Fingerprint,0,12,211,2.5,No
+PROD00442,Dabur Salt,Grocery,Salt,Dabur,49571.51,43,12,4.6,Yes
+PROD00443,WOW Serum,Beauty,Serum,WOW,16556.43,21,0,1.7,No
+PROD00444,,Beauty,Lipstick,Himalaya,40103.21,32,403,1.6,Yes
+PROD00445,L'Oreal Lipstick,Beauty,Lipstick,,76640.18,11,212,4.5,Yes
+PROD00446,Decathlon Cricket Bat,Sports,Cricket Bat,,11291.77,23,241,0,No
+PROD00447,Milton Bed Sheet,Home & Kitchen,Bed Sheet,Milton,7940.45,46,34,1.7,No
+PROD00448,W Dupatta,Fashion,Dupatta,W,2496.01,50,127,4.4,Yes
+PROD00449,WOW Toner,Beauty,Toner,,47440.06,15,53,2.8,Yes
+PROD00450,Biba Dress,Fashion,Dress,Biba,69397.67,60,103,2.2,No
+PROD00451,Nivea Serum,Beauty,Serum,Nivea,9896.91,23,15,2.1,no
+PROD00452,Tata Basmati Rice,Grocery,Basmati Rice,Tata,37594.26,,9,1.7,No
+PROD00453,Samsung Tablet,Electronics,Tablet,Samsung,14925.99,32,129,,1
+PROD00454,Oxford Workbook,Books,Workbook,Oxford,66631.67,,253,1.3,Yes
+PROD00455,Aashirvaad Saffola Oil,Grocery,,Aashirvaad,53879.18,53,315,1.2,No
+PROD00456,Bajaj Curtain,Home & Kitchen,,Bajaj,-21128.91,47,478,4.1,Yes
+PROD00457,Adidas Dress,Fashion,Dress,Adidas,12091.06,9,112,2.2,Yes
+PROD00458,H&M Kurta,Fashion,Kurta,H&M,61200.33,56,440,2.6,Yes
+PROD00459,,Beauty,Moisturizer,Himalaya,22797.1,19,194,1.3,No
+PROD00460,Garnier Foundation,Beauty,Foundation,Garnier,0,58,216,2.5,
+PROD00461,Arihant Self Help Book,books,Self Help Book,Arihant,57462.01,39,64,4.2,No
+PROD00462,Cosco Yoga Mat,Sports,Yoga Mat,Cosco,41584.5,,241,4.5,No
+PROD00463,Biotique Shampoo,Beauty,Shampoo,Biotique,9726.91,52,55,2.3,Yes
+PROD00464,MDH Toor Dal,grocery,,MDH,38886.98,37,46,2.4,Yes
+PROD00465,Bajaj Pressure Cooker,Home & Kitchen,,Bajaj,70644.83,50,458,3.6,Yes
+PROD00466,HP Speaker,Electronics,Speaker,HP,74816.01,7,410,3.2,No
+PROD00467,Reebok Football,sports,Football,Reebok,60795.28,6,343,4.3,Out of Stock
+PROD00468,Rupa Comic,Books,,,,2,14,1.9,Yes
+PROD00469,Burnish Dumbbells,Sports,Dumbbells,Burnish,,40,222,1.7,no
+PROD00470,Orient Textbook,Books,Textbook,Orient,2034.11,16,102,3.4,No
+PROD00471,Yonex Football,Sports,Football,Yonex,47664.16,56,372,4.3,Yes
+PROD00472,Fingerprint Atlas,Books,Atlas,Fingerprint,4129.77,42,14,3.0,Yes
+PROD00473,Amul Salt,Grocery,Salt,Amul,3918.04,25,465,1.3,Yes
+PROD00474,Cosco Cycling Gloves,Sports,Cycling Gloves,Cosco,,-10,180,2.4,Yes
+PROD00475,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,1532.8,23,367,4.1,No
+PROD00476,Dove Lipstick,BEAUTY,Lipstick,Dove,-73118.41,37,448,2.4,Yes
+PROD00477,Nestle Basmati Rice,Grocery,Basmati Rice,Nestle,72004.57,19,461,1.4,No
+PROD00478,Nykaa Foundation,Beauty,Foundation,Nykaa,21298.61,10,145,4.4,0
+PROD00479,Philips Air Fryer,Home & Kitchen,Air Fryer,Philips,18264.09,,341,2.7,Yes
+PROD00480,Philips Pillow,home & kitchen,Pillow,Philips,15757.6,55,179,3.8,Out of Stock
+PROD00481,Samsung Keyboard,Electronics,Keyboard,Samsung,74083.56,17,469,1.3,Yes
+PROD00482,Burnish Dumbbells,Sports,Dumbbells,Burnish,46582.34,41,70,2.6,0
+PROD00483,Aashirvaad Green Tea,Grocery,Green Tea,Aashirvaad,26111.25,35,75,2.5,Yes
+PROD00484,Orient Journal,Books,Journal,,27852.93,-10,467,2.0,Yes
+PROD00485,HP Keyboard,Electronics,Keyboard,HP,30005.44,23,348,3.7,No
+PROD00486,Prestige Knife Set,Home & Kitchen,Knife Set,Prestige,75800.38,21,309,2.1,No
+PROD00487,Arihant Comic,Books,Comic,Arihant,78537.9,43,287,3.5,Out of Stock
+PROD00488,Adidas Leggings,Fashion,Leggings,Adidas,,38,142,2.4,No
+PROD00489,Burnish Yoga Mat,Sports,Yoga Mat,Burnish,35626.68,24,277,2.3,No
+PROD00490,Puma Shoes,Fashion,Shoes,Puma,,22,108,6.5,1
+PROD00491,S.Chand Atlas,Books,Atlas,,67966.88,54,484,1.1,1
+PROD00492,W Leggings,Fashion,Leggings,W,50515.28,51,384,2.6,No
+PROD00493,HarperCollins Dictionary,Books,Dictionary,HarperCollins,35139.29,46,487,5.0,Yes
+PROD00494,Reebok Cycling Gloves,Sports,Cycling Gloves,Reebok,30602.4,5,316,3.5,Yes
+PROD00495,Mamaearth Shampoo,Beauty,Shampoo,Mamaearth,52397.13,47,410,1.1,No
+PROD00496,Mi Earbuds,Electronics,Earbuds,Mi,28824.57,25,282,1.5,Yes
+PROD00497,Nivia Cricket Bat,Sports,Cricket Bat,Nivia,58356.89,17,328,1.2,No
+PROD00498,Arihant Journal,BOOKS,Journal,Arihant,38923.86,3,487,2.2,Yes
+PROD00499,Mamaearth Sunscreen,Beauty,Sunscreen,Mamaearth,20096.11,8,278,,Yes
+PROD00500,,Grocery,Salt,ITC,8216.52,35,141,1.2,Yes
+PROD00501,Milton Pressure Cooker,Home & Kitchen,Pressure Cooker,Milton,0,28,80,0,Yes
+PROD00502,Penguin Atlas,Books,Atlas,Penguin,61880.59,-10,176,4.7,No
+PROD00503,,Electronics,Earbuds,Dell,4174.61,60,451,2.9,No
+PROD00504,Mi Mouse,Electronics,Mouse,Mi,-60115.51,57,420,1.4,Yes
+PROD00505,Orient Workbook,Books,Workbook,Orient,20993.85,44,147,3.9,1
+PROD00506,Lakmé Toner,Beauty,Toner,Lakmé,72355.9,42,480,3.5,yes
+PROD00507,Adidas Dupatta,Fashion,Dupatta,Adidas,-53173.31,18,480,4.3,Yes
+PROD00508,Reebok Cricket Bat,Sports,Cricket Bat,Reebok,14608.21,55,380,3.0,No
+PROD00509,Manyavar Dupatta,Fashion,Dupatta,Manyavar,6377.13,,43,3.0,Available
+PROD00510,Penguin Textbook,Books,Textbook,Penguin,25711.67,58,56,3.7,Out of Stock
+PROD00511,,Beauty,Face Wash,Biotique,30701.14,57,476,1.5,Yes
+PROD00512,Mamaearth Lipstick,BEAUTY,Lipstick,Mamaearth,21737.31,41,284,2.3,No
+PROD00513,Tata Green Tea,Grocery,Green Tea,Tata,74947.3,,347,4.7,Yes
+PROD00514,Penguin Workbook,Books,Workbook,Penguin,9999999,20,33,4.6,No
+PROD00515,Orient Textbook,Books,Textbook,Orient,57722.54,9,254,3.7,Yes
+PROD00516,Nykaa Serum,Beauty,Serum,Nykaa,58650.23,150,224,3.9,Available
+PROD00517,Nestle Green Tea,Grocery,Green Tea,Nestle,76789.87,56,317,5.0,Yes
+PROD00518,Nike Leggings,Fashion,Leggings,Nike,12180.26,45,27,2.2,No
+PROD00519,S.Chand Novel,Books,Novel,S.Chand,56328.77,3,400,1.8,No
+PROD00520,Vector X Cricket Bat,Sports,Cricket Bat,Vector X,30382.67,28,435,1.4,Yes
+PROD00521,SG Resistance Band,Sports,Resistance Band,SG,14609.31,36,446,3.9,No
+PROD00522,S.Chand Journal,BOOKS,Journal,S.Chand,57190.14,54,445,3.1,No
+PROD00523,Nestle Green Tea,Grocery,,Nestle,-59266.97,6,279,4.4,No
+PROD00524,Reebok Water Jug,Sports,Water Jug,Reebok,44121.03,49,484,0,Yes
+PROD00525,W Saree,Fashion,Saree,W,79090.48,60,293,1.5,Yes
+PROD00526,boAt Mouse,ELECTRONICS,Mouse,boAt,9999999,0,32,1.1,No
+PROD00527,OnePlus Power Bank,electronics,Power Bank,OnePlus,74384.35,19,316,1.4,0
+PROD00528,Decathlon Football,Sports,Football,Decathlon,0,150,500,2.0,No
+PROD00529,Manyavar Belt,Fashion,Belt,Manyavar,26820.61,150,270,1.2,No
+PROD00530,OnePlus Tablet,Electronics,Tablet,OnePlus,39296.4,21,484,3.1,No
+PROD00531,Biotique Face Wash,beauty,Face Wash,Biotique,35714.88,46,413,4.8,Yes
+PROD00532,Haldiram Honey,Grocery,Honey,Haldiram,47944.74,59,29,4.7,No
+PROD00533,Oxford Cookbook,Books,,Oxford,12276.28,10,386,3.0,Yes
+PROD00534,Puma Leggings,Fashion,Leggings,Puma,21768.78,16,88,3.9,No
+PROD00535,Nivea Shampoo,beauty,Shampoo,Nivea,26546.56,1,149,4.5,Available
+PROD00536,L'Oreal Sunscreen,Beauty,Sunscreen,L'Oreal,425.31,23,167,2.3,No
+PROD00537,Nykaa Toner,Beauty,Toner,Nykaa,44469.38,-10,20,1.2,No
+PROD00538,WOW Serum,Beauty,,WOW,72628.04,,354,6.5,No
+PROD00539,Realme Mouse,Electronics,Mouse,Realme,67381.05,41,99999,1.4,Yes
+PROD00540,Adidas Belt,Fashion,Belt,Adidas,27893.53,20,70,5.0,Yes
+PROD00541,Lenovo Charger,Electronics,Charger,Lenovo,9915.59,49,355,4.6,Yes
+PROD00542,Lakmé Kajal,Beauty,Kajal,,64038.53,5,159,1.1,Yes
+PROD00543,Cello Tiffin Box,Home & Kitchen,Tiffin Box,Cello,13398.44,33,222,4.1,Yes
+PROD00544,Dell Power Bank,Electronics,Power Bank,Dell,246.35,38,248,4.7,Yes
+PROD00545,Garnier Moisturizer,Beauty,Moisturizer,Garnier,77638.94,9,431,1.3,1
+PROD00546,Pigeon Mixer Grinder,Home & Kitchen,Mixer Grinder,Pigeon,36122.31,30,136,3.0,Yes
+PROD00547,Nykaa Sunscreen,BEAUTY,Sunscreen,Nykaa,25260.47,60,30,2.0,Yes
+PROD00548,JBL Speaker,Electronics,Speaker,JBL,40715.61,42,29,3.7,no
+PROD00549,Lenovo Charger,Electronics,Charger,Lenovo,70.72,52,280,3.2,No
+PROD00550,S.Chand Cookbook,Books,Cookbook,S.Chand,41758.24,,440,3.2,yes
+PROD00551,Yonex Knee Cap,Sports,,Yonex,28759.32,13,85,4.8,No
+PROD00552,Burnish Cricket Bat,Sports,Cricket Bat,Burnish,51868.59,52,288,2.2,Yes
+PROD00553,,BEAUTY,Lipstick,,-77403.15,10,492,4.8,Available
+PROD00554,Adidas Badminton Racket,Sports,Badminton Racket,Adidas,71184.94,19,81,2.5,0
+PROD00555,Arihant Self Help Book,Books,Self Help Book,Arihant,20737.62,35,409,5.0,Yes
+PROD00556,Dell Speaker,Electronics,Speaker,Dell,18034.53,60,287,1.4,Yes
+PROD00557,MRF Knee Cap,SPORTS,Knee Cap,MRF,20001.53,34,380,1.8,No
+PROD00558,HP Keyboard,Electronics,Keyboard,HP,17795.38,59,192,3.1,No
+PROD00559,MRF Water Jug,Sports,Water Jug,MRF,29739.58,41,426,4.9,Yes
+PROD00560,,Electronics,Speaker,Realme,42857.44,-10,332,,no
+PROD00561,Adidas Dumbbells,Sports,Dumbbells,Adidas,19304.24,6,151,4.8,Yes
+PROD00562,Disha Self Help Book,Books,Self Help Book,Disha,59817.21,25,241,4.9,Available
+PROD00563,,Fashion,Leggings,Nike,9999999,54,246,1.8,Yes
+PROD00564,Nestle Salt,Grocery,Salt,Nestle,1636.95,46,400,1.4,Yes
+PROD00565,Arihant Textbook,Books,Textbook,Arihant,5856.79,36,487,2.0,Yes
+PROD00566,Westland Textbook,BOOKS,Textbook,,9999999,37,457,2.3,No
+PROD00567,Biotique Kajal,Beauty,Kajal,Biotique,14704.2,5,430,3.0,No
+PROD00568,Lakmé Kajal,,Kajal,Lakmé,27138.72,6,97,2.0,No
+PROD00569,Bajaj Mop,Home & Kitchen,Mop,Bajaj,42838.83,49,239,2.0,Out of Stock
+PROD00570,Aashirvaad Green Tea,Grocery,Green Tea,Aashirvaad,11084.46,30,218,1.3,1
+PROD00571,S.Chand Atlas,BOOKS,Atlas,S.Chand,36973.73,39,290,4.8,Yes
+PROD00572,Disha Comic,Books,Comic,Disha,28946.39,4,148,3.1,Out of Stock
+PROD00573,Nivia Cricket Bat,SPORTS,,Nivia,36150.77,33,468,1.2,No
+PROD00574,Lenovo Speaker,Electronics,Speaker,Lenovo,3040.91,28,255,0,Yes
+PROD00575,Amul Biscuits,Grocery,,Amul,59919.75,42,134,5.0,Yes
+PROD00576,FabIndia Saree,Fashion,Saree,FabIndia,79662.42,36,116,4.9,No
+PROD00577,JBL Mouse,Electronics,Mouse,JBL,70011.49,39,76,3.1,No
+PROD00578,Realme Power Bank,Electronics,Power Bank,Realme,71965.48,29,354,1.8,No
+PROD00579,HarperCollins Comic,Books,Comic,HarperCollins,45340.62,9,426,1.1,Yes
+PROD00580,Reebok Resistance Band,Sports,Resistance Band,Reebok,13747.47,43,403,1.2,No
+PROD00581,,Sports,Water Jug,,365.67,53,144,1.9,Yes
+PROD00582,Realme Mouse,Electronics,Mouse,Realme,27169.84,57,82,3.7,Yes
+PROD00583,FabIndia Kurta,FASHION,Kurta,FabIndia,15244.88,30,494,4.0,no
+PROD00584,Burnish Knee Cap,Sports,,Burnish,42462.2,41,139,4.0,no
+PROD00585,Lenovo Charger,Electronics,Charger,Lenovo,77453.58,3,307,3.6,Yes
+PROD00586,Adidas Shoes,Fashion,,Adidas,26246.34,,432,3.8,No
+PROD00587,,FASHION,Jeans,,49998.24,40,294,3.1,Out of Stock
+PROD00588,Cello Pressure Cooker,Home & Kitchen,Pressure Cooker,Cello,0,8,149,3.5,Yes
+PROD00589,Vector X Yoga Mat,Sports,Yoga Mat,Vector X,72245.95,16,63,3.3,No
+PROD00590,Milton Air Fryer,Home & Kitchen,Air Fryer,Milton,-31520.69,54,231,2.7,Yes
+PROD00591,HarperCollins Journal,Books,Journal,HarperCollins,27260.27,22,229,3.0,1
+PROD00592,ITC Green Tea,Grocery,Green Tea,ITC,2398.74,12,329,6.5,Yes
+PROD00593,FabIndia Dupatta,Fashion,Dupatta,FabIndia,33177.88,34,65,3.0,Yes
+PROD00594,S.Chand Novel,Books,Novel,S.Chand,10746.45,32,148,3.5,Yes
+PROD00595,Patanjali Toor Dal,Grocery,,Patanjali,988.25,44,442,1.7,No
+PROD00596,Fingerprint Journal,BOOKS,Journal,Fingerprint,36021.52,36,344,-1,Yes
+PROD00597,Puma Leggings,FASHION,Leggings,Puma,65558.13,23,88,2.7,Out of Stock
+PROD00598,Britannia Salt,Grocery,Salt,Britannia,25469.71,23,480,0,No
+PROD00599,Biba Leggings,FASHION,Leggings,Biba,51635.14,150,-5,0,No
+PROD00600,S.Chand Textbook,Books,Textbook,,-68799.89,35,412,3.8,Yes
+PROD00601,Orient Dictionary,Books,Dictionary,,888.55,6,108,1.3,No
+PROD00602,Vector X Football,Sports,Football,Vector X,42477.1,55,351,3.6,No
+PROD00603,Realme Smartwatch,Electronics,Smartwatch,Realme,55439.84,26,307,1.6,Yes
+PROD00604,Borosil Bed Sheet,Home & Kitchen,Bed Sheet,Borosil,10935.78,0,436,4.2,Yes
+PROD00605,,Electronics,Mouse,OnePlus,40854.82,9,388,2.4,yes
+PROD00606,Realme Laptop,Electronics,Laptop,,51382.76,59,-5,4.8,Yes
+PROD00607,Prestige Knife Set,HOME & KITCHEN,Knife Set,Prestige,4858.86,2,163,2.8,No
+PROD00608,Reebok Football,Sports,Football,Reebok,-40949.09,37,263,4.0,Yes
+PROD00609,W Dupatta,Fashion,,W,18261.92,150,4,-1,No
+PROD00610,Dabur Salt,Grocery,Salt,Dabur,66364.11,35,357,6.5,Yes
+PROD00611,L'Oreal Serum,beauty,Serum,L'Oreal,53266.67,21,333,1.8,No
+PROD00612,Garnier Moisturizer,BEAUTY,Moisturizer,Garnier,,12,215,4.5,No
+PROD00613,Lakmé Sunscreen,Beauty,Sunscreen,Lakmé,74714.32,25,309,4.1,No
+PROD00614,Apple Smartphone,Electronics,Smartphone,Apple,49990.14,150,195,1.7,No
+PROD00615,Bajaj Pillow,Home & Kitchen,Pillow,Bajaj,19296.29,31,105,3.8,No
+PROD00616,Samsung Speaker,electronics,Speaker,Samsung,27622.98,58,434,3.7,Yes
+PROD00617,Amul Biscuits,GROCERY,Biscuits,Amul,45944.97,35,159,2.9,No
+PROD00618,Orient Novel,Books,,Orient,70440.84,49,409,1.4,Yes
+PROD00619,Biba Dress,Fashion,Dress,Biba,21952.77,22,264,1.1,No
+PROD00620,Yonex Cycling Gloves,SPORTS,Cycling Gloves,Yonex,-79925.66,39,332,,No
+PROD00621,Bajaj Pillow,Home & Kitchen,,Bajaj,61423.55,8,392,4.7,No
+PROD00622,Lenovo Smartwatch,Electronics,Smartwatch,Lenovo,51668.87,,180,1.6,No
+PROD00623,MRF Football,Sports,Football,MRF,77599.4,150,34,2.6,Yes
+PROD00624,Hawkins Water Bottle,Home & Kitchen,Water Bottle,Hawkins,45312.58,4,112,3.3,Yes
+PROD00625,Adidas T-Shirt,Fashion,T-Shirt,Adidas,66102.73,47,48,6.5,No
+PROD00626,Philips Mop,HOME & KITCHEN,Mop,Philips,9878.7,46,383,4.3,Yes
+PROD00627,Borosil Pressure Cooker,home & kitchen,Pressure Cooker,Borosil,29095.35,8,193,4.7,Yes
+PROD00628,Dabur Honey,Grocery,Honey,Dabur,11446.28,52,369,-1,No
+PROD00629,Biotique Face Wash,BEAUTY,Face Wash,Biotique,16880.59,30,231,3.2,Yes
+PROD00630,Rupa Workbook,Books,Workbook,Rupa,34787.88,49,41,4.5,Yes
+PROD00631,Penguin Biography,Books,Biography,Penguin,3407.77,56,42,3.8,No
+PROD00632,SG Cycling Gloves,Sports,Cycling Gloves,SG,66458.44,0,238,2.7,Yes
+PROD00633,Reebok Cycling Gloves,Sports,Cycling Gloves,Reebok,34832.77,20,14,2.5,No
+PROD00634,Manyavar Kurta,Fashion,Kurta,Manyavar,-58930.2,58,428,2.7,Yes
+PROD00635,Tupperware Pressure Cooker,Home & Kitchen,Pressure Cooker,Tupperware,4783.41,15,76,2.6,Yes
+PROD00636,Disha Atlas,Books,Atlas,Disha,,12,274,2.5,Yes
+PROD00637,W Dress,Fashion,Dress,,11204.94,150,99999,1.5,yes
+PROD00638,Puma T-Shirt,Fashion,T-Shirt,Puma,40227.3,34,372,2.0,No
+PROD00639,Penguin Dictionary,Books,Dictionary,Penguin,52480.74,54,3,4.4,yes
+PROD00640,Disha Journal,Books,Journal,Disha,52775.81,5,270,4.2,No
+PROD00641,Oxford Atlas,Books,Atlas,Oxford,3475.85,19,317,3.2,Available
+PROD00642,L'Oreal Kajal,Beauty,Kajal,L'Oreal,51165.6,18,236,6.5,No
+PROD00643,MRF Football,Sports,Football,MRF,69589.54,2,188,4.8,Yes
+PROD00644,SG Cricket Bat,Sports,Cricket Bat,SG,37881.31,57,241,1.7,No
+PROD00645,,fashion,T-Shirt,Manyavar,0,51,392,1.5,Yes
+PROD00646,HP Tablet,Electronics,Tablet,HP,9514.12,59,218,1.6,Yes
+PROD00647,Dabur Amul Butter,Grocery,Amul Butter,Dabur,48335.85,30,346,3.4,No
+PROD00648,,Home & Kitchen,,Tupperware,6942.13,23,254,4.9,Yes
+PROD00649,Prestige Air Fryer,Home & Kitchen,Air Fryer,Prestige,-11562.68,150,472,3.4,0
+PROD00650,Adidas Jeans,FASHION,Jeans,Adidas,60945.53,-10,3,3.1,No
+PROD00651,ITC Honey,Grocery,Honey,ITC,78522.52,29,307,4.3,No
+PROD00652,Haldiram Toor Dal,Grocery,Toor Dal,,-21079.01,0,356,1.5,0
+PROD00653,Philips Mixer Grinder,Home & Kitchen,Mixer Grinder,Philips,34503.88,14,122,1.3,Yes
+PROD00654,Vector X Badminton Racket,Sports,Badminton Racket,Vector X,29067.39,43,175,4.0,Yes
+PROD00655,Manyavar Saree,Fashion,Saree,Manyavar,31300.97,20,178,3.6,No
+PROD00656,Reebok Football,SPORTS,Football,Reebok,35035.45,0,168,4.4,Yes
+PROD00657,SG Yoga Mat,Sports,Yoga Mat,SG,18558.21,3,127,1.0,Out of Stock
+PROD00658,Amul Toor Dal,Grocery,Toor Dal,Amul,8482.67,10,72,2.1,No
+PROD00659,W Belt,Fashion,Belt,,43387.03,19,301,6.5,No
+PROD00660,Aashirvaad Green Tea,Grocery,Green Tea,Aashirvaad,47997.94,27,210,4.8,Yes
+PROD00661,Yonex Football,Sports,Football,Yonex,51920.17,60,282,1.9,No
+PROD00662,Zara Jacket,Fashion,Jacket,Zara,-62037.35,21,449,4.0,No
+PROD00663,Adidas Cycling Gloves,Sports,Cycling Gloves,Adidas,34773.39,14,66,2.7,Yes
+PROD00664,Orient Self Help Book,Books,Self Help Book,Orient,48993.15,50,296,4.9,Yes
+PROD00665,Dell Laptop,Electronics,Laptop,Dell,7168.65,19,0,3.5,0
+PROD00666,Dove Lipstick,Beauty,Lipstick,Dove,36936.86,18,42,2.9,Yes
+PROD00667,Borosil Mixer Grinder,Home & Kitchen,,Borosil,21713.8,32,388,1.5,Yes
+PROD00668,Garnier Serum,beauty,Serum,Garnier,14970.19,57,,2.1,Available
+PROD00669,Nike Dress,Fashion,Dress,Nike,55060.81,33,272,3.9,Yes
+PROD00670,H&M Kurta,Fashion,Kurta,H&M,33193.48,57,343,1.7,Yes
+PROD00671,Borosil Pillow,Home & Kitchen,Pillow,Borosil,43303.93,45,301,2.9,Yes
+PROD00672,Nykaa Sunscreen,BEAUTY,Sunscreen,Nykaa,6912.39,54,300,1.9,Yes
+PROD00673,Orient Self Help Book,Books,Self Help Book,Orient,,43,224,4.2,yes
+PROD00674,Penguin Novel,Books,Novel,Penguin,10325.45,150,,2.4,No
+PROD00675,Lakmé Shampoo,Beauty,Shampoo,Lakmé,15018.37,33,252,4.6,Yes
+PROD00676,Yonex Resistance Band,Sports,Resistance Band,Yonex,78185.99,35,385,2.4,Yes
+PROD00677,Libas Dupatta,Fashion,Dupatta,Libas,56650.71,49,99999,1.2,Yes
+PROD00678,MDH Maggi,Grocery,Maggi,MDH,45520.91,14,485,4.8,No
+PROD00679,Yonex Cycling Gloves,Sports,Cycling Gloves,Yonex,-61400.24,37,337,1.2,0
+PROD00680,Apple Charger,Electronics,Charger,Apple,52538.59,39,414,-1,Yes
+PROD00681,Philips Pillow,Home & Kitchen,Pillow,Philips,54048.78,,365,2.6,No
+PROD00682,Dabur Green Tea,grocery,Green Tea,Dabur,52673.38,150,4,3.4,No
+PROD00683,Amul Atta,Grocery,Atta,Amul,34264.26,53,60,3.3,yes
+PROD00684,Britannia Toor Dal,GROCERY,Toor Dal,Britannia,40706.75,59,24,5.0,No
+PROD00685,Nivea Sunscreen,Beauty,Sunscreen,Nivea,14612.0,31,281,3.0,Yes
+PROD00686,Nike Dress,Fashion,Dress,Nike,49439.09,,481,3.5,Yes
+PROD00687,,Fashion,Dress,Libas,-50637.79,45,99999,2.4,No
+PROD00688,Philips Pillow,Home & Kitchen,Pillow,Philips,9999999,0,497,,No
+PROD00689,Orient Pillow,Home & Kitchen,Pillow,Orient,60960.75,54,244,2.4,No
+PROD00690,Cosco Dumbbells,SPORTS,Dumbbells,Cosco,65076.9,50,460,3.3,Yes
+PROD00691,ITC Amul Butter,Grocery,,ITC,9999999,55,189,2.6,yes
+PROD00692,Himalaya Face Wash,beauty,Face Wash,Himalaya,67078.99,25,370,3.3,Yes
+PROD00693,Philips Mixer Grinder,HOME & KITCHEN,Mixer Grinder,Philips,59468.82,11,99999,4.3,Yes
+PROD00694,MRF Knee Cap,Sports,Knee Cap,MRF,21354.89,10,471,0,Yes
+PROD00695,Apple Smartphone,ELECTRONICS,Smartphone,Apple,43855.72,-10,-5,2.8,No
+PROD00696,Philips Knife Set,Home & Kitchen,Knife Set,Philips,9999999,57,72,2.2,1
+PROD00697,Vector X Knee Cap,Sports,Knee Cap,Vector X,9999999,3,489,3.7,Yes
+PROD00698,Orient Comic,Books,Comic,Orient,60149.23,43,344,1.9,No
+PROD00699,Milton Tiffin Box,HOME & KITCHEN,Tiffin Box,Milton,47147.13,41,142,4.8,No
+PROD00700,Borosil Water Bottle,Home & Kitchen,Water Bottle,Borosil,52286.41,5,295,3.0,No
+PROD00701,Prestige Curtain,Home & Kitchen,Curtain,Prestige,58115.21,27,149,-1,Yes
+PROD00702,Penguin Atlas,Books,Atlas,Penguin,79763.42,24,396,2.8,No
+PROD00703,Nestle Basmati Rice,Grocery,Basmati Rice,Nestle,48518.63,25,190,2.1,No
+PROD00704,Prestige Curtain,Home & Kitchen,Curtain,Prestige,78606.31,21,199,1.1,Yes
+PROD00705,Reebok Water Jug,Sports,Water Jug,Reebok,31161.21,56,382,3.8,1
+PROD00706,Lakmé Lipstick,Beauty,Lipstick,Lakmé,58669.19,15,99999,0,Out of Stock
+PROD00707,Haldiram Salt,,Salt,Haldiram,25246.31,17,413,1.3,No
+PROD00708,Decathlon Cricket Bat,Sports,Cricket Bat,Decathlon,,30,336,2.5,No
+PROD00709,Apple Smartphone,Electronics,Smartphone,Apple,-47282.51,60,181,3.0,No
+PROD00710,Reebok Knee Cap,Sports,Knee Cap,Reebok,48063.85,14,377,3.5,No
+PROD00711,Apple Tablet,Electronics,Tablet,Apple,54209.5,48,36,4.3,No
+PROD00712,Biba Dupatta,fashion,Dupatta,Biba,60892.56,28,113,2.6,No
+PROD00713,,Grocery,,ITC,20391.62,10,88,1.2,Yes
+PROD00714,Puma Kurta,Fashion,Kurta,Puma,57931.61,32,279,3.5,Yes
+PROD00715,Adidas Dumbbells,Sports,Dumbbells,Adidas,5426.18,20,365,1.6,Yes
+PROD00716,Cello Mixer Grinder,Home & Kitchen,Mixer Grinder,Cello,37218.65,35,270,4.9,Yes
+PROD00717,Nykaa Moisturizer,Beauty,Moisturizer,,3848.02,47,390,4.8,No
+PROD00718,Burnish Badminton Racket,Sports,Badminton Racket,Burnish,74864.35,17,475,2.1,No
+PROD00719,Manyavar Shoes,Fashion,Shoes,Manyavar,0,33,55,1.7,1
+PROD00720,ITC Atta,Grocery,Atta,ITC,68527.77,25,204,4.3,No
+PROD00721,W Jacket,Fashion,Jacket,W,40007.49,24,194,4.3,Yes
+PROD00722,Arihant Self Help Book,BOOKS,Self Help Book,Arihant,24475.24,53,150,2.4,No
+PROD00723,Tata Salt,,Salt,Tata,14931.95,26,127,1.5,Yes
+PROD00724,,Beauty,Lipstick,Lakmé,29149.64,48,299,0,No
+PROD00725,Libas Leggings,Fashion,Leggings,Libas,30713.33,6,150,6.5,Yes
+PROD00726,,Fashion,Saree,Puma,-1532.36,39,341,4.1,No
+PROD00727,Haldiram Atta,Grocery,,Haldiram,43246.51,27,376,3.0,Yes
+PROD00728,JBL Power Bank,,Power Bank,JBL,-74942.48,38,397,2.1,Yes
+PROD00729,Haldiram Basmati Rice,Grocery,Basmati Rice,Haldiram,56863.05,150,161,6.5,Yes
+PROD00730,Haldiram Basmati Rice,Grocery,Basmati Rice,Haldiram,61239.48,10,484,2.8,yes
+PROD00731,Dell Speaker,Electronics,Speaker,Dell,46533.98,14,250,2.8,No
+PROD00732,Manyavar Shoes,Fashion,Shoes,Manyavar,76275.49,56,410,1.4,No
+PROD00733,Reebok Resistance Band,Sports,Resistance Band,,41574.96,11,451,1.7,Yes
+PROD00734,Yonex Badminton Racket,SPORTS,Badminton Racket,Yonex,-72625.71,44,97,4.4,No
+PROD00735,Yonex Cricket Bat,Sports,Cricket Bat,,8373.44,35,126,2.1,No
+PROD00736,MDH Toor Dal,Grocery,Toor Dal,MDH,29553.24,37,359,3.7,Yes
+PROD00737,S.Chand Workbook,Books,Workbook,S.Chand,24012.16,52,311,2.8,No
+PROD00738,SG Water Jug,Sports,,SG,11888.68,42,442,2.5,Yes
+PROD00739,Tata Amul Butter,,Amul Butter,Tata,45597.69,10,237,4.4,Yes
+PROD00740,Dell Speaker,Electronics,Speaker,Dell,40662.09,1,451,1.8,no
+PROD00741,Disha Workbook,Books,Workbook,Disha,19745.38,52,391,4.8,Out of Stock
+PROD00742,,Beauty,Toner,Mamaearth,62969.28,27,387,3.6,Yes
+PROD00743,L'Oreal Shampoo,Beauty,Shampoo,L'Oreal,65816.97,4,230,2.8,No
+PROD00744,Biotique Lipstick,Beauty,Lipstick,Biotique,48104.11,54,470,2.7,Available
+PROD00745,Mamaearth Kajal,BEAUTY,Kajal,Mamaearth,24508.16,40,213,6.5,No
+PROD00746,Zara Dress,Fashion,Dress,Zara,66864.45,39,69,3.8,No
+PROD00747,ITC Atta,Grocery,Atta,ITC,0,15,130,2.2,Yes
+PROD00748,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,23826.68,28,349,1.8,Yes
+PROD00749,Puma Dress,Fashion,Dress,Puma,50810.11,2,196,4.9,No
+PROD00750,boAt Smartphone,electronics,Smartphone,boAt,62201.72,29,163,2.5,Yes
+PROD00751,OnePlus Power Bank,Electronics,Power Bank,OnePlus,21263.68,10,486,6.5,
+PROD00752,S.Chand Journal,Books,Journal,S.Chand,72812.76,51,251,1.9,No
+PROD00753,Lakmé Hair Oil,Beauty,Hair Oil,Lakmé,23053.85,19,330,4.5,No
+PROD00754,Milton Water Bottle,Home & Kitchen,Water Bottle,Milton,21655.98,34,32,3.4,Yes
+PROD00755,HarperCollins Textbook,Books,Textbook,HarperCollins,24486.47,-10,393,3.5,No
+PROD00756,Orient Self Help Book,Books,Self Help Book,Orient,16682.14,14,17,3.6,No
+PROD00757,Cosco Yoga Mat,Sports,Yoga Mat,Cosco,108.87,46,388,3.4,Yes
+PROD00758,MRF Football,Sports,Football,MRF,56836.11,46,181,4.5,Yes
+PROD00759,Penguin Cookbook,,Cookbook,Penguin,77961.35,37,213,4.9,Yes
+PROD00760,Mi Laptop,ELECTRONICS,Laptop,Mi,27168.34,8,383,4.2,No
+PROD00761,Yonex Dumbbells,Sports,Dumbbells,Yonex,56967.77,45,184,3.2,No
+PROD00762,Cosco Badminton Racket,Sports,Badminton Racket,Cosco,1787.5,7,76,2.2,Yes
+PROD00763,Burnish Dumbbells,Sports,Dumbbells,Burnish,79974.4,41,87,2.4,0
+PROD00764,Bajaj Tiffin Box,home & kitchen,Tiffin Box,Bajaj,22512.15,,404,4.2,yes
+PROD00765,Oxford Novel,Books,Novel,Oxford,32415.49,51,349,1.3,No
+PROD00766,Orient Mop,Home & Kitchen,Mop,Orient,39123.59,22,78,6.5,Yes
+PROD00767,Garnier Sunscreen,Beauty,Sunscreen,Garnier,24844.63,52,351,1.5,No
+PROD00768,Manyavar Dupatta,Fashion,Dupatta,Manyavar,45796.41,44,446,3.1,No
+PROD00769,Nestle Toor Dal,Grocery,Toor Dal,Nestle,-26852.65,0,420,2.9,1
+PROD00770,Puma Kurta,Fashion,Kurta,Puma,36541.31,49,304,2.8,1
+PROD00771,boAt Tablet,Electronics,Tablet,boAt,10058.11,35,442,2.8,Yes
+PROD00772,MDH Amul Butter,Grocery,,,-30304.58,27,161,1.6,Yes
+PROD00773,FabIndia Saree,Fashion,Saree,FabIndia,67355.81,9,,4.7,No
+PROD00774,Westland Novel,Books,Novel,Westland,23027.64,1,448,3.1,no
+PROD00775,Biotique Sunscreen,Beauty,Sunscreen,Biotique,76241.72,47,28,0,No
+PROD00776,Aashirvaad Saffola Oil,Grocery,Saffola Oil,Aashirvaad,12326.53,150,463,2.1,Yes
+PROD00777,Tupperware Tiffin Box,Home & Kitchen,Tiffin Box,Tupperware,18961.74,34,154,1.1,No
+PROD00778,Adidas Yoga Mat,Sports,Yoga Mat,,20933.85,30,250,3.9,Yes
+PROD00779,Biba Dress,Fashion,Dress,Biba,0,18,224,4.7,Yes
+PROD00780,Fingerprint Textbook,Books,Textbook,Fingerprint,42452.25,28,38,1.9,Yes
+PROD00781,Britannia Green Tea,Grocery,Green Tea,Britannia,27800.17,26,79,4.1,No
+PROD00782,JBL Laptop,Electronics,Laptop,JBL,23364.53,55,110,4.4,Yes
+PROD00783,Amul Toor Dal,Grocery,Toor Dal,Amul,75102.94,8,79,3.6,No
+PROD00784,WOW Foundation,Beauty,Foundation,WOW,32615.21,57,339,3.8,1
+PROD00785,Aashirvaad Maggi,Grocery,Maggi,,47207.34,60,482,1.7,no
+PROD00786,Disha Workbook,Books,Workbook,Disha,11747.64,43,186,2.3,No
+PROD00787,Mamaearth Foundation,Beauty,Foundation,Mamaearth,70059.77,34,91,,Yes
+PROD00788,Nivia Skipping Rope,Sports,Skipping Rope,Nivia,19768.97,47,80,2.7,Yes
+PROD00789,Bajaj Water Bottle,Home & Kitchen,Water Bottle,Bajaj,25793.48,2,340,0,Yes
+PROD00790,Nestle Toor Dal,Grocery,Toor Dal,Nestle,48159.6,18,150,3.7,
+PROD00791,Philips Mixer Grinder,Home & Kitchen,Mixer Grinder,Philips,16904.36,12,377,1.7,No
+PROD00792,Patanjali Salt,Grocery,Salt,Patanjali,6414.19,150,-5,3.0,
+PROD00793,OnePlus Power Bank,Electronics,Power Bank,OnePlus,69032.72,15,399,2.8,No
+PROD00794,Orient Atlas,Books,Atlas,Orient,11091.02,39,448,2.4,Yes
+PROD00795,SG Skipping Rope,Sports,Skipping Rope,SG,62094.69,45,52,4.3,Yes
+PROD00796,Arihant Workbook,BOOKS,Workbook,Arihant,66438.91,43,265,2.8,1
+PROD00797,Samsung Keyboard,Electronics,,Samsung,34624.06,43,169,4.9,No
+PROD00798,Tupperware Curtain,Home & Kitchen,Curtain,Tupperware,72872.78,24,119,3.7,
+PROD00799,Cosco Yoga Mat,Sports,Yoga Mat,Cosco,75225.54,50,434,4.5,Yes
+PROD00800,Adidas Dupatta,Fashion,,Adidas,64869.77,4,445,2.0,No
+PROD00801,Hawkins Pillow,Home & Kitchen,Pillow,Hawkins,77467.83,34,12,0,Yes
+PROD00802,HarperCollins Atlas,Books,Atlas,HarperCollins,62445.41,6,474,2.2,No
+PROD00803,Biba Kurta,Fashion,Kurta,Biba,0,26,485,4.1,No
+PROD00804,Dabur Saffola Oil,Grocery,Saffola Oil,Dabur,72410.87,59,133,3.8,No
+PROD00805,Lakmé Sunscreen,Beauty,Sunscreen,Lakmé,9999999,43,204,0,Yes
+PROD00806,Tata Toor Dal,Grocery,Toor Dal,Tata,62663.34,48,322,1.3,Yes
+PROD00807,Hawkins Bed Sheet,Home & Kitchen,Bed Sheet,Hawkins,-55424.35,31,48,2.6,Yes
+PROD00808,,Fashion,T-Shirt,Adidas,57655.42,59,356,2.4,Yes
+PROD00809,FabIndia Jacket,Fashion,Jacket,FabIndia,75613.75,22,,3.0,Yes
+PROD00810,Penguin Novel,,Novel,Penguin,0,60,462,3.2,No
+PROD00811,Pigeon Bed Sheet,Home & Kitchen,,Pigeon,29114.36,36,187,1.5,No
+PROD00812,JBL Charger,Electronics,,JBL,47418.71,15,56,3.4,Yes
+PROD00813,Fingerprint Cookbook,Books,Cookbook,Fingerprint,20282.31,37,102,4.0,Yes
+PROD00814,HP Tablet,Electronics,Tablet,HP,32130.19,33,462,3.8,No
+PROD00815,,Beauty,Shampoo,WOW,69135.31,53,,4.4,Yes
+PROD00816,L'Oreal Moisturizer,Beauty,Moisturizer,L'Oreal,42592.0,2,475,2.5,
+PROD00817,Mi Charger,Electronics,Charger,Mi,-43224.19,-10,122,2.5,Yes
+PROD00818,Nivia Knee Cap,Sports,Knee Cap,Nivia,14350.11,50,245,3.5,Yes
+PROD00819,Dabur Amul Butter,Grocery,Amul Butter,Dabur,57557.01,51,212,3.9,No
+PROD00820,Yonex Knee Cap,Sports,Knee Cap,Yonex,45639.46,,138,3.4,No
+PROD00821,Hawkins Knife Set,Home & Kitchen,Knife Set,Hawkins,79065.27,26,63,2.4,No
+PROD00822,Nivea Sunscreen,Beauty,Sunscreen,Nivea,36489.68,29,165,4.6,Yes
+PROD00823,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,9999999,19,-5,4.1,Yes
+PROD00824,Adidas Dumbbells,Sports,Dumbbells,Adidas,69332.42,42,25,0,No
+PROD00825,Tupperware Curtain,home & kitchen,Curtain,Tupperware,57840.34,37,239,2.9,Yes
+PROD00826,Arihant Novel,Books,Novel,Arihant,40620.92,10,457,1.9,
+PROD00827,Patanjali Maggi,Grocery,Maggi,Patanjali,44691.6,55,385,4.5,Yes
+PROD00828,Vector X Yoga Mat,Sports,Yoga Mat,Vector X,8037.68,31,1,4.2,1
+PROD00829,Cello Tiffin Box,Home & Kitchen,Tiffin Box,Cello,30657.88,33,199,,Yes
+PROD00830,Manyavar Dupatta,FASHION,Dupatta,Manyavar,42243.73,53,448,4.8,Yes
+PROD00831,ITC Maggi,GROCERY,Maggi,ITC,15521.35,32,49,1.4,Available
+PROD00832,Amul Saffola Oil,Grocery,Saffola Oil,Amul,63575.12,55,277,-1,1
+PROD00833,Dell Speaker,Electronics,Speaker,,36774.42,17,326,2.8,Yes
+PROD00834,Hawkins Mop,Home & Kitchen,,Hawkins,65493.64,150,38,,No
+PROD00835,Penguin Journal,Books,Journal,Penguin,21367.83,35,176,2.4,
+PROD00836,Lenovo Earbuds,Electronics,Earbuds,Lenovo,11441.22,30,146,2.2,no
+PROD00837,Arihant Self Help Book,Books,Self Help Book,Arihant,0,9,277,1.9,yes
+PROD00838,MDH Basmati Rice,Grocery,Basmati Rice,MDH,26178.23,4,199,3.2,Yes
+PROD00839,Manyavar Saree,Fashion,Saree,Manyavar,73585.72,30,332,0,1
+PROD00840,Zara Kurta,fashion,,Zara,52604.08,5,299,3.0,Yes
+PROD00841,Cello Mixer Grinder,Home & Kitchen,,Cello,52925.17,50,172,3.0,0
+PROD00842,Rupa Novel,,Novel,Rupa,42155.46,42,212,3.5,No
+PROD00843,Mi Keyboard,Electronics,Keyboard,Mi,79576.19,22,35,3.5,no
+PROD00844,Garnier Hair Oil,Beauty,Hair Oil,Garnier,51502.25,7,431,2.7,No
+PROD00845,Arihant Dictionary,Books,Dictionary,Arihant,58024.64,35,79,3.2,No
+PROD00846,Orient Pillow,Home & Kitchen,,Orient,8173.09,56,499,4.0,Yes
+PROD00847,WOW Sunscreen,Beauty,Sunscreen,WOW,14175.79,31,227,4.1,No
+PROD00848,FabIndia Saree,Fashion,Saree,FabIndia,78420.05,11,351,3.7,Available
+PROD00849,WOW Kajal,Beauty,Kajal,WOW,961.94,59,63,-1,No
+PROD00850,Biba Dupatta,Fashion,Dupatta,Biba,54528.72,45,126,3.0,Yes
+PROD00851,Prestige Water Bottle,Home & Kitchen,Water Bottle,Prestige,44383.14,34,63,3.2,Out of Stock
+PROD00852,Apple Laptop,Electronics,Laptop,Apple,16558.19,6,66,4.9,Yes
+PROD00853,Pigeon Water Bottle,Home & Kitchen,Water Bottle,Pigeon,43203.93,58,373,4.0,Yes
+PROD00854,Westland Cookbook,Books,Cookbook,Westland,7200.19,4,100,3.9,1
+PROD00855,Haldiram Biscuits,Grocery,,Haldiram,-15124.11,46,233,4.6,Yes
+PROD00856,Himalaya Kajal,BEAUTY,Kajal,Himalaya,4223.31,8,120,1.2,Out of Stock
+PROD00857,Biotique Foundation,Beauty,Foundation,Biotique,,51,455,2.7,Yes
+PROD00858,FabIndia Shoes,Fashion,Shoes,FabIndia,31988.56,54,382,3.6,Yes
+PROD00859,Nestle Maggi,Grocery,Maggi,Nestle,24159.96,17,222,3.5,yes
+PROD00860,Decathlon Football,Sports,Football,Decathlon,-47941.89,19,57,1.7,0
+PROD00861,MRF Water Jug,Sports,Water Jug,,0,58,47,2.8,No
+PROD00862,Lakmé Moisturizer,Beauty,Moisturizer,Lakmé,24636.0,29,233,2.4,0
+PROD00863,Burnish Cycling Gloves,sports,Cycling Gloves,Burnish,15556.72,22,330,3.3,No
+PROD00864,Prestige Curtain,home & kitchen,Curtain,Prestige,18431.4,27,376,3.5,yes
+PROD00865,MRF Football,Sports,Football,MRF,76989.95,59,89,1.7,No
+PROD00866,Yonex Dumbbells,Sports,Dumbbells,,76305.49,22,205,1.4,
+PROD00867,L'Oreal Toner,Beauty,Toner,L'Oreal,0,42,130,1.9,Yes
+PROD00868,Cosco Badminton Racket,Sports,Badminton Racket,Cosco,11597.81,,364,1.0,Yes
+PROD00869,Adidas Cycling Gloves,Sports,Cycling Gloves,Adidas,40540.66,20,177,0,Yes
+PROD00870,MRF Water Jug,SPORTS,Water Jug,MRF,50933.95,60,166,2.6,No
+PROD00871,L'Oreal Face Wash,Beauty,Face Wash,L'Oreal,55985.48,44,-5,6.5,No
+PROD00872,Milton Knife Set,HOME & KITCHEN,Knife Set,Milton,69688.45,10,31,1.1,No
+PROD00873,Aashirvaad Salt,Grocery,,Aashirvaad,15582.45,2,486,1.6,Available
+PROD00874,Biotique Toner,BEAUTY,Toner,Biotique,49825.65,48,238,4.6,Yes
+PROD00875,Manyavar Leggings,Fashion,Leggings,Manyavar,951.81,7,46,4.2,No
+PROD00876,Haldiram Amul Butter,grocery,Amul Butter,Haldiram,9083.68,37,236,6.5,No
+PROD00877,Manyavar Jeans,Fashion,,Manyavar,10596.86,59,232,3.7,No
+PROD00878,Bajaj Bed Sheet,Home & Kitchen,Bed Sheet,Bajaj,1988.95,59,106,2.5,No
+PROD00879,HP Laptop,electronics,Laptop,HP,,54,480,3.8,no
+PROD00880,W Jeans,FASHION,Jeans,W,-15723.95,33,305,-1,No
+PROD00881,Patanjali Toor Dal,Grocery,Toor Dal,Patanjali,66420.27,150,333,2.2,yes
+PROD00882,Yonex Skipping Rope,SPORTS,,Yonex,13318.9,57,-5,1.6,No
+PROD00883,Adidas Resistance Band,Sports,Resistance Band,Adidas,61313.79,28,158,3.5,Yes
+PROD00884,HarperCollins Comic,Books,Comic,HarperCollins,73164.1,24,500,-1,No
+PROD00885,Dabur Amul Butter,GROCERY,Amul Butter,Dabur,28802.55,39,453,2.5,1
+PROD00886,Tata Amul Butter,Grocery,,Tata,16890.46,32,147,0,
+PROD00887,FabIndia Dupatta,Fashion,Dupatta,FabIndia,33501.66,34,417,3.3,0
+PROD00888,ITC Maggi,Grocery,Maggi,ITC,54499.36,23,,-1,No
+PROD00889,Britannia Saffola Oil,Grocery,Saffola Oil,Britannia,29252.19,2,76,2.7,No
+PROD00890,Yonex Yoga Mat,Sports,Yoga Mat,Yonex,10210.25,3,405,3.4,Yes
+PROD00891,Bajaj Pressure Cooker,home & kitchen,Pressure Cooker,Bajaj,3147.73,15,256,2.1,Yes
+PROD00892,Mamaearth Kajal,Beauty,Kajal,Mamaearth,72788.84,19,344,4.7,
+PROD00893,Decathlon Skipping Rope,Sports,Skipping Rope,Decathlon,43034.54,38,118,1.7,No
+PROD00894,Philips Knife Set,Home & Kitchen,Knife Set,Philips,50187.09,36,186,6.5,Yes
+PROD00895,MDH Amul Butter,Grocery,,MDH,29226.13,39,-5,4.9,Available
+PROD00896,Dabur Atta,Grocery,Atta,Dabur,8763.99,21,188,4.1,Yes
+PROD00897,Britannia Maggi,Grocery,Maggi,Britannia,9999999,54,27,3.5,Yes
+PROD00898,Biba Leggings,Fashion,Leggings,Biba,999.8,51,320,4.1,Yes
+PROD00899,Vector X Cycling Gloves,Sports,Cycling Gloves,Vector X,58578.49,14,167,2.0,Out of Stock
+PROD00900,Hawkins Knife Set,HOME & KITCHEN,Knife Set,Hawkins,0,150,116,4.2,No
+PROD00901,JBL Smartwatch,Electronics,,JBL,17525.62,60,144,1.1,Yes
+PROD00902,Haldiram Saffola Oil,Grocery,Saffola Oil,Haldiram,22272.69,45,200,2.5,Yes
+PROD00903,Manyavar Belt,Fashion,Belt,Manyavar,79109.13,44,111,-1,No
+PROD00904,Penguin Biography,Books,Biography,Penguin,37094.15,25,121,2.2,Available
+PROD00905,Samsung Earbuds,Electronics,Earbuds,Samsung,62184.36,36,172,2.6,0
+PROD00906,Prestige Pillow,Home & Kitchen,Pillow,Prestige,16635.41,58,341,1.2,no
+PROD00907,Nike Jeans,fashion,,Nike,-53979.68,21,6,4.3,Yes
+PROD00908,Decathlon Yoga Mat,Sports,Yoga Mat,Decathlon,52457.37,29,440,2.1,No
+PROD00909,Patanjali Amul Butter,Grocery,Amul Butter,Patanjali,49416.33,45,197,1.5,No
+PROD00910,Rupa Journal,Books,,Rupa,26600.21,0,298,1.6,Yes
+PROD00911,,fashion,Dress,Zara,1843.64,39,41,3.6,Yes
+PROD00912,HP Keyboard,ELECTRONICS,Keyboard,HP,6626.65,1,406,4.2,No
+PROD00913,Nivia Skipping Rope,Sports,Skipping Rope,Nivia,16648.74,38,-5,4.1,Available
+PROD00914,Orient Self Help Book,Books,Self Help Book,Orient,31778.96,21,341,4.5,Yes
+PROD00915,Reebok Cycling Gloves,Sports,Cycling Gloves,Reebok,62086.65,150,31,2.8,Yes
+PROD00916,Amul Biscuits,Grocery,Biscuits,Amul,-2178.7,27,282,2.3,Yes
+PROD00917,Penguin Workbook,Books,Workbook,Penguin,3576.1,42,91,1.7,No
+PROD00918,MRF Cricket Bat,Sports,Cricket Bat,MRF,28034.94,26,24,3.7,No
+PROD00919,FabIndia Belt,Fashion,Belt,FabIndia,50999.29,54,287,2.6,No
+PROD00920,Puma Belt,FASHION,,Puma,40220.11,37,105,3.2,Yes
+PROD00921,Burnish Resistance Band,SPORTS,,Burnish,36616.92,50,208,4.5,No
+PROD00922,Nykaa Foundation,beauty,Foundation,Nykaa,51868.38,37,359,3.4,No
+PROD00923,boAt Earbuds,Electronics,Earbuds,,15735.47,-10,419,4.8,No
+PROD00924,Zara Belt,FASHION,Belt,Zara,40089.07,22,494,1.2,yes
+PROD00925,Realme Power Bank,Electronics,,Realme,33091.74,8,335,6.5,1
+PROD00926,L'Oreal Lipstick,Beauty,Lipstick,L'Oreal,74200.14,37,426,3.5,Out of Stock
+PROD00927,boAt Smartphone,Electronics,,boAt,77965.33,60,351,1.1,Yes
+PROD00928,L'Oreal Kajal,Beauty,Kajal,L'Oreal,9999999,40,497,3.6,Yes
+PROD00929,Haldiram Saffola Oil,Grocery,Saffola Oil,Haldiram,9999999,-10,156,2.8,No
+PROD00930,Borosil Bed Sheet,Home & Kitchen,Bed Sheet,Borosil,39783.0,55,364,1.3,Yes
+PROD00931,Mi Tablet,Electronics,Tablet,Mi,73029.4,45,191,3.3,Available
+PROD00932,HarperCollins Workbook,Books,Workbook,HarperCollins,42119.28,-10,310,2.4,No
+PROD00933,Rupa Novel,Books,Novel,,48444.16,5,124,4.9,Yes
+PROD00934,Vector X Skipping Rope,Sports,Skipping Rope,Vector X,6289.6,29,411,1.9,no
+PROD00935,L'Oreal Lipstick,beauty,,L'Oreal,57361.95,27,457,4.8,No
+PROD00936,Mi Speaker,Electronics,Speaker,Mi,1133.38,3,99999,3.3,No
+PROD00937,Tupperware Pressure Cooker,Home & Kitchen,Pressure Cooker,Tupperware,2882.57,44,449,1.9,Yes
+PROD00938,Samsung Power Bank,Electronics,Power Bank,Samsung,14367.95,18,231,4.4,
+PROD00939,Himalaya Hair Oil,Beauty,Hair Oil,Himalaya,44392.25,46,71,0,1
+PROD00940,Borosil Mop,Home & Kitchen,Mop,Borosil,15779.38,34,220,2.6,No
+PROD00941,Orient Air Fryer,HOME & KITCHEN,Air Fryer,Orient,10120.09,6,410,3.4,Yes
+PROD00942,Dabur Salt,Grocery,Salt,Dabur,24968.8,23,310,3.9,No
+PROD00943,Dove Sunscreen,Beauty,Sunscreen,Dove,77819.02,38,176,0,No
+PROD00944,Patanjali Maggi,Grocery,Maggi,Patanjali,-39193.98,4,171,2.0,Yes
+PROD00945,Yonex Knee Cap,Sports,Knee Cap,Yonex,40809.45,21,99999,3.3,Yes
+PROD00946,Britannia Atta,GROCERY,Atta,Britannia,44112.26,20,164,3.9,no
+PROD00947,Cello Tiffin Box,Home & Kitchen,Tiffin Box,Cello,0,13,192,4.5,No
+PROD00948,Milton Water Bottle,Home & Kitchen,Water Bottle,Milton,53741.09,2,10,2.0,yes
+PROD00949,Tata Saffola Oil,Grocery,Saffola Oil,Tata,,38,216,3.9,Yes
+PROD00950,Nike Kurta,Fashion,Kurta,Nike,71733.04,150,55,4.6,
+PROD00951,boAt Mouse,Electronics,Mouse,boAt,23816.6,,23,3.7,no
+PROD00952,Nike T-Shirt,Fashion,T-Shirt,Nike,31035.6,1,331,2.9,No
+PROD00953,Garnier Foundation,Beauty,Foundation,Garnier,27798.5,29,48,0,
+PROD00954,Patanjali Maggi,Grocery,Maggi,,12753.92,34,58,2.6,No
+PROD00955,Pigeon Mop,HOME & KITCHEN,Mop,Pigeon,55804.16,52,486,4.7,1
+PROD00956,Arihant Textbook,Books,Textbook,Arihant,28174.61,37,37,2.9,Yes
+PROD00957,Britannia Maggi,GROCERY,Maggi,,17394.31,55,280,,No
+PROD00958,Zara T-Shirt,Fashion,T-Shirt,Zara,,43,386,2.5,yes
+PROD00959,Patanjali Maggi,GROCERY,Maggi,Patanjali,20428.35,30,135,-1,No
+PROD00960,,Fashion,Dupatta,,44505.18,24,7,2.0,Yes
+PROD00961,Burnish Cycling Gloves,Sports,Cycling Gloves,Burnish,25342.55,52,386,4.5,
+PROD00962,Reebok Knee Cap,Sports,Knee Cap,Reebok,35000.53,50,202,2.4,No
+PROD00963,Apple Mouse,Electronics,Mouse,Apple,55654.94,57,404,4.5,Yes
+PROD00964,Cello Tiffin Box,Home & Kitchen,Tiffin Box,,9668.97,17,76,3.5,No
+PROD00965,Nike Dupatta,Fashion,Dupatta,Nike,22566.38,-10,306,2.5,Yes
+PROD00966,,Fashion,Kurta,Biba,41833.18,57,445,4.8,no
+PROD00967,Patanjali Biscuits,,,Patanjali,32590.81,4,443,3.0,No
+PROD00968,Rupa Biography,Books,Biography,Rupa,319.58,43,455,4.1,Yes
+PROD00969,SG Water Jug,SPORTS,Water Jug,SG,23130.3,17,367,4.1,1
+PROD00970,Orient Pressure Cooker,Home & Kitchen,Pressure Cooker,Orient,65069.85,41,93,1.6,No
+PROD00971,Oxford Self Help Book,Books,Self Help Book,Oxford,24699.56,28,95,3.1,No
+PROD00972,Pigeon Tiffin Box,Home & Kitchen,,Pigeon,68982.22,52,458,1.1,No
+PROD00973,Arihant Biography,Books,,,70869.98,-10,465,1.1,No
+PROD00974,Dove Kajal,Beauty,Kajal,Dove,51135.24,23,349,1.0,Yes
+PROD00975,L'Oreal Sunscreen,Beauty,Sunscreen,L'Oreal,9999999,34,371,1.9,Yes
+PROD00976,Rupa Biography,Books,Biography,Rupa,50411.97,19,223,3.3,No
+PROD00977,Lenovo Smartwatch,Electronics,Smartwatch,Lenovo,-11697.02,44,121,6.5,Yes
+PROD00978,Lenovo Smartphone,Electronics,Smartphone,Lenovo,70269.16,7,87,4.2,No
+PROD00979,Dabur Basmati Rice,GROCERY,Basmati Rice,Dabur,4212.06,52,275,4.3,Out of Stock
+PROD00980,Disha Atlas,BOOKS,,Disha,-76707.98,40,189,1.2,Yes
+PROD00981,ITC Atta,Grocery,Atta,ITC,40955.18,12,492,1.8,No
+PROD00982,Nivea Hair Oil,Beauty,Hair Oil,Nivea,19905.35,14,310,1.9,Yes
+PROD00983,S.Chand Workbook,Books,Workbook,S.Chand,21889.9,27,11,3.7,No
+PROD00984,MDH Green Tea,Grocery,Green Tea,MDH,30636.81,45,358,4.8,No
+PROD00985,Orient Water Bottle,Home & Kitchen,Water Bottle,Orient,32068.7,40,322,1.2,Yes
+PROD00986,Cosco Knee Cap,Sports,Knee Cap,Cosco,63760.68,55,205,3.9,Yes
+PROD00987,Milton Curtain,HOME & KITCHEN,Curtain,Milton,79992.24,39,303,1.6,No
+PROD00988,Tupperware Air Fryer,HOME & KITCHEN,Air Fryer,Tupperware,59272.74,-10,288,2.4,Yes
+PROD00989,Manyavar Belt,Fashion,Belt,Manyavar,18234.47,44,15,3.9,Yes
+PROD00990,Mamaearth Sunscreen,Beauty,Sunscreen,Mamaearth,0,28,137,2.9,Yes
+PROD00991,Nike Jeans,Fashion,Jeans,,30571.48,-10,99,4.6,Yes
+PROD00992,Reebok Cricket Bat,Sports,Cricket Bat,Reebok,26990.58,50,464,4.2,
+PROD00993,Apple Charger,Electronics,,Apple,-58304.35,3,354,4.4,Yes
+PROD00994,Patanjali Green Tea,Grocery,Green Tea,Patanjali,42794.09,52,240,4.4,no
+PROD00995,Zara Shoes,Fashion,,Zara,41037.19,51,233,3.5,No
+PROD00996,SG Yoga Mat,Sports,Yoga Mat,SG,-51566.47,30,-5,3.8,Yes
+PROD00997,,sports,Resistance Band,Reebok,37032.03,31,224,3.6,Yes
+PROD00998,,Books,Novel,Arihant,66352.42,150,233,3.6,Yes
+PROD00999,Cello Water Bottle,Home & Kitchen,Water Bottle,Cello,18488.4,24,147,2.5,yes
+PROD01000,Burnish Badminton Racket,,Badminton Racket,Burnish,15340.34,35,399,3.2,Yes
+PROD01001,Cosco Resistance Band,Sports,Resistance Band,Cosco,16935.97,25,32,4.4,no
+PROD01002,,Electronics,Keyboard,Apple,24173.05,,99999,1.4,Out of Stock
+PROD01003,Penguin Biography,books,Biography,Penguin,-3222.77,46,271,2.0,No
+PROD01004,ITC Biscuits,Grocery,Biscuits,ITC,43299.41,51,52,1.4,0
+PROD01005,Cello Pressure Cooker,Home & Kitchen,Pressure Cooker,Cello,8250.47,15,396,3.0,No
+PROD01006,Dabur Honey,Grocery,Honey,Dabur,33095.51,57,90,4.1,No
+PROD01007,SG Dumbbells,Sports,,SG,70556.97,17,313,1.4,Yes
+PROD01008,Adidas Dumbbells,Sports,Dumbbells,Adidas,71591.78,54,483,2.0,Yes
+PROD01009,Orient Comic,Books,Comic,Orient,62713.26,46,54,4.7,1
+PROD01010,Nivea Lipstick,Beauty,,Nivea,51464.65,26,353,-1,Yes
+PROD01011,Lakmé Hair Oil,Beauty,Hair Oil,,,150,99999,3.8,no
+PROD01012,Reebok Knee Cap,Sports,Knee Cap,Reebok,77836.89,1,258,3.9,Yes
+PROD01013,Orient Textbook,Books,Textbook,Orient,34741.99,36,352,2.9,Out of Stock
+PROD01014,Dell Smartwatch,electronics,Smartwatch,Dell,70476.28,46,60,3.9,Yes
+PROD01015,S.Chand Cookbook,Books,Cookbook,S.Chand,22318.42,32,139,4.6,No
+PROD01016,Mamaearth Foundation,Beauty,Foundation,Mamaearth,27515.13,42,444,1.1,No
+PROD01017,Hawkins Air Fryer,Home & Kitchen,Air Fryer,Hawkins,14439.57,1,458,1.2,Available
+PROD01018,HarperCollins Cookbook,Books,Cookbook,,36514.05,-10,376,3.2,No
+PROD01019,HarperCollins Cookbook,Books,Cookbook,HarperCollins,10188.23,4,312,2.8,No
+PROD01020,Orient Knife Set,HOME & KITCHEN,Knife Set,Orient,31175.83,55,-5,1.8,Yes
+PROD01021,S.Chand Dictionary,BOOKS,Dictionary,S.Chand,37313.78,53,320,1.9,No
+PROD01022,Nestle Basmati Rice,Grocery,Basmati Rice,Nestle,75696.6,22,-5,2.2,No
+PROD01023,,Books,Atlas,S.Chand,70323.13,14,162,1.5,Yes
+PROD01024,Yonex Water Jug,SPORTS,Water Jug,Yonex,61236.56,49,76,2.7,Yes
+PROD01025,Tupperware Mixer Grinder,,Mixer Grinder,Tupperware,18996.71,58,466,3.9,No
+PROD01026,boAt Power Bank,Electronics,Power Bank,boAt,24451.71,4,150,3.2,No
+PROD01027,OnePlus Power Bank,ELECTRONICS,Power Bank,OnePlus,62350.22,24,278,2.2,No
+PROD01028,MRF Cricket Bat,Sports,Cricket Bat,MRF,64619.9,3,276,4.6,Available
+PROD01029,Westland Journal,Books,Journal,Westland,56197.87,0,104,1.8,Yes
+PROD01030,Rupa Novel,Books,Novel,Rupa,,34,494,0,1
+PROD01031,Orient Cookbook,Books,Cookbook,Orient,25700.44,2,358,6.5,Yes
+PROD01032,Zara Jacket,Fashion,Jacket,Zara,74617.91,13,54,4.7,No
+PROD01033,,Electronics,Tablet,boAt,13012.63,37,409,4.2,No
+PROD01034,Milton Pressure Cooker,Home & Kitchen,Pressure Cooker,Milton,24766.01,-10,40,4.6,Yes
+PROD01035,Biotique Foundation,Beauty,Foundation,Biotique,8046.45,12,271,2.5,Yes
+PROD01036,Arihant Cookbook,Books,Cookbook,,11747.09,2,104,1.2,Yes
+PROD01037,Penguin Journal,Books,Journal,Penguin,48816.61,5,223,2.3,yes
+PROD01038,JBL Earbuds,Electronics,Earbuds,,32192.58,34,130,3.7,No
+PROD01039,Apple Earbuds,ELECTRONICS,Earbuds,Apple,30107.08,59,414,4.2,No
+PROD01040,MRF Yoga Mat,Sports,Yoga Mat,MRF,49020.18,11,405,3.8,Yes
+PROD01041,Aashirvaad Amul Butter,Grocery,Amul Butter,Aashirvaad,60715.15,11,424,4.7,Yes
+PROD01042,JBL Smartwatch,Electronics,Smartwatch,JBL,53960.07,35,385,3.8,Available
+PROD01043,SG Football,Sports,Football,SG,56886.0,50,58,4.5,No
+PROD01044,Lenovo Charger,Electronics,Charger,Lenovo,78086.86,52,305,2.5,No
+PROD01045,Penguin Cookbook,Books,Cookbook,Penguin,60181.47,12,475,1.8,No
+PROD01046,Nivea Moisturizer,Beauty,Moisturizer,Nivea,6961.5,28,183,4.1,1
+PROD01047,Prestige Air Fryer,,Air Fryer,Prestige,46160.67,36,78,0,no
+PROD01048,Reebok Dumbbells,Sports,Dumbbells,,-59222.96,5,234,3.6,Available
+PROD01049,Himalaya Lipstick,Beauty,Lipstick,Himalaya,39808.06,60,304,3.8,yes
+PROD01050,Samsung Laptop,Electronics,Laptop,Samsung,51141.27,58,79,1.8,No
+PROD01051,Orient Mop,Home & Kitchen,Mop,Orient,6430.86,59,272,3.1,No
+PROD01052,L'Oreal Shampoo,Beauty,Shampoo,L'Oreal,60090.94,11,272,4.1,Yes
+PROD01053,Mi Smartphone,Electronics,,Mi,13916.96,51,341,3.6,Available
+PROD01054,Mi Smartphone,Electronics,,Mi,3694.75,44,314,2.0,No
+PROD01055,Cosco Badminton Racket,Sports,Badminton Racket,Cosco,9999999,24,444,4.7,No
+PROD01056,Cosco Resistance Band,Sports,Resistance Band,Cosco,32088.26,47,392,-1,No
+PROD01057,Rupa Textbook,BOOKS,Textbook,Rupa,34131.28,19,242,1.4,1
+PROD01058,Aashirvaad Green Tea,Grocery,Green Tea,Aashirvaad,19460.61,18,163,2.9,No
+PROD01059,Adidas Cricket Bat,Sports,Cricket Bat,,2694.28,150,100,4.8,No
+PROD01060,FabIndia Belt,Fashion,Belt,FabIndia,21835.44,47,199,2.0,No
+PROD01061,Yonex Football,Sports,Football,Yonex,45056.29,54,68,2.0,Yes
+PROD01062,,Sports,Badminton Racket,SG,16986.9,38,415,2.4,Yes
+PROD01063,,BOOKS,Dictionary,Fingerprint,30488.94,41,410,1.9,No
+PROD01064,H&M Belt,Fashion,Belt,H&M,51065.98,10,116,6.5,Available
+PROD01065,Himalaya Lipstick,Beauty,Lipstick,Himalaya,27038.45,6,414,2.3,Yes
+PROD01066,Orient Dictionary,BOOKS,Dictionary,Orient,,35,295,4.8,Out of Stock
+PROD01067,Orient Tiffin Box,Home & Kitchen,Tiffin Box,Orient,52281.82,39,442,4.1,Yes
+PROD01068,Fingerprint Journal,Books,Journal,,-45783.97,2,229,4.9,Out of Stock
+PROD01069,Haldiram Biscuits,Grocery,Biscuits,Haldiram,538.68,25,459,2.4,Out of Stock
+PROD01070,Mamaearth Sunscreen,BEAUTY,Sunscreen,Mamaearth,76102.4,5,296,2.3,Yes
+PROD01071,FabIndia Dress,Fashion,Dress,FabIndia,7598.83,7,170,3.1,No
+PROD01072,Arihant Workbook,Books,Workbook,Arihant,28021.56,34,112,4.6,No
+PROD01073,Nykaa Lipstick,BEAUTY,Lipstick,Nykaa,44036.77,59,239,2.4,No
+PROD01074,Philips Water Bottle,Home & Kitchen,Water Bottle,Philips,28677.28,43,270,4.7,Yes
+PROD01075,Britannia Atta,Grocery,Atta,Britannia,43290.89,60,339,4.9,1
+PROD01076,Arihant Atlas,Books,Atlas,Arihant,33563.72,37,150,2.1,Available
+PROD01077,Prestige Bed Sheet,Home & Kitchen,Bed Sheet,Prestige,-38504.69,27,176,3.2,Yes
+PROD01078,Libas T-Shirt,,T-Shirt,Libas,25402.83,-10,304,2.0,Yes
+PROD01079,Borosil Pillow,Home & Kitchen,Pillow,Borosil,22030.62,9,388,1.6,Yes
+PROD01080,Yonex Knee Cap,Sports,Knee Cap,Yonex,2648.09,10,359,2.1,No
+PROD01081,MRF Resistance Band,Sports,Resistance Band,MRF,24765.13,56,173,4.7,Yes
+PROD01082,Zara Jeans,Fashion,Jeans,Zara,60199.45,26,19,1.1,Yes
+PROD01083,OnePlus Charger,Electronics,Charger,,14704.24,24,268,1.8,Yes
+PROD01084,Adidas Badminton Racket,Sports,Badminton Racket,Adidas,69555.48,45,338,3.2,
+PROD01085,OnePlus Speaker,Electronics,Speaker,OnePlus,11960.5,54,108,2.4,No
+PROD01086,Britannia Biscuits,,Biscuits,Britannia,49265.78,7,437,3.0,0
+PROD01087,,grocery,Green Tea,Patanjali,40717.93,43,234,1.9,yes
+PROD01088,Penguin Comic,Books,Comic,Penguin,65681.26,12,55,1.9,No
+PROD01089,HarperCollins Textbook,Books,Textbook,HarperCollins,7894.09,16,217,2.6,No
+PROD01090,Garnier Shampoo,Beauty,Shampoo,Garnier,5136.81,44,389,1.5,No
+PROD01091,Yonex Knee Cap,Sports,Knee Cap,Yonex,36472.69,,456,1.3,Out of Stock
+PROD01092,Bajaj Mop,Home & Kitchen,Mop,Bajaj,42159.26,,475,5.0,No
+PROD01093,Cosco Yoga Mat,Sports,Yoga Mat,Cosco,7578.49,28,280,3.7,Yes
+PROD01094,Dell Charger,Electronics,Charger,Dell,19071.52,48,459,1.7,No
+PROD01095,Borosil Bed Sheet,Home & Kitchen,Bed Sheet,,62487.55,33,306,4.4,No
+PROD01096,Adidas Kurta,Fashion,Kurta,Adidas,44897.74,45,279,3.1,Yes
+PROD01097,Borosil Knife Set,HOME & KITCHEN,Knife Set,Borosil,40927.46,17,121,2.6,
+PROD01098,Arihant Textbook,BOOKS,Textbook,Arihant,77702.27,41,93,1.7,Yes
+PROD01099,Orient Dictionary,Books,Dictionary,Orient,9999999,49,19,1.0,Yes
+PROD01100,Puma Jacket,Fashion,Jacket,Puma,71011.99,23,92,4.3,No
+PROD01101,Nestle Green Tea,Grocery,Green Tea,Nestle,27432.4,2,18,4.6,Yes
+PROD01102,Garnier Sunscreen,Beauty,Sunscreen,Garnier,48493.68,40,61,3.3,Yes
+PROD01103,OnePlus Smartwatch,ELECTRONICS,,OnePlus,46793.01,32,48,0,
+PROD01104,Burnish Knee Cap,Sports,Knee Cap,Burnish,24511.14,58,196,2.9,No
+PROD01105,Burnish Resistance Band,Sports,Resistance Band,Burnish,8338.24,49,97,1.9,0
+PROD01106,Adidas Jeans,Fashion,Jeans,Adidas,3149.86,58,470,3.0,No
+PROD01107,Amul Saffola Oil,Grocery,Saffola Oil,Amul,55187.81,57,276,3.0,No
+PROD01108,Orient Biography,Books,Biography,Orient,45876.5,,-5,4.3,Yes
+PROD01109,Garnier Serum,beauty,Serum,Garnier,27012.13,18,308,1.5,No
+PROD01110,Nestle Salt,Grocery,Salt,Nestle,36930.01,33,99999,4.1,Yes
+PROD01111,Patanjali Amul Butter,Grocery,Amul Butter,Patanjali,20448.35,49,141,2.9,No
+PROD01112,Yonex Dumbbells,SPORTS,Dumbbells,Yonex,2741.64,8,274,4.1,Yes
+PROD01113,L'Oreal Moisturizer,Beauty,Moisturizer,L'Oreal,2281.0,16,144,1.4,
+PROD01114,SG Yoga Mat,SPORTS,Yoga Mat,,0,1,263,2.9,Yes
+PROD01115,W Kurta,Fashion,Kurta,W,0,22,25,1.6,Yes
+PROD01116,Hawkins Air Fryer,Home & Kitchen,Air Fryer,,22075.71,39,,2.9,Yes
+PROD01117,Westland Workbook,Books,Workbook,Westland,5117.34,29,95,2.0,Out of Stock
+PROD01118,Borosil Mop,HOME & KITCHEN,Mop,Borosil,18492.4,36,457,3.6,Yes
+PROD01119,Burnish Knee Cap,Sports,Knee Cap,Burnish,68694.14,60,297,2.6,yes
+PROD01120,Orient Water Bottle,Home & Kitchen,Water Bottle,Orient,3682.31,18,476,1.9,No
+PROD01121,L'Oreal Hair Oil,Beauty,,L'Oreal,216.82,-10,151,2.0,No
+PROD01122,Nivea Face Wash,BEAUTY,Face Wash,Nivea,45148.0,7,111,2.1,No
+PROD01123,,Books,Atlas,,64981.22,32,13,3.0,Yes
+PROD01124,Arihant Journal,Books,Journal,Arihant,56832.29,31,70,4.2,1
+PROD01125,Garnier Foundation,Beauty,Foundation,Garnier,63852.29,44,82,2.9,No
+PROD01126,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,58494.13,8,276,1.6,No
+PROD01127,H&M Jacket,Fashion,Jacket,H&M,63812.26,17,100,1.2,No
+PROD01128,Disha Dictionary,Books,,Disha,23827.65,45,193,,Yes
+PROD01129,Aashirvaad Maggi,Grocery,Maggi,Aashirvaad,16663.04,28,135,2.4,Yes
+PROD01130,Adidas Skipping Rope,Sports,Skipping Rope,Adidas,16548.88,60,,1.2,
+PROD01131,MDH Basmati Rice,Grocery,Basmati Rice,MDH,2056.59,13,118,4.1,Yes
+PROD01132,Milton Bed Sheet,Home & Kitchen,Bed Sheet,Milton,79826.37,60,152,3.0,Yes
+PROD01133,Amul Green Tea,Grocery,Green Tea,Amul,35942.21,45,352,4.2,No
+PROD01134,JBL Keyboard,Electronics,Keyboard,JBL,62147.36,12,67,1.4,No
+PROD01135,Apple Charger,Electronics,Charger,Apple,74478.44,56,110,2.6,Yes
+PROD01136,Oxford Journal,Books,,Oxford,17938.15,150,378,3.5,Yes
+PROD01137,SG Football,Sports,,SG,43633.69,49,24,1.2,Yes
+PROD01138,ITC Maggi,Grocery,Maggi,ITC,33712.49,17,160,2.8,Yes
+PROD01139,W Belt,fashion,,W,46742.65,,396,4.7,1
+PROD01140,Cello Air Fryer,HOME & KITCHEN,Air Fryer,Cello,-23395.32,38,438,1.5,no
+PROD01141,HarperCollins Atlas,Books,Atlas,HarperCollins,10704.34,33,24,4.9,No
+PROD01142,,Books,Novel,Rupa,19599.99,31,338,2.7,Yes
+PROD01143,MRF Water Jug,Sports,,MRF,30296.02,12,309,4.5,No
+PROD01144,Biotique Hair Oil,Beauty,Hair Oil,Biotique,9999999,6,294,2.1,Yes
+PROD01145,Haldiram Saffola Oil,Grocery,,Haldiram,58282.1,43,244,3.4,No
+PROD01146,Orient Pressure Cooker,Home & Kitchen,Pressure Cooker,Orient,-34716.94,10,100,4.1,Yes
+PROD01147,OnePlus Speaker,Electronics,Speaker,OnePlus,39093.04,50,347,5.0,Yes
+PROD01148,Reebok Yoga Mat,Sports,Yoga Mat,Reebok,27333.42,18,405,1.3,No
+PROD01149,WOW Toner,Beauty,Toner,WOW,8759.24,22,330,4.2,Yes
+PROD01150,Reebok Cycling Gloves,Sports,Cycling Gloves,Reebok,64357.67,10,246,0,1
+PROD01151,Apple Smartphone,Electronics,Smartphone,Apple,22452.74,15,356,1.9,0
+PROD01152,Lenovo Mouse,electronics,Mouse,Lenovo,,9,201,1.2,No
+PROD01153,Cosco Dumbbells,Sports,Dumbbells,Cosco,31080.47,31,5,,No
+PROD01154,Lenovo Mouse,Electronics,Mouse,Lenovo,60013.27,52,104,4.0,Yes
+PROD01155,MRF Football,,Football,MRF,32574.92,20,449,0,No
+PROD01156,HP Mouse,Electronics,Mouse,HP,36820.0,2,229,4.1,Available
+PROD01157,Philips Knife Set,Home & Kitchen,Knife Set,Philips,26345.47,4,299,1.1,No
+PROD01158,Vector X Dumbbells,Sports,Dumbbells,Vector X,34456.81,1,71,2.8,Yes
+PROD01159,Biotique Face Wash,Beauty,Face Wash,Biotique,52228.85,5,40,4.5,No
+PROD01160,Dabur Basmati Rice,Grocery,Basmati Rice,Dabur,22427.84,49,369,4.0,Yes
+PROD01161,Nivia Cycling Gloves,Sports,Cycling Gloves,Nivia,75742.95,16,220,3.0,No
+PROD01162,Mi Charger,Electronics,Charger,Mi,62841.54,31,19,4.9,Yes
+PROD01163,Philips Knife Set,Home & Kitchen,Knife Set,Philips,55846.71,16,278,1.1,No
+PROD01164,Manyavar Shoes,Fashion,Shoes,Manyavar,10946.94,10,37,4.7,0
+PROD01165,Tupperware Pillow,Home & Kitchen,Pillow,Tupperware,19507.27,5,148,,no
+PROD01166,Burnish Resistance Band,sports,Resistance Band,Burnish,10787.17,44,199,3.9,1
+PROD01167,SG Water Jug,Sports,Water Jug,SG,69590.09,59,373,1.9,No
+PROD01168,Biba Saree,Fashion,,Biba,72359.07,25,18,3.6,Yes
+PROD01169,Fingerprint Journal,Books,Journal,,-46256.62,36,57,3.6,No
+PROD01170,Dove Kajal,Beauty,Kajal,Dove,79518.07,17,77,2.7,Yes
+PROD01171,Vector X Yoga Mat,Sports,Yoga Mat,Vector X,9999999,23,431,,yes
+PROD01172,Apple Smartphone,Electronics,Smartphone,Apple,49463.14,28,330,3.2,Out of Stock
+PROD01173,Nykaa Shampoo,Beauty,Shampoo,Nykaa,31255.67,-10,231,2.1,yes
+PROD01174,Reebok Badminton Racket,Sports,Badminton Racket,Reebok,44347.54,16,371,3.9,No
+PROD01175,Lenovo Laptop,Electronics,Laptop,Lenovo,57938.78,21,88,4.8,No
+PROD01176,Apple Mouse,Electronics,Mouse,Apple,5739.1,-10,463,3.9,No
+PROD01177,Lakmé Kajal,Beauty,Kajal,Lakmé,0,45,133,2.9,yes
+PROD01178,Aashirvaad Amul Butter,Grocery,Amul Butter,,12422.53,37,471,2.8,Yes
+PROD01179,Nike Kurta,Fashion,Kurta,Nike,59828.85,28,105,4.6,No
+PROD01180,Biotique Serum,Beauty,Serum,Biotique,20210.04,-10,240,0,No
+PROD01181,Himalaya Foundation,beauty,Foundation,Himalaya,29729.73,14,156,3.0,No
+PROD01182,Westland Textbook,Books,Textbook,Westland,63269.83,22,489,1.0,No
+PROD01183,Manyavar Leggings,Fashion,Leggings,Manyavar,50946.22,33,165,2.1,No
+PROD01184,JBL Earbuds,Electronics,Earbuds,JBL,52586.25,39,473,4.0,Yes
+PROD01185,MRF Resistance Band,Sports,,MRF,10158.27,46,188,3.7,1
+PROD01186,Adidas Football,Sports,Football,Adidas,14892.72,39,38,4.1,No
+PROD01187,Prestige Pillow,Home & Kitchen,,Prestige,39740.73,-10,214,4.6,
+PROD01188,Cosco Cycling Gloves,Sports,Cycling Gloves,Cosco,59584.62,10,292,3.6,Out of Stock
+PROD01189,HP Tablet,Electronics,,HP,60799.61,46,193,4.3,Yes
+PROD01190,,Home & Kitchen,Tiffin Box,,29501.08,57,299,4.9,No
+PROD01191,Mamaearth Hair Oil,Beauty,Hair Oil,Mamaearth,27705.77,27,362,2.6,No
+PROD01192,Biba Belt,Fashion,Belt,Biba,47632.21,43,118,2.9,No
+PROD01193,Adidas Badminton Racket,Sports,Badminton Racket,Adidas,50552.4,38,418,,Yes
+PROD01194,Apple Earbuds,Electronics,Earbuds,,31095.16,15,304,,No
+PROD01195,Bajaj Water Bottle,HOME & KITCHEN,Water Bottle,Bajaj,22946.74,60,281,2.4,1
+PROD01196,Cello Knife Set,Home & Kitchen,,Cello,12357.79,37,440,1.7,No
+PROD01197,Philips Water Bottle,Home & Kitchen,Water Bottle,Philips,45539.08,27,134,4.1,yes
+PROD01198,Rupa Cookbook,Books,Cookbook,Rupa,6285.43,3,110,1.4,Yes
+PROD01199,Yonex Knee Cap,SPORTS,Knee Cap,Yonex,21530.29,17,470,3.7,No
+PROD01200,Burnish Resistance Band,Sports,Resistance Band,Burnish,19442.19,13,332,4.7,0
+PROD01201,Nykaa Serum,Beauty,Serum,Nykaa,78476.58,57,427,4.5,No
+PROD01202,Nykaa Toner,Beauty,Toner,Nykaa,27863.9,57,34,3.0,No
+PROD01203,HarperCollins Textbook,Books,Textbook,HarperCollins,4609.93,30,38,3.8,
+PROD01204,Samsung Power Bank,Electronics,Power Bank,Samsung,58320.84,15,58,3.6,No
+PROD01205,Garnier Lipstick,Beauty,Lipstick,Garnier,38732.22,10,372,2.4,Yes
+PROD01206,MRF Dumbbells,Sports,Dumbbells,,72083.71,33,99999,1.9,No
+PROD01207,Mamaearth Kajal,Beauty,,Mamaearth,17175.62,14,204,1.4,No
+PROD01208,Realme Charger,Electronics,Charger,Realme,34901.49,52,442,3.3,Yes
+PROD01209,JBL Tablet,Electronics,,JBL,62511.55,2,372,4.6,No
+PROD01210,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,30985.33,46,460,0,No
+PROD01211,Manyavar T-Shirt,Fashion,T-Shirt,Manyavar,42267.5,16,452,2.0,No
+PROD01212,Reebok Yoga Mat,Sports,Yoga Mat,,0,55,-5,3.0,No
+PROD01213,,Sports,Resistance Band,SG,20510.6,52,379,5.0,No
+PROD01214,Rupa Journal,Books,Journal,,0,2,203,1.6,0
+PROD01215,S.Chand Self Help Book,Books,Self Help Book,S.Chand,24883.78,28,,,No
+PROD01216,WOW Face Wash,Beauty,Face Wash,WOW,13114.96,17,421,3.1,Yes
+PROD01217,boAt Keyboard,ELECTRONICS,Keyboard,boAt,65249.69,57,227,1.4,Yes
+PROD01218,H&M Saree,Fashion,Saree,H&M,56948.56,23,432,2.9,0
+PROD01219,Hawkins Mixer Grinder,Home & Kitchen,Mixer Grinder,,62143.43,48,103,3.7,Yes
+PROD01220,Pigeon Tiffin Box,Home & Kitchen,Tiffin Box,Pigeon,68268.57,43,275,2.3,Yes
+PROD01221,Westland Self Help Book,Books,,Westland,25041.66,150,123,3.5,No
+PROD01222,Nykaa Sunscreen,Beauty,Sunscreen,Nykaa,0,26,116,3.6,yes
+PROD01223,Westland Workbook,Books,Workbook,Westland,11349.76,22,23,3.9,Yes
+PROD01224,Adidas Football,Sports,Football,Adidas,20379.05,1,326,3.4,No
+PROD01225,Amul Basmati Rice,Grocery,Basmati Rice,Amul,3812.45,24,334,3.2,No
+PROD01226,Reebok Dumbbells,Sports,Dumbbells,Reebok,33758.94,52,112,1.7,Yes
+PROD01227,Realme Charger,Electronics,Charger,Realme,2972.78,58,431,1.5,yes
+PROD01228,,Beauty,Serum,Biotique,49890.33,18,408,4.3,0
+PROD01229,JBL Charger,electronics,Charger,JBL,57745.01,37,364,3.0,Yes
+PROD01230,Nivia Cycling Gloves,Sports,Cycling Gloves,Nivia,49406.85,41,180,4.2,1
+PROD01231,Orient Dictionary,Books,,Orient,57137.15,29,113,3.4,Out of Stock
+PROD01232,FabIndia Dupatta,Fashion,Dupatta,FabIndia,43894.49,60,455,4.5,No
+PROD01233,Nike Kurta,Fashion,Kurta,Nike,71798.73,150,375,3.1,No
+PROD01234,Apple Laptop,Electronics,Laptop,Apple,36823.23,4,11,1.1,Yes
+PROD01235,Libas Belt,Fashion,Belt,Libas,9494.82,8,405,4.8,Yes
+PROD01236,Milton Pressure Cooker,Home & Kitchen,Pressure Cooker,Milton,15127.39,45,-5,1.6,Yes
+PROD01237,Vector X Yoga Mat,Sports,Yoga Mat,Vector X,4210.87,41,182,1.8,No
+PROD01238,Decathlon Yoga Mat,Sports,Yoga Mat,,42216.24,49,415,2.2,Out of Stock
+PROD01239,S.Chand Cookbook,Books,Cookbook,S.Chand,59110.22,2,89,1.5,No
+PROD01240,Disha Novel,Books,Novel,Disha,31373.9,58,487,1.6,No
+PROD01241,Nestle Biscuits,,Biscuits,Nestle,18752.68,34,229,4.9,Yes
+PROD01242,Rupa Cookbook,Books,Cookbook,Rupa,25068.45,2,374,2.1,No
+PROD01243,HP Smartphone,Electronics,,HP,50968.46,0,393,4.5,Out of Stock
+PROD01244,Pigeon Pressure Cooker,Home & Kitchen,Pressure Cooker,Pigeon,41227.49,52,199,1.9,No
+PROD01245,Realme Earbuds,Electronics,Earbuds,Realme,20766.07,6,333,4.3,Yes
+PROD01246,Amul Basmati Rice,Grocery,Basmati Rice,,51174.05,21,139,3.9,No
+PROD01247,Oxford Self Help Book,books,Self Help Book,Oxford,33232.22,8,24,4.8,Yes
+PROD01248,Apple Smartwatch,Electronics,Smartwatch,Apple,73554.19,34,142,3.0,no
+PROD01249,Westland Atlas,Books,Atlas,Westland,-71504.15,12,136,2.1,no
+PROD01250,Milton Water Bottle,Home & Kitchen,Water Bottle,Milton,,41,325,2.3,Out of Stock
+PROD01251,Hawkins Pillow,Home & Kitchen,,Hawkins,11324.73,17,248,1.7,No
+PROD01252,Aashirvaad Toor Dal,Grocery,Toor Dal,Aashirvaad,22655.58,5,109,4.1,No
+PROD01253,Nivia Football,sports,Football,Nivia,29562.54,19,33,3.2,Yes
+PROD01254,Fingerprint Textbook,Books,Textbook,Fingerprint,76414.33,26,244,1.5,Available
+PROD01255,Nivea Serum,Beauty,Serum,Nivea,24836.31,25,99,2.0,Yes
+PROD01256,Tupperware Bed Sheet,Home & Kitchen,Bed Sheet,Tupperware,17207.92,15,292,1.2,no
+PROD01257,Orient Workbook,Books,Workbook,Orient,56630.24,56,448,2.2,No
+PROD01258,Nestle Maggi,,Maggi,Nestle,76023.74,-10,16,2.2,No
+PROD01259,Arihant Dictionary,Books,Dictionary,Arihant,18420.36,49,138,2.5,Yes
+PROD01260,Nestle Atta,Grocery,Atta,Nestle,67554.91,41,-5,4.7,Available
+PROD01261,Vector X Dumbbells,sports,Dumbbells,Vector X,28420.67,10,5,3.6,Available
+PROD01262,Manyavar Shoes,Fashion,Shoes,Manyavar,-6495.2,27,404,-1,No
+PROD01263,Milton Pressure Cooker,Home & Kitchen,Pressure Cooker,Milton,77046.9,10,178,3.3,1
+PROD01264,Rupa Journal,Books,Journal,Rupa,57131.46,58,92,3.9,No
+PROD01265,Nestle Amul Butter,Grocery,Amul Butter,Nestle,5302.5,32,104,4.3,No
+PROD01266,Realme Smartwatch,Electronics,Smartwatch,Realme,79489.43,33,293,2.7,Yes
+PROD01267,Nivea Foundation,Beauty,Foundation,Nivea,905.24,7,327,1.0,Yes
+PROD01268,Reebok Resistance Band,Sports,Resistance Band,Reebok,37503.38,30,249,2.2,Yes
+PROD01269,Orient Water Bottle,Home & Kitchen,Water Bottle,Orient,,26,423,4.2,No
+PROD01270,Mi Earbuds,Electronics,Earbuds,Mi,16758.37,9,94,2.1,Yes
+PROD01271,L'Oreal Lipstick,Beauty,Lipstick,L'Oreal,13841.5,20,19,2.5,Yes
+PROD01272,Fingerprint Cookbook,Books,,,78258.09,13,93,5.0,Yes
+PROD01273,Cello Pillow,Home & Kitchen,Pillow,,0,56,22,4.3,No
+PROD01274,MDH Green Tea,grocery,Green Tea,MDH,9999999,8,480,3.8,No
+PROD01275,Philips Pressure Cooker,Home & Kitchen,Pressure Cooker,Philips,74974.51,60,82,4.7,No
+PROD01276,H&M T-Shirt,Fashion,,,45772.18,25,363,6.5,Yes
+PROD01277,HP Keyboard,electronics,Keyboard,HP,34917.95,29,182,4.5,Yes
+PROD01278,Rupa Dictionary,Books,Dictionary,Rupa,13844.07,37,346,3.0,No
+PROD01279,Himalaya Serum,Beauty,Serum,Himalaya,69493.26,19,296,1.1,Yes
+PROD01280,Philips Water Bottle,Home & Kitchen,Water Bottle,Philips,70614.62,36,390,3.0,1
+PROD01281,Nestle Salt,grocery,Salt,Nestle,46032.82,150,359,3.8,Available
+PROD01282,Biotique Shampoo,BEAUTY,Shampoo,,49917.18,51,451,4.5,Yes
+PROD01283,Milton Mixer Grinder,Home & Kitchen,Mixer Grinder,Milton,64862.9,-10,101,3.5,No
+PROD01284,HarperCollins Textbook,Books,Textbook,HarperCollins,26788.3,3,98,2.9,No
+PROD01285,Realme Smartwatch,Electronics,Smartwatch,Realme,43124.31,52,99999,2.0,No
+PROD01286,,Sports,Skipping Rope,Yonex,11800.36,14,470,3.9,Yes
+PROD01287,Puma Dupatta,Fashion,Dupatta,Puma,67721.81,7,169,4.3,Yes
+PROD01288,HarperCollins Biography,Books,Biography,HarperCollins,9578.39,2,450,3.5,Yes
+PROD01289,HP Keyboard,Electronics,Keyboard,HP,69993.48,-10,445,0,Yes
+PROD01290,OnePlus Smartphone,,Smartphone,OnePlus,72870.08,27,306,3.8,yes
+PROD01291,W T-Shirt,Fashion,T-Shirt,W,17818.7,0,118,3.1,No
+PROD01292,Puma Kurta,Fashion,,Puma,9999999,10,352,2.7,Yes
+PROD01293,Yonex Cricket Bat,Sports,Cricket Bat,Yonex,16512.77,2,218,4.7,Out of Stock
+PROD01294,Nike Belt,Fashion,Belt,Nike,43954.95,29,,1.7,1
+PROD01295,,Grocery,Honey,Aashirvaad,26802.29,53,223,4.5,0
+PROD01296,Yonex Dumbbells,Sports,Dumbbells,Yonex,17773.34,11,368,1.5,No
+PROD01297,Tata Saffola Oil,Grocery,Saffola Oil,Tata,-1058.48,4,263,2.2,No
+PROD01298,HP Earbuds,Electronics,Earbuds,HP,34758.39,150,252,4.8,1
+PROD01299,Patanjali Saffola Oil,grocery,Saffola Oil,Patanjali,76353.02,27,318,2.4,Yes
+PROD01300,Himalaya Foundation,Beauty,Foundation,Himalaya,33731.2,2,34,3.3,No
+PROD01301,H&M Dupatta,Fashion,Dupatta,H&M,51289.68,55,348,2.9,No
+PROD01302,Adidas Resistance Band,Sports,,Adidas,0,47,473,1.9,No
+PROD01303,Nike Shoes,Fashion,Shoes,Nike,59399.93,32,142,3.8,No
+PROD01304,Tupperware Pillow,,Pillow,Tupperware,75921.27,57,139,1.3,No
+PROD01305,Vector X Cricket Bat,Sports,Cricket Bat,Vector X,11349.17,,281,1.1,Yes
+PROD01306,,Beauty,Lipstick,WOW,32857.64,19,241,3.3,0
+PROD01307,Biba Kurta,Fashion,Kurta,Biba,29679.56,41,30,6.5,Yes
+PROD01308,WOW Serum,beauty,Serum,WOW,63360.93,49,86,6.5,
+PROD01309,Milton Mixer Grinder,Home & Kitchen,,Milton,6378.86,54,450,2.5,0
+PROD01310,Tata Biscuits,Grocery,Biscuits,Tata,9999999,9,25,1.9,No
+PROD01311,Mamaearth Lipstick,Beauty,Lipstick,Mamaearth,76900.7,6,123,2.0,No
+PROD01312,Philips Curtain,Home & Kitchen,Curtain,Philips,69580.39,11,152,3.9,No
+PROD01313,Rupa Textbook,BOOKS,Textbook,Rupa,27430.25,42,292,4.6,No
+PROD01314,Prestige Knife Set,Home & Kitchen,Knife Set,Prestige,0,49,291,-1,No
+PROD01315,Nike Jacket,Fashion,,Nike,77877.26,2,138,6.5,Yes
+PROD01316,Tupperware Pillow,Home & Kitchen,Pillow,Tupperware,34165.38,25,424,5.0,Yes
+PROD01317,Cosco Cycling Gloves,Sports,Cycling Gloves,Cosco,51951.65,55,439,3.3,No
+PROD01318,Philips Mop,Home & Kitchen,Mop,Philips,9999999,43,-5,3.3,No
+PROD01319,H&M Jacket,Fashion,Jacket,H&M,71054.71,15,,2.2,1
+PROD01320,Vector X Cycling Gloves,Sports,Cycling Gloves,Vector X,73215.33,19,449,4.2,No
+PROD01321,Mi Tablet,Electronics,Tablet,,13627.31,34,,4.9,0
+PROD01322,Pigeon Pressure Cooker,HOME & KITCHEN,Pressure Cooker,Pigeon,281.09,31,164,3.9,Yes
+PROD01323,Prestige Bed Sheet,Home & Kitchen,,Prestige,73564.15,55,30,2.6,No
+PROD01324,Borosil Tiffin Box,Home & Kitchen,Tiffin Box,Borosil,49358.65,14,351,1.8,No
+PROD01325,Reebok Resistance Band,SPORTS,Resistance Band,Reebok,51018.51,,194,2.5,Yes
+PROD01326,Aashirvaad Atta,Grocery,Atta,Aashirvaad,54748.85,0,51,4.3,No
+PROD01327,W Jeans,Fashion,Jeans,W,0,14,66,2.9,Yes
+PROD01328,Puma Kurta,Fashion,Kurta,Puma,71248.21,5,381,2.6,No
+PROD01329,Patanjali Maggi,Grocery,Maggi,Patanjali,,3,-5,-1,yes
+PROD01330,Nike Dupatta,Fashion,Dupatta,Nike,41612.3,7,38,2.9,No
+PROD01331,Disha Biography,BOOKS,Biography,Disha,67931.53,60,68,3.8,No
+PROD01332,Nivea Hair Oil,BEAUTY,Hair Oil,Nivea,70570.77,12,177,0,No
+PROD01333,Dabur Atta,Grocery,Atta,Dabur,64200.89,57,357,2.2,Yes
+PROD01334,Dabur Atta,GROCERY,Atta,,0,45,408,1.0,Available
+PROD01335,Nivea Hair Oil,BEAUTY,Hair Oil,Nivea,51114.13,12,340,3.2,Yes
+PROD01336,Amul Maggi,Grocery,,Amul,54034.61,,364,2.5,Yes
+PROD01337,Fingerprint Workbook,Books,Workbook,,23711.79,3,358,4.3,No
+PROD01338,Cello Water Bottle,Home & Kitchen,Water Bottle,Cello,15615.59,60,90,,Yes
+PROD01339,boAt Tablet,Electronics,Tablet,boAt,-64509.26,3,322,2.6,Yes
+PROD01340,H&M Saree,Fashion,Saree,H&M,25619.61,10,388,5.0,Yes
+PROD01341,Arihant Textbook,Books,Textbook,Arihant,46240.74,39,111,3.2,yes
+PROD01342,Cello Tiffin Box,home & kitchen,Tiffin Box,Cello,12511.48,52,69,2.3,Yes
+PROD01343,Lakmé Face Wash,Beauty,Face Wash,Lakmé,26171.23,-10,76,2.2,Available
+PROD01344,Pigeon Pressure Cooker,Home & Kitchen,Pressure Cooker,Pigeon,69364.3,7,398,1.9,No
+PROD01345,Nivea Foundation,Beauty,Foundation,Nivea,15699.79,18,395,1.1,No
+PROD01346,Mamaearth Face Wash,BEAUTY,Face Wash,Mamaearth,11414.66,56,197,1.0,No
+PROD01347,Cosco Water Jug,SPORTS,Water Jug,Cosco,67808.76,10,130,3.8,No
+PROD01348,Manyavar Saree,Fashion,Saree,Manyavar,70489.05,59,53,2.6,No
+PROD01349,Samsung Power Bank,Electronics,Power Bank,Samsung,28985.66,44,188,4.8,No
+PROD01350,Orient Mixer Grinder,Home & Kitchen,Mixer Grinder,Orient,51243.16,3,41,1.8,Yes
+PROD01351,Dove Hair Oil,Beauty,Hair Oil,Dove,0,18,231,3.6,
+PROD01352,HarperCollins Textbook,Books,Textbook,HarperCollins,66460.82,3,229,4.3,Yes
+PROD01353,Lakmé Kajal,Beauty,Kajal,Lakmé,44394.77,29,449,4.4,Yes
+PROD01354,Oxford Journal,Books,Journal,Oxford,51262.12,3,69,2.1,Yes
+PROD01355,Dabur Honey,grocery,,Dabur,74637.77,8,346,3.4,Yes
+PROD01356,FabIndia Saree,Fashion,Saree,FabIndia,10192.25,14,50,6.5,No
+PROD01357,,home & kitchen,Pillow,Milton,5693.33,1,78,3.8,No
+PROD01358,Nykaa Toner,Beauty,Toner,Nykaa,62872.35,54,362,1.2,Yes
+PROD01359,Philips Knife Set,Home & Kitchen,Knife Set,Philips,64090.26,34,346,1.2,No
+PROD01360,Milton Mixer Grinder,Home & Kitchen,,Milton,5842.21,34,311,2.0,Yes
+PROD01361,Yonex Knee Cap,Sports,Knee Cap,Yonex,48924.41,0,465,1.6,Yes
+PROD01362,Tata Biscuits,Grocery,Biscuits,Tata,23549.31,45,383,0,Yes
+PROD01363,,Beauty,Face Wash,WOW,18961.16,25,332,1.0,Yes
+PROD01364,S.Chand Novel,Books,Novel,S.Chand,9290.33,20,177,3.3,Yes
+PROD01365,OnePlus Power Bank,Electronics,Power Bank,OnePlus,32144.64,49,46,4.9,Yes
+PROD01366,Bajaj Knife Set,Home & Kitchen,Knife Set,Bajaj,15705.67,59,196,3.0,Yes
+PROD01367,Nestle Toor Dal,Grocery,Toor Dal,Nestle,32768.3,13,68,4.6,no
+PROD01368,MDH Salt,GROCERY,Salt,MDH,65480.68,32,117,3.9,No
+PROD01369,Reebok Badminton Racket,Sports,Badminton Racket,Reebok,28713.74,59,295,0,No
+PROD01370,Prestige Air Fryer,Home & Kitchen,Air Fryer,Prestige,21167.9,8,6,3.7,Yes
+PROD01371,H&M Shoes,FASHION,Shoes,H&M,9999999,30,99999,3.7,No
+PROD01372,Burnish Skipping Rope,Sports,Skipping Rope,Burnish,14061.25,60,169,3.5,No
+PROD01373,Arihant Biography,Books,Biography,Arihant,9999999,37,35,1.6,
+PROD01374,Apple Charger,Electronics,Charger,Apple,21131.54,26,,2.0,
+PROD01375,Decathlon Resistance Band,Sports,Resistance Band,Decathlon,,50,441,3.4,No
+PROD01376,Cosco Football,Sports,Football,Cosco,77125.84,55,116,4.5,Yes
+PROD01377,HarperCollins Novel,Books,Novel,HarperCollins,40487.26,50,244,3.5,No
+PROD01378,Biotique Toner,Beauty,Toner,Biotique,76004.4,50,116,2.6,no
+PROD01379,L'Oreal Serum,beauty,Serum,L'Oreal,58432.74,-10,91,1.0,Yes
+PROD01380,Adidas Knee Cap,Sports,Knee Cap,Adidas,55393.41,-10,164,4.0,Yes
+PROD01381,Fingerprint Comic,Books,Comic,Fingerprint,57198.19,24,176,2.3,
+PROD01382,,HOME & KITCHEN,Water Bottle,Pigeon,-63090.41,46,32,2.8,0
+PROD01383,Hawkins Mop,Home & Kitchen,Mop,Hawkins,36448.35,13,387,1.1,Out of Stock
+PROD01384,ITC Honey,Grocery,Honey,ITC,57384.74,22,249,1.8,No
+PROD01385,Mi Earbuds,Electronics,Earbuds,Mi,28490.64,7,269,2.4,Yes
+PROD01386,Hawkins Water Bottle,Home & Kitchen,,Hawkins,75849.07,2,341,,1
+PROD01387,Nestle Basmati Rice,Grocery,Basmati Rice,Nestle,37766.22,43,253,4.4,Out of Stock
+PROD01388,OnePlus Tablet,Electronics,,,69264.45,60,265,1.9,1
+PROD01389,Borosil Mop,Home & Kitchen,Mop,Borosil,32507.83,11,151,4.9,No
+PROD01390,Libas Kurta,Fashion,Kurta,Libas,53270.12,29,466,4.4,Yes
+PROD01391,Mamaearth Face Wash,Beauty,Face Wash,Mamaearth,9728.85,,329,2.0,
+PROD01392,Disha Dictionary,Books,Dictionary,Disha,13557.79,14,189,2.1,
+PROD01393,Biba Dupatta,Fashion,Dupatta,Biba,23163.92,6,206,1.8,no
+PROD01394,Samsung Tablet,Electronics,Tablet,Samsung,79262.61,25,289,1.0,
+PROD01395,Cello Air Fryer,Home & Kitchen,Air Fryer,,57667.78,23,82,4.7,0
+PROD01396,FabIndia Shoes,fashion,Shoes,FabIndia,12485.21,26,410,4.0,No
+PROD01397,Patanjali Saffola Oil,Grocery,,Patanjali,37206.2,54,,1.3,1
+PROD01398,Nivia Water Jug,Sports,Water Jug,Nivia,27539.39,52,263,1.7,yes
+PROD01399,Himalaya Foundation,BEAUTY,Foundation,Himalaya,49408.4,7,417,6.5,1
+PROD01400,Tupperware Knife Set,Home & Kitchen,Knife Set,Tupperware,32325.11,37,304,1.7,Yes
+PROD01401,Zara T-Shirt,FASHION,T-Shirt,Zara,62346.62,53,378,4.0,Out of Stock
+PROD01402,Reebok Cricket Bat,Sports,Cricket Bat,Reebok,23271.96,40,151,2.1,Yes
+PROD01403,Bajaj Curtain,Home & Kitchen,Curtain,Bajaj,71355.52,52,384,1.4,0
+PROD01404,Manyavar Dress,fashion,Dress,Manyavar,14132.82,37,105,3.5,No
+PROD01405,Borosil Mixer Grinder,Home & Kitchen,Mixer Grinder,Borosil,21982.92,54,33,3.6,Available
+PROD01406,H&M Shoes,Fashion,Shoes,H&M,52762.51,51,121,3.9,Yes
+PROD01407,Borosil Air Fryer,Home & Kitchen,Air Fryer,Borosil,39983.84,57,428,1.1,No
+PROD01408,JBL Charger,Electronics,Charger,JBL,22274.22,60,304,1.3,0
+PROD01409,MRF Water Jug,Sports,,MRF,43288.11,50,137,2.0,Yes
+PROD01410,Haldiram Green Tea,Grocery,,Haldiram,19921.64,9,346,3.8,No
+PROD01411,Decathlon Water Jug,sports,,Decathlon,0,29,183,5.0,No
+PROD01412,Borosil Mixer Grinder,Home & Kitchen,,Borosil,5545.66,52,478,3.9,No
+PROD01413,HP Keyboard,Electronics,Keyboard,HP,42440.7,2,,2.2,No
+PROD01414,MRF Cycling Gloves,Sports,Cycling Gloves,MRF,28844.1,7,484,3.2,No
+PROD01415,Mi Keyboard,Electronics,Keyboard,Mi,25454.23,18,411,1.4,
+PROD01416,Decathlon Dumbbells,Sports,Dumbbells,Decathlon,57297.48,150,123,3.9,No
+PROD01417,Westland Workbook,Books,Workbook,Westland,65431.61,46,365,,No
+PROD01418,Manyavar Dress,Fashion,Dress,Manyavar,27750.19,15,277,3.7,Yes
+PROD01419,Tupperware Mixer Grinder,HOME & KITCHEN,Mixer Grinder,Tupperware,3821.41,60,137,3.4,Yes
+PROD01420,Manyavar Dupatta,Fashion,Dupatta,Manyavar,9999999,150,292,3.4,no
+PROD01421,Haldiram Amul Butter,Grocery,Amul Butter,Haldiram,51095.97,3,434,4.7,0
+PROD01422,Disha Journal,Books,Journal,Disha,45203.44,21,74,1.6,Yes
+PROD01423,Bajaj Pressure Cooker,HOME & KITCHEN,Pressure Cooker,Bajaj,-44491.52,49,262,5.0,
+PROD01424,MRF Football,Sports,Football,MRF,70104.55,41,294,6.5,No
+PROD01425,ITC Saffola Oil,grocery,Saffola Oil,ITC,25885.57,34,466,6.5,Yes
+PROD01426,Decathlon Badminton Racket,Sports,Badminton Racket,Decathlon,7268.01,16,320,4.0,Yes
+PROD01427,Nivia Cricket Bat,Sports,,Nivia,28417.29,5,-5,3.1,Yes
+PROD01428,Adidas Kurta,Fashion,Kurta,Adidas,71570.5,1,81,1.1,no
+PROD01429,Bajaj Air Fryer,Home & Kitchen,Air Fryer,Bajaj,59658.69,46,104,1.4,no
+PROD01430,Oxford Dictionary,BOOKS,Dictionary,Oxford,31073.47,19,20,3.3,Out of Stock
+PROD01431,Cello Pillow,Home & Kitchen,Pillow,Cello,26418.03,55,19,3.4,Yes
+PROD01432,Adidas Saree,Fashion,Saree,Adidas,20523.5,30,99999,3.8,Out of Stock
+PROD01433,W Shoes,Fashion,Shoes,W,15860.45,26,271,4.2,yes
+PROD01434,HarperCollins Novel,Books,Novel,HarperCollins,79604.47,150,169,3.2,No
+PROD01435,Orient Dictionary,Books,Dictionary,Orient,63424.6,,98,,No
+PROD01436,Orient Bed Sheet,,Bed Sheet,Orient,25757.6,32,425,1.7,0
+PROD01437,Hawkins Tiffin Box,Home & Kitchen,Tiffin Box,Hawkins,30833.49,0,301,4.0,Yes
+PROD01438,WOW Moisturizer,Beauty,Moisturizer,WOW,9999999,6,333,3.8,Yes
+PROD01439,Libas Leggings,Fashion,,Libas,35156.01,16,323,3.1,No
+PROD01440,Philips Pillow,Home & Kitchen,Pillow,Philips,-65580.27,1,99999,4.5,Yes
+PROD01441,Vector X Cycling Gloves,Sports,Cycling Gloves,Vector X,60923.9,54,97,4.9,Yes
+PROD01442,Oxford Biography,Books,Biography,Oxford,10963.81,38,224,,Yes
+PROD01443,Garnier Foundation,Beauty,Foundation,Garnier,57075.48,5,333,3.4,Yes
+PROD01444,Rupa Cookbook,Books,Cookbook,Rupa,,150,380,2.8,No
+PROD01445,Adidas Dupatta,Fashion,,Adidas,68608.92,34,79,2.6,Yes
+PROD01446,Orient Tiffin Box,HOME & KITCHEN,Tiffin Box,Orient,33450.77,9,243,3.9,no
+PROD01447,,Fashion,Leggings,FabIndia,19182.98,28,269,3.3,No
+PROD01448,Apple Smartwatch,Electronics,Smartwatch,Apple,9999999,59,455,2.9,0
+PROD01449,Adidas Shoes,Fashion,Shoes,Adidas,17144.56,44,446,2.3,Yes
+PROD01450,Biotique Hair Oil,Beauty,Hair Oil,Biotique,8323.38,12,299,1.2,Yes
+PROD01451,Westland Journal,Books,Journal,Westland,10046.29,11,349,2.2,No
+PROD01452,Haldiram Salt,Grocery,Salt,Haldiram,25568.99,29,335,5.0,No
+PROD01453,Lenovo Earbuds,Electronics,Earbuds,Lenovo,18167.72,32,459,2.1,Yes
+PROD01454,Nestle Honey,Grocery,Honey,Nestle,65825.94,19,280,3.6,No
+PROD01455,,BEAUTY,Moisturizer,Garnier,70985.05,58,218,3.7,No
+PROD01456,Haldiram Saffola Oil,Grocery,Saffola Oil,Haldiram,71027.85,24,42,3.0,Yes
+PROD01457,HarperCollins Novel,Books,Novel,HarperCollins,52610.46,,-5,3.6,Yes
+PROD01458,Britannia Atta,grocery,,Britannia,27169.48,10,295,3.8,Yes
+PROD01459,Arihant Dictionary,Books,Dictionary,Arihant,71582.94,11,99999,1.9,No
+PROD01460,Orient Bed Sheet,Home & Kitchen,Bed Sheet,,33917.93,37,,2.1,No
+PROD01461,boAt Keyboard,Electronics,Keyboard,boAt,72339.87,41,168,2.1,No
+PROD01462,Cello Curtain,Home & Kitchen,Curtain,Cello,0,37,173,6.5,No
+PROD01463,Dell Smartphone,Electronics,Smartphone,Dell,55046.03,21,327,4.3,no
+PROD01464,Biotique Sunscreen,Beauty,Sunscreen,Biotique,8531.16,,310,1.6,Yes
+PROD01465,Britannia Toor Dal,grocery,Toor Dal,Britannia,27487.1,9,399,4.1,Yes
+PROD01466,Orient Journal,Books,,Orient,25543.37,150,489,1.5,Yes
+PROD01467,,HOME & KITCHEN,,Tupperware,46742.37,35,113,3.4,Yes
+PROD01468,Pigeon Pressure Cooker,Home & Kitchen,,Pigeon,30577.31,31,342,1.4,Yes
+PROD01469,L'Oreal Shampoo,Beauty,Shampoo,L'Oreal,39615.73,32,99999,3.9,Yes
+PROD01470,MDH Saffola Oil,Grocery,Saffola Oil,,5966.81,36,99999,3.7,No
+PROD01471,Milton Pressure Cooker,Home & Kitchen,Pressure Cooker,Milton,59302.3,12,302,4.1,no
+PROD01472,Hawkins Water Bottle,,Water Bottle,Hawkins,51720.36,14,243,2.5,Yes
+PROD01473,,Sports,Resistance Band,Yonex,56844.58,25,146,1.3,Out of Stock
+PROD01474,Samsung Keyboard,Electronics,,,8689.4,38,219,-1,No
+PROD01475,HarperCollins Journal,BOOKS,Journal,HarperCollins,14411.69,,270,4.8,Yes
+PROD01476,Yonex Yoga Mat,Sports,Yoga Mat,Yonex,24633.36,42,21,4.7,No
+PROD01477,Philips Mixer Grinder,Home & Kitchen,Mixer Grinder,Philips,0,15,99999,4.4,no
+PROD01478,Bajaj Pressure Cooker,home & kitchen,Pressure Cooker,Bajaj,5940.24,18,248,3.1,No
+PROD01479,OnePlus Laptop,Electronics,Laptop,OnePlus,36709.32,57,364,2.6,Yes
+PROD01480,Mi Smartphone,Electronics,Smartphone,Mi,16347.17,,354,1.7,0
+PROD01481,HarperCollins Biography,Books,Biography,HarperCollins,2796.08,55,7,4.9,0
+PROD01482,Adidas Football,Sports,Football,Adidas,74115.59,57,275,3.0,No
+PROD01483,H&M Belt,Fashion,Belt,H&M,4960.02,51,48,3.2,No
+PROD01484,Adidas Knee Cap,Sports,Knee Cap,Adidas,52067.8,49,-5,3.4,no
+PROD01485,MDH Atta,Grocery,Atta,MDH,73215.69,16,407,1.6,Yes
+PROD01486,Amul Toor Dal,Grocery,Toor Dal,Amul,77503.85,2,307,1.5,No
+PROD01487,Libas Dupatta,FASHION,Dupatta,Libas,0,29,46,1.3,Yes
+PROD01488,Nike Jeans,Fashion,,Nike,5280.93,23,490,1.9,Yes
+PROD01489,Reebok Water Jug,sports,Water Jug,Reebok,27355.28,43,281,1.4,Yes
+PROD01490,W Dupatta,Fashion,Dupatta,W,60557.06,49,219,2.8,Yes
+PROD01491,MRF Cricket Bat,Sports,,MRF,56273.21,57,37,2.8,Yes
+PROD01492,Nivia Yoga Mat,sports,Yoga Mat,Nivia,65180.09,51,269,2.2,Yes
+PROD01493,Lenovo Smartwatch,Electronics,,Lenovo,19992.33,23,248,2.8,No
+PROD01494,Haldiram Green Tea,Grocery,Green Tea,Haldiram,9821.14,22,439,1.2,Yes
+PROD01495,MRF Resistance Band,SPORTS,Resistance Band,MRF,53268.54,24,140,2.3,No
+PROD01496,Burnish Knee Cap,Sports,Knee Cap,Burnish,62481.6,27,301,0,1
+PROD01497,Rupa Cookbook,Books,Cookbook,Rupa,41952.28,1,4,6.5,No
+PROD01498,Puma Kurta,FASHION,Kurta,Puma,30122.82,40,275,4.9,1
+PROD01499,HarperCollins Self Help Book,Books,Self Help Book,HarperCollins,29696.77,8,81,3.2,No
+PROD01500,Fingerprint Self Help Book,Books,Self Help Book,Fingerprint,16346.83,16,330,3.8,Yes
+PROD01501,Pigeon Mixer Grinder,Home & Kitchen,Mixer Grinder,Pigeon,22256.87,11,168,2.3,Available
+PROD01502,MRF Knee Cap,Sports,Knee Cap,MRF,38353.06,26,471,1.6,Yes
+PROD01503,Samsung Speaker,Electronics,Speaker,Samsung,27822.13,1,229,4.6,Yes
+PROD01504,Hawkins Tiffin Box,Home & Kitchen,Tiffin Box,Hawkins,3816.77,43,69,3.7,Yes
+PROD01505,Patanjali Honey,Grocery,Honey,Patanjali,32362.22,28,104,1.6,No
+PROD01506,HP Smartwatch,,Smartwatch,HP,75761.07,1,36,3.5,
+PROD01507,WOW Toner,Beauty,Toner,WOW,5102.54,29,321,3.8,No
+PROD01508,Vector X Cycling Gloves,Sports,Cycling Gloves,Vector X,0,4,166,1.8,Yes
+PROD01509,FabIndia Shoes,Fashion,Shoes,,4300.26,26,107,2.3,Available
+PROD01510,Oxford Atlas,Books,Atlas,Oxford,22244.24,1,378,1.7,No
+PROD01511,SG Football,Sports,Football,SG,8836.91,28,235,4.3,Yes
+PROD01512,Disha Cookbook,Books,Cookbook,Disha,27026.76,31,77,1.6,No
+PROD01513,Philips Mixer Grinder,Home & Kitchen,Mixer Grinder,Philips,27987.71,17,14,2.3,1
+PROD01514,Tupperware Mixer Grinder,home & kitchen,Mixer Grinder,Tupperware,9999999,18,171,2.6,No
+PROD01515,Oxford Cookbook,Books,Cookbook,Oxford,65090.8,58,275,2.4,Yes
+PROD01516,Burnish Yoga Mat,Sports,Yoga Mat,Burnish,22593.26,4,208,2.4,1
+PROD01517,WOW Foundation,Beauty,Foundation,WOW,9999999,52,-5,4.6,No
+PROD01518,Oxford Comic,Books,,Oxford,33891.62,45,195,3.6,
+PROD01519,Apple Smartwatch,Electronics,Smartwatch,Apple,49917.08,58,338,3.6,No
+PROD01520,Westland Comic,Books,Comic,Westland,6006.85,52,213,1.5,No
+PROD01521,Penguin Self Help Book,BOOKS,Self Help Book,Penguin,44302.18,58,31,6.5,Yes
+PROD01522,Dell Speaker,Electronics,Speaker,Dell,34191.51,13,52,4.2,No
+PROD01523,Hawkins Mixer Grinder,HOME & KITCHEN,Mixer Grinder,,63170.4,21,64,2.5,Yes
+PROD01524,Puma Leggings,Fashion,Leggings,Puma,61376.14,28,392,4.0,No
+PROD01525,ITC Amul Butter,Grocery,Amul Butter,ITC,42759.97,44,414,4.8,No
+PROD01526,S.Chand Dictionary,Books,Dictionary,S.Chand,57281.85,43,40,,1
+PROD01527,Orient Biography,Books,Biography,Orient,21020.17,50,274,4.4,Yes
+PROD01528,Libas Jeans,FASHION,Jeans,Libas,69993.35,60,13,1.5,No
+PROD01529,Rupa Comic,books,Comic,Rupa,14576.33,18,-5,1.7,No
+PROD01530,,Books,,Orient,10900.67,10,496,5.0,Yes
+PROD01531,JBL Earbuds,electronics,,JBL,11607.45,38,340,,Yes
+PROD01532,JBL Smartwatch,Electronics,Smartwatch,JBL,41238.34,21,113,3.5,Available
+PROD01533,Aashirvaad Saffola Oil,GROCERY,Saffola Oil,Aashirvaad,61084.43,25,176,2.9,No
+PROD01534,Dell Smartwatch,ELECTRONICS,Smartwatch,Dell,32207.22,2,400,1.5,yes
+PROD01535,Himalaya Lipstick,Beauty,Lipstick,,9999999,8,319,4.6,0
+PROD01536,Borosil Pillow,HOME & KITCHEN,Pillow,Borosil,28462.5,43,208,4.7,Yes
+PROD01537,Adidas Saree,Fashion,Saree,Adidas,39912.73,15,478,4.7,no
+PROD01538,JBL Charger,ELECTRONICS,Charger,JBL,35712.19,46,301,2.6,Out of Stock
+PROD01539,Mamaearth Moisturizer,Beauty,Moisturizer,,42892.91,32,500,1.7,Yes
+PROD01540,Britannia Green Tea,Grocery,,Britannia,26352.57,37,332,3.9,Yes
+PROD01541,Decathlon Resistance Band,Sports,Resistance Band,Decathlon,62105.78,36,206,4.7,Yes
+PROD01542,,Sports,Yoga Mat,Adidas,49456.43,16,40,2.2,Yes
+PROD01543,MRF Skipping Rope,Sports,Skipping Rope,,44025.86,21,247,1.4,No
+PROD01544,HP Smartphone,Electronics,Smartphone,HP,45819.67,34,169,-1,No
+PROD01545,MDH Honey,Grocery,Honey,MDH,72302.85,32,210,3.5,Yes
+PROD01546,Nykaa Toner,BEAUTY,Toner,Nykaa,1417.48,51,280,3.5,No
+PROD01547,Aashirvaad Biscuits,Grocery,Biscuits,Aashirvaad,35758.29,43,136,,No
+PROD01548,Orient Pillow,Home & Kitchen,Pillow,Orient,25780.27,0,178,2.6,yes
+PROD01549,Biba Kurta,Fashion,Kurta,Biba,57107.53,55,272,3.9,No
+PROD01550,W Dress,Fashion,Dress,W,66251.6,13,57,2.6,No
+PROD01551,,SPORTS,Skipping Rope,Yonex,26516.3,23,218,4.7,No
+PROD01552,SG Yoga Mat,Sports,Yoga Mat,SG,68768.01,3,99999,2.9,No
+PROD01553,Orient Workbook,Books,Workbook,Orient,11637.52,8,443,1.2,No
+PROD01554,Mamaearth Moisturizer,Beauty,Moisturizer,Mamaearth,8054.04,13,485,1.6,Yes
+PROD01555,,Electronics,Keyboard,Lenovo,26967.1,40,358,1.5,No
+PROD01556,Tata Honey,Grocery,Honey,Tata,59128.1,55,34,2.9,Yes
+PROD01557,Libas Jacket,Fashion,,Libas,-62782.83,22,150,3.5,No
+PROD01558,Westland Cookbook,Books,Cookbook,Westland,34813.09,14,408,3.8,Yes
+PROD01559,MDH Basmati Rice,Grocery,Basmati Rice,MDH,6910.91,34,255,3.5,No
+PROD01560,Apple Speaker,Electronics,,Apple,882.67,36,234,4.0,Out of Stock
+PROD01561,Nivia Yoga Mat,Sports,,Nivia,35933.37,30,431,2.8,No
+PROD01562,Haldiram Maggi,Grocery,Maggi,Haldiram,36303.51,30,121,4.2,Out of Stock
+PROD01563,Realme Tablet,Electronics,Tablet,Realme,75647.26,50,393,1.3,Yes
+PROD01564,Libas Kurta,Fashion,Kurta,Libas,-8721.54,1,62,4.0,No
+PROD01565,Zara Dress,Fashion,Dress,Zara,15892.55,53,86,3.7,No
+PROD01566,Dabur Green Tea,grocery,Green Tea,Dabur,71062.43,13,476,2.8,Out of Stock
+PROD01567,Yonex Football,,Football,Yonex,32593.95,28,99999,4.8,Yes
+PROD01568,L'Oreal Hair Oil,Beauty,Hair Oil,L'Oreal,52151.85,-10,119,3.3,Out of Stock
+PROD01569,Oxford Journal,Books,Journal,Oxford,56398.78,9,292,2.5,Yes
+PROD01570,Lenovo Mouse,Electronics,Mouse,Lenovo,18907.71,9,45,4.0,Yes
+PROD01571,OnePlus Smartwatch,Electronics,Smartwatch,OnePlus,46606.02,3,107,3.3,no
+PROD01572,Hawkins Pillow,Home & Kitchen,Pillow,Hawkins,53548.65,6,99999,4.8,Yes
+PROD01573,Biba Saree,Fashion,Saree,Biba,0,13,132,2.6,No
+PROD01574,Oxford Self Help Book,Books,Self Help Book,Oxford,70731.0,6,181,3.5,Yes
+PROD01575,Borosil Mixer Grinder,HOME & KITCHEN,Mixer Grinder,Borosil,-60073.14,0,399,2.7,Yes
+PROD01576,Libas Shoes,Fashion,Shoes,Libas,78583.96,5,434,1.4,No
+PROD01577,Pigeon Mixer Grinder,Home & Kitchen,Mixer Grinder,Pigeon,25437.01,59,430,4.2,Out of Stock
+PROD01578,Rupa Dictionary,Books,Dictionary,Rupa,20816.72,55,338,2.5,Yes
+PROD01579,Lenovo Power Bank,Electronics,Power Bank,Lenovo,61677.64,-10,299,3.1,Yes
+PROD01580,Haldiram Amul Butter,Grocery,Amul Butter,Haldiram,0,21,441,2.2,No
+PROD01581,Samsung Mouse,Electronics,Mouse,,75873.35,55,409,4.8,No
+PROD01582,Lenovo Speaker,Electronics,Speaker,Lenovo,70052.56,6,331,,Yes
+PROD01583,Nestle Saffola Oil,Grocery,Saffola Oil,Nestle,31566.23,8,241,2.1,Yes
+PROD01584,Rupa Workbook,Books,Workbook,Rupa,39118.01,55,347,1.3,no
+PROD01585,Zara Kurta,Fashion,Kurta,Zara,59552.46,57,220,4.4,No
+PROD01586,OnePlus Smartwatch,ELECTRONICS,,OnePlus,43583.1,50,99999,4.7,No
+PROD01587,,Beauty,Shampoo,,24499.44,28,3,2.0,Yes
+PROD01588,Hawkins Mixer Grinder,Home & Kitchen,Mixer Grinder,Hawkins,76154.45,51,372,4.9,Yes
+PROD01589,,Fashion,Shoes,Adidas,68022.31,16,433,3.7,No
+PROD01590,ITC Atta,Grocery,Atta,ITC,40284.66,12,55,0,no
+PROD01591,S.Chand Textbook,Books,Textbook,S.Chand,43595.77,30,-5,2.1,Yes
+PROD01592,Pigeon Bed Sheet,Home & Kitchen,Bed Sheet,Pigeon,76990.17,11,457,1.7,no
+PROD01593,Fingerprint Journal,Books,Journal,Fingerprint,7081.59,55,468,3.1,Out of Stock
+PROD01594,Tupperware Pillow,home & kitchen,Pillow,Tupperware,51298.41,19,189,2.7,Yes
+PROD01595,Yonex Cycling Gloves,Sports,Cycling Gloves,Yonex,62333.73,17,202,4.1,Yes
+PROD01596,Patanjali Salt,Grocery,Salt,Patanjali,55261.92,0,180,3.0,1
+PROD01597,Adidas Jacket,Fashion,Jacket,Adidas,77563.02,13,296,3.8,Yes
+PROD01598,MRF Cycling Gloves,Sports,Cycling Gloves,,19836.3,47,380,3.9,Yes
+PROD01599,Britannia Basmati Rice,Grocery,Basmati Rice,Britannia,5875.42,,222,1.0,Yes
+PROD01600,Milton Knife Set,Home & Kitchen,Knife Set,Milton,9999999,-10,423,4.9,Yes
+PROD01601,OnePlus Power Bank,Electronics,Power Bank,OnePlus,62868.04,-10,329,1.9,No
+PROD01602,,Home & Kitchen,Mop,Philips,25681.8,53,119,4.6,Yes
+PROD01603,Mamaearth Moisturizer,Beauty,Moisturizer,Mamaearth,63814.5,,218,1.6,No
+PROD01604,Nike Saree,Fashion,Saree,Nike,178.38,,92,2.8,No
+PROD01605,Biba Saree,Fashion,Saree,Biba,16225.12,6,215,2.0,No
+PROD01606,MRF Cricket Bat,Sports,Cricket Bat,MRF,45337.04,10,482,2.6,1
+PROD01607,Adidas Football,Sports,Football,Adidas,41539.75,58,-5,4.7,Yes
+PROD01608,Patanjali Salt,Grocery,Salt,Patanjali,24579.14,-10,231,1.5,Yes
+PROD01609,Disha Dictionary,Books,Dictionary,Disha,5489.65,29,458,0,No
+PROD01610,Decathlon Dumbbells,Sports,Dumbbells,,48668.69,54,382,3.3,Yes
+PROD01611,HarperCollins Journal,books,Journal,HarperCollins,43045.28,31,379,3.6,No
+PROD01612,Oxford Self Help Book,Books,,Oxford,3638.27,34,261,1.9,No
+PROD01613,Garnier Shampoo,Beauty,,Garnier,-9701.9,44,426,1.1,Yes
+PROD01614,Nike Saree,Fashion,Saree,Nike,15183.22,4,152,1.8,Yes
+PROD01615,Fingerprint Workbook,Books,Workbook,Fingerprint,76179.17,36,183,4.9,No
+PROD01616,L'Oreal Face Wash,Beauty,Face Wash,,43592.59,41,161,1.4,
+PROD01617,Borosil Tiffin Box,Home & Kitchen,,Borosil,-43026.09,55,472,4.5,0
+PROD01618,Patanjali Green Tea,Grocery,Green Tea,Patanjali,37450.2,34,174,2.9,Yes
+PROD01619,Vector X Yoga Mat,sports,Yoga Mat,Vector X,42146.41,55,85,1.6,Yes
+PROD01620,Tupperware Air Fryer,Home & Kitchen,Air Fryer,Tupperware,78549.2,32,161,1.4,Yes
+PROD01621,Philips Tiffin Box,HOME & KITCHEN,Tiffin Box,Philips,7804.53,10,-5,6.5,Yes
+PROD01622,Lenovo Tablet,ELECTRONICS,Tablet,Lenovo,41765.02,21,17,2.9,No
+PROD01623,Nykaa Sunscreen,Beauty,Sunscreen,Nykaa,61191.4,24,114,3.8,Yes
+PROD01624,W Shoes,Fashion,Shoes,W,1476.96,,5,4.5,yes
+PROD01625,S.Chand Biography,Books,Biography,S.Chand,6976.29,4,128,2.0,No
+PROD01626,Milton Air Fryer,Home & Kitchen,Air Fryer,Milton,72745.03,4,104,4.9,No
+PROD01627,Manyavar Shoes,Fashion,Shoes,Manyavar,20279.23,12,193,3.8,Yes
+PROD01628,Amul Toor Dal,grocery,Toor Dal,Amul,37492.08,1,467,3.7,
+PROD01629,Vector X Water Jug,Sports,Water Jug,Vector X,0,51,163,1.8,No
+PROD01630,Westland Atlas,Books,Atlas,Westland,32281.35,5,13,3.1,Yes
+PROD01631,Adidas T-Shirt,Fashion,T-Shirt,Adidas,66817.07,60,294,3.6,0
+PROD01632,boAt Laptop,electronics,Laptop,boAt,27175.47,12,233,4.4,yes
+PROD01633,Manyavar Kurta,Fashion,,Manyavar,47237.02,32,23,4.0,Yes
+PROD01634,,Home & Kitchen,Air Fryer,Borosil,60644.88,36,292,3.5,No
+PROD01635,Biotique Sunscreen,,,Biotique,0,9,55,1.9,no
+PROD01636,Britannia Amul Butter,,Amul Butter,Britannia,59221.9,38,357,1.2,No
+PROD01637,MRF Knee Cap,Sports,Knee Cap,,25130.88,37,28,3.1,No
+PROD01638,Yonex Dumbbells,Sports,Dumbbells,Yonex,,8,287,1.9,Yes
+PROD01639,Tupperware Pressure Cooker,home & kitchen,,Tupperware,2873.95,44,224,4.6,No
+PROD01640,JBL Smartphone,Electronics,,JBL,49599.42,49,385,1.3,No
+PROD01641,Adidas Skipping Rope,,Skipping Rope,Adidas,10551.81,50,315,2.9,No
+PROD01642,Nike Leggings,Fashion,Leggings,,9375.99,3,490,4.7,Yes
+PROD01643,Aashirvaad Atta,Grocery,Atta,Aashirvaad,,36,363,,Yes
+PROD01644,JBL Earbuds,electronics,,JBL,70782.55,24,119,1.8,No
+PROD01645,Bajaj Water Bottle,Home & Kitchen,,Bajaj,75610.12,59,322,3.8,Yes
+PROD01646,HP Smartphone,Electronics,,HP,53394.08,17,153,4.5,No
+PROD01647,Yonex Water Jug,Sports,Water Jug,Yonex,47505.75,47,379,3.7,No
+PROD01648,Tata Saffola Oil,Grocery,Saffola Oil,Tata,26898.6,33,495,3.6,1
+PROD01649,Tupperware Knife Set,Home & Kitchen,Knife Set,Tupperware,12657.01,2,225,1.6,Yes
+PROD01650,Lenovo Tablet,Electronics,Tablet,Lenovo,7320.67,32,42,1.7,No
+PROD01651,Mi Power Bank,Electronics,Power Bank,Mi,,9,238,2.9,No
+PROD01652,S.Chand Dictionary,Books,Dictionary,S.Chand,7464.14,37,472,4.3,No
+PROD01653,Tupperware Air Fryer,Home & Kitchen,Air Fryer,Tupperware,6067.65,32,423,3.8,Available
+PROD01654,Mi Smartphone,Electronics,Smartphone,Mi,79852.25,0,267,2.5,Out of Stock
+PROD01655,Realme Smartphone,Electronics,Smartphone,Realme,79618.03,,99999,3.0,Out of Stock
+PROD01656,Manyavar Jacket,Fashion,Jacket,Manyavar,35103.15,20,121,1.5,Yes
+PROD01657,Britannia Salt,GROCERY,Salt,,53378.43,44,41,4.1,No
+PROD01658,Philips Pressure Cooker,Home & Kitchen,Pressure Cooker,Philips,48651.65,40,315,1.3,Yes
+PROD01659,Nykaa Moisturizer,Beauty,Moisturizer,Nykaa,56425.45,50,165,2.6,Available
+PROD01660,Prestige Tiffin Box,Home & Kitchen,Tiffin Box,Prestige,78322.87,60,117,2.4,No
+PROD01661,Reebok Skipping Rope,Sports,Skipping Rope,Reebok,14436.0,60,191,4.6,Yes
+PROD01662,Adidas Football,Sports,Football,Adidas,38446.14,59,168,3.6,No
+PROD01663,H&M Shoes,Fashion,Shoes,H&M,70864.05,42,241,3.2,Yes
+PROD01664,Dabur Toor Dal,Grocery,Toor Dal,Dabur,10380.92,56,99999,1.5,No
+PROD01665,Nike Jeans,Fashion,Jeans,,14641.8,10,239,3.1,
+PROD01666,Nivea Hair Oil,Beauty,Hair Oil,Nivea,41848.38,12,-5,-1,Yes
+PROD01667,,Books,Workbook,S.Chand,17332.78,38,445,1.7,No
+PROD01668,Tata Maggi,Grocery,Maggi,Tata,35444.09,24,377,2.8,Yes
+PROD01669,Orient Mixer Grinder,Home & Kitchen,Mixer Grinder,Orient,6269.86,54,187,1.2,Yes
+PROD01670,Reebok Badminton Racket,Sports,,Reebok,54725.96,34,,4.4,Yes
+PROD01671,,HOME & KITCHEN,Curtain,Prestige,9999999,42,-5,4.6,Yes
+PROD01672,Nestle Green Tea,Grocery,Green Tea,Nestle,63898.44,42,351,2.5,No
+PROD01673,Rupa Self Help Book,Books,Self Help Book,,78417.75,8,332,2.7,yes
+PROD01674,Nestle Basmati Rice,Grocery,Basmati Rice,,20916.28,18,226,-1,Yes
+PROD01675,Dove Face Wash,Beauty,Face Wash,Dove,65541.49,29,262,2.2,yes
+PROD01676,Biba T-Shirt,Fashion,T-Shirt,Biba,60586.27,14,295,6.5,Yes
+PROD01677,Biotique Moisturizer,Beauty,Moisturizer,Biotique,21573.89,26,484,2.5,No
+PROD01678,boAt Keyboard,Electronics,Keyboard,,27062.44,26,173,3.3,Yes
+PROD01679,JBL Charger,Electronics,,JBL,11412.42,6,10,2.7,Yes
+PROD01680,Westland Workbook,Books,Workbook,Westland,7230.15,60,333,3.8,No
+PROD01681,Orient Mixer Grinder,Home & Kitchen,Mixer Grinder,Orient,39370.87,40,202,1.7,yes
+PROD01682,Britannia Maggi,Grocery,Maggi,Britannia,22158.56,45,244,2.5,no
+PROD01683,SG Badminton Racket,Sports,Badminton Racket,SG,20184.63,4,285,2.6,No
+PROD01684,Adidas Knee Cap,,,Adidas,56147.57,11,466,2.4,Out of Stock
+PROD01685,Bajaj Mop,Home & Kitchen,Mop,Bajaj,3557.39,4,347,1.9,Yes
+PROD01686,Nivia Yoga Mat,,Yoga Mat,Nivia,9999999,53,161,1.4,Yes
+PROD01687,HarperCollins Textbook,Books,Textbook,HarperCollins,4587.94,9,-5,6.5,No
+PROD01688,Westland Journal,Books,Journal,Westland,-50704.24,11,413,3.2,Yes
+PROD01689,WOW Kajal,Beauty,Kajal,WOW,68162.21,19,11,2.2,No
+PROD01690,Prestige Knife Set,HOME & KITCHEN,Knife Set,Prestige,78798.71,16,200,1.0,Yes
+PROD01691,Hawkins Mixer Grinder,Home & Kitchen,Mixer Grinder,Hawkins,22776.99,3,79,3.2,No
+PROD01692,Decathlon Football,Sports,Football,,68414.09,3,,6.5,No
+PROD01693,Bajaj Mixer Grinder,Home & Kitchen,Mixer Grinder,Bajaj,42131.41,56,64,4.5,Yes
+PROD01694,Biotique Foundation,Beauty,Foundation,Biotique,35855.76,15,150,3.5,Yes
+PROD01695,Philips Knife Set,Home & Kitchen,Knife Set,Philips,-40079.62,3,30,0,Yes
+PROD01696,Garnier Lipstick,Beauty,Lipstick,Garnier,40447.09,38,84,,Yes
+PROD01697,Amul Amul Butter,Grocery,Amul Butter,Amul,68083.41,11,206,-1,Yes
+PROD01698,Lakmé Shampoo,Beauty,,Lakmé,18249.76,40,108,1.3,Yes
+PROD01699,Libas Jacket,fashion,Jacket,Libas,0,45,192,3.7,Yes
+PROD01700,MRF Skipping Rope,Sports,Skipping Rope,MRF,44485.22,,99,1.5,Out of Stock
+PROD01701,Adidas Cycling Gloves,Sports,Cycling Gloves,Adidas,79614.73,16,118,3.3,Yes
+PROD01702,Disha Cookbook,Books,Cookbook,Disha,77307.72,53,402,2.5,No
+PROD01703,Cello Mixer Grinder,Home & Kitchen,Mixer Grinder,Cello,11974.72,5,83,4.5,Yes
+PROD01704,Libas Jacket,Fashion,Jacket,Libas,56195.64,6,478,2.2,No
+PROD01705,Arihant Novel,,Novel,Arihant,6360.37,55,382,1.2,No
+PROD01706,Philips Tiffin Box,Home & Kitchen,Tiffin Box,Philips,27145.3,43,495,3.7,Yes
+PROD01707,JBL Charger,Electronics,Charger,,44925.75,9,20,2.7,Yes
+PROD01708,Nivea Shampoo,,Shampoo,,78200.41,4,56,3.7,Out of Stock
+PROD01709,Apple Charger,Electronics,Charger,Apple,26538.2,48,318,4.8,No
+PROD01710,Patanjali Salt,grocery,Salt,Patanjali,65862.88,30,143,3.4,Available
+PROD01711,WOW Toner,Beauty,,WOW,-5338.85,6,110,0,Yes
+PROD01712,Nykaa Foundation,Beauty,Foundation,Nykaa,8977.8,41,330,2.3,Yes
+PROD01713,Rupa Novel,Books,Novel,Rupa,9999999,51,456,2.8,Yes
+PROD01714,S.Chand Journal,Books,Journal,S.Chand,34145.74,60,-5,-1,No
+PROD01715,Dell Power Bank,electronics,Power Bank,,45139.8,40,323,,Available
+PROD01716,Dabur Green Tea,Grocery,Green Tea,Dabur,18003.88,34,-5,2.0,yes
+PROD01717,Milton Knife Set,HOME & KITCHEN,Knife Set,Milton,-37442.54,54,126,1.8,Yes
+PROD01718,MDH Maggi,Grocery,Maggi,MDH,64812.68,27,296,4.8,Available
+PROD01719,boAt Charger,Electronics,Charger,boAt,68541.93,1,93,,yes
+PROD01720,,Beauty,Hair Oil,Dove,75836.98,1,46,3.9,No
+PROD01721,HP Earbuds,Electronics,,HP,,29,,3.4,No
+PROD01722,Cello Air Fryer,Home & Kitchen,Air Fryer,Cello,57043.17,57,100,2.6,Yes
+PROD01723,JBL Smartphone,ELECTRONICS,Smartphone,,20306.39,49,76,3.6,Available
+PROD01724,Lakmé Face Wash,Beauty,Face Wash,Lakmé,3992.5,42,369,4.4,Out of Stock
+PROD01725,Aashirvaad Atta,Grocery,Atta,Aashirvaad,11294.5,24,192,-1,Out of Stock
+PROD01726,,Home & Kitchen,Mixer Grinder,Borosil,79551.46,150,332,1.5,Yes
+PROD01727,MDH Maggi,Grocery,Maggi,MDH,15108.7,46,418,3.0,No
+PROD01728,Biba Shoes,Fashion,Shoes,Biba,13966.88,0,250,4.5,No
+PROD01729,,Fashion,Dupatta,Puma,59975.65,24,341,,Yes
+PROD01730,Himalaya Hair Oil,Beauty,Hair Oil,Himalaya,26957.26,10,189,2.5,no
+PROD01731,H&M Dress,Fashion,Dress,H&M,23954.1,5,141,3.8,Yes
+PROD01732,Rupa Comic,Books,Comic,,56808.08,16,300,1.9,No
+PROD01733,Nike Jacket,fashion,Jacket,,41117.87,59,159,1.2,yes
+PROD01734,Manyavar Shoes,Fashion,Shoes,Manyavar,,60,390,3.6,No
+PROD01735,Tata Toor Dal,Grocery,Toor Dal,Tata,29738.29,15,157,2.9,Yes
+PROD01736,Adidas Cricket Bat,Sports,Cricket Bat,Adidas,15783.64,6,248,1.5,No
+PROD01737,Cello Mop,HOME & KITCHEN,Mop,Cello,0,46,19,3.6,0
+PROD01738,Orient Textbook,Books,Textbook,Orient,6864.79,31,63,2.9,No
+PROD01739,Westland Biography,Books,Biography,Westland,6268.5,49,152,1.9,No
+PROD01740,Realme Earbuds,Electronics,Earbuds,,24168.73,4,74,3.6,Yes
+PROD01741,Patanjali Maggi,Grocery,Maggi,Patanjali,70548.71,9,25,2.4,No
+PROD01742,,Home & Kitchen,Tiffin Box,Cello,-31457.5,31,262,0,Yes
+PROD01743,Mi Smartwatch,Electronics,Smartwatch,Mi,,3,61,2.5,1
+PROD01744,Libas Leggings,Fashion,Leggings,Libas,805.65,0,51,2.9,
+PROD01745,Penguin Workbook,Books,Workbook,Penguin,51330.69,36,366,6.5,
+PROD01746,Borosil Mop,Home & Kitchen,Mop,,56792.57,35,258,2.3,No
+PROD01747,Samsung Keyboard,Electronics,Keyboard,Samsung,40312.77,37,450,4.6,Yes
+PROD01748,Apple Speaker,Electronics,,Apple,28001.51,0,74,3.7,No
+PROD01749,Prestige Air Fryer,HOME & KITCHEN,Air Fryer,Prestige,79005.71,7,479,2.2,No
+PROD01750,Disha Self Help Book,Books,Self Help Book,Disha,-25100.53,-10,297,1.5,No
+PROD01751,Adidas Dumbbells,Sports,Dumbbells,Adidas,50494.17,39,255,1.2,Yes
+PROD01752,MDH Atta,Grocery,Atta,MDH,52258.98,16,316,3.4,No
+PROD01753,Orient Atlas,,Atlas,Orient,51839.45,18,440,2.1,No
+PROD01754,,Grocery,Salt,MDH,11648.0,59,38,1.1,No
+PROD01755,Tata Amul Butter,Grocery,Amul Butter,Tata,72465.56,10,57,1.8,Yes
+PROD01756,Burnish Knee Cap,Sports,,Burnish,-50028.85,11,360,3.0,No
+PROD01757,Borosil Curtain,Home & Kitchen,Curtain,Borosil,47941.78,47,131,2.8,Yes
+PROD01758,Cello Mop,Home & Kitchen,Mop,Cello,16085.92,4,238,1.3,Yes
+PROD01759,Adidas Jacket,Fashion,,Adidas,51852.12,35,150,1.6,yes
+PROD01760,Hawkins Pillow,Home & Kitchen,Pillow,Hawkins,52928.51,38,98,4.1,No
+PROD01761,L'Oreal Shampoo,Beauty,,L'Oreal,52288.99,9,277,2.9,No
+PROD01762,Dabur Saffola Oil,Grocery,Saffola Oil,Dabur,64338.05,6,443,1.1,No
+PROD01763,OnePlus Smartwatch,ELECTRONICS,Smartwatch,OnePlus,0,27,335,2.9,No
+PROD01764,Reebok Skipping Rope,Sports,Skipping Rope,Reebok,9999999,22,189,4.0,Yes
+PROD01765,Apple Laptop,Electronics,Laptop,Apple,25561.7,56,188,2.4,No
+PROD01766,Arihant Self Help Book,Books,Self Help Book,Arihant,34789.99,14,99999,2.0,Yes
+PROD01767,Milton Mop,home & kitchen,Mop,Milton,7066.51,38,249,4.8,Yes
+PROD01768,Bajaj Pillow,Home & Kitchen,Pillow,,69085.34,41,441,2.1,No
+PROD01769,Reebok Resistance Band,Sports,,Reebok,41027.64,25,427,1.8,Yes
+PROD01770,Garnier Lipstick,Beauty,Lipstick,Garnier,19429.86,0,286,2.2,Yes
+PROD01771,Zara Belt,Fashion,Belt,Zara,15530.73,5,161,4.5,No
+PROD01772,Nestle Honey,Grocery,Honey,Nestle,14469.57,31,14,4.6,Yes
+PROD01773,Garnier Lipstick,beauty,Lipstick,Garnier,15438.04,47,262,2.1,Yes
+PROD01774,S.Chand Journal,Books,Journal,S.Chand,18715.54,36,327,1.4,No
+PROD01775,Biba Kurta,Fashion,Kurta,Biba,53891.25,24,219,3.9,Yes
+PROD01776,Garnier Face Wash,Beauty,Face Wash,Garnier,47599.49,57,90,2.5,Yes
+PROD01777,Dell Earbuds,Electronics,Earbuds,Dell,76893.46,52,332,1.8,Yes
+PROD01778,Biba Jeans,Fashion,,Biba,69604.11,12,282,,No
+PROD01779,Zara Saree,Fashion,Saree,Zara,73214.21,34,313,2.0,No
+PROD01780,Vector X Skipping Rope,SPORTS,Skipping Rope,Vector X,45665.17,35,495,3.1,
+PROD01781,HarperCollins Cookbook,BOOKS,Cookbook,HarperCollins,61175.1,150,444,1.0,No
+PROD01782,Puma Dress,Fashion,Dress,Puma,8892.82,46,346,4.7,Yes
+PROD01783,FabIndia Shoes,Fashion,Shoes,FabIndia,61644.59,48,397,4.0,No
+PROD01784,Pigeon Knife Set,Home & Kitchen,Knife Set,Pigeon,73579.33,30,399,-1,0
+PROD01785,Dell Speaker,ELECTRONICS,Speaker,Dell,20914.7,29,109,3.2,No
+PROD01786,boAt Power Bank,Electronics,Power Bank,boAt,,39,74,1.9,Yes
+PROD01787,S.Chand Textbook,Books,Textbook,S.Chand,13296.87,49,62,2.8,No
+PROD01788,Nike Dupatta,Fashion,Dupatta,,11923.6,7,9,1.7,No
+PROD01789,Nike Saree,fashion,,Nike,-26754.78,26,428,1.4,No
+PROD01790,Libas Jacket,fashion,,Libas,14073.86,8,361,6.5,No
+PROD01791,Arihant Journal,Books,Journal,Arihant,41430.84,28,196,2.2,Yes
+PROD01792,Westland Novel,Books,Novel,Westland,40796.32,150,178,2.6,Yes
+PROD01793,Zara Dress,Fashion,Dress,Zara,75593.07,30,50,1.2,1
+PROD01794,Patanjali Salt,Grocery,Salt,Patanjali,56359.0,6,139,3.2,Yes
+PROD01795,Libas Saree,Fashion,Saree,Libas,37685.05,4,,4.3,No
+PROD01796,Mi Speaker,Electronics,Speaker,Mi,66462.15,17,72,4.4,No
+PROD01797,,Books,Cookbook,Rupa,-13912.39,150,289,3.7,Yes
+PROD01798,Milton Pillow,Home & Kitchen,Pillow,Milton,60865.95,38,297,1.0,No
+PROD01799,Nike Jacket,Fashion,Jacket,Nike,76614.15,11,195,4.9,No
+PROD01800,Manyavar Saree,Fashion,Saree,Manyavar,74557.83,6,354,3.2,No
+PROD01801,Nike Jacket,Fashion,Jacket,Nike,73426.86,5,329,1.6,Yes
+PROD01802,Nivia Skipping Rope,Sports,Skipping Rope,Nivia,74764.92,16,287,3.3,No
+PROD01803,Patanjali Basmati Rice,GROCERY,Basmati Rice,Patanjali,59290.08,52,272,2.9,Available
+PROD01804,Biba Belt,fashion,Belt,Biba,0,45,99999,4.4,Yes
+PROD01805,Pigeon Mop,Home & Kitchen,Mop,Pigeon,33142.95,9,49,2.9,Out of Stock
+PROD01806,Dell Earbuds,ELECTRONICS,Earbuds,,64775.51,50,41,4.3,No
+PROD01807,Westland Cookbook,Books,,Westland,74170.43,17,480,2.7,0
+PROD01808,Realme Keyboard,Electronics,Keyboard,Realme,0,16,336,2.5,Yes
+PROD01809,ITC Amul Butter,grocery,Amul Butter,ITC,42632.24,51,-5,1.4,No
+PROD01810,Nestle Saffola Oil,Grocery,Saffola Oil,Nestle,44056.81,,54,,Yes
+PROD01811,Cosco Knee Cap,Sports,Knee Cap,Cosco,77252.89,,443,2.5,No
+PROD01812,Reebok Cycling Gloves,SPORTS,Cycling Gloves,Reebok,65739.33,16,159,1.5,No
+PROD01813,Westland Dictionary,Books,Dictionary,Westland,17564.19,54,98,2.6,Yes
+PROD01814,Amul Amul Butter,Grocery,Amul Butter,Amul,37158.58,26,339,-1,Yes
+PROD01815,Oxford Comic,Books,Comic,Oxford,-58636.66,150,382,3.7,Yes
+PROD01816,,Fashion,Jacket,Zara,572.46,36,342,,Yes
+PROD01817,Orient Tiffin Box,Home & Kitchen,Tiffin Box,Orient,73186.76,14,455,2.8,No
+PROD01818,,Home & Kitchen,Bed Sheet,Orient,26774.29,23,29,4.6,Yes
+PROD01819,Fingerprint Biography,Books,Biography,Fingerprint,58006.53,17,179,2.8,No
+PROD01820,Decathlon Water Jug,Sports,Water Jug,Decathlon,48443.12,150,153,2.0,Yes
+PROD01821,S.Chand Cookbook,Books,,S.Chand,53400.15,26,88,3.2,No
+PROD01822,Nykaa Hair Oil,Beauty,Hair Oil,Nykaa,29391.82,32,270,3.0,No
+PROD01823,Penguin Cookbook,Books,,Penguin,419.35,54,,2.8,Yes
+PROD01824,L'Oreal Shampoo,Beauty,Shampoo,L'Oreal,0,5,161,0,Yes
+PROD01825,Lakmé Foundation,Beauty,Foundation,,59645.38,14,215,4.5,Yes
+PROD01826,,Books,Cookbook,HarperCollins,25887.99,56,163,4.1,No
+PROD01827,Britannia Basmati Rice,GROCERY,Basmati Rice,Britannia,76243.11,58,376,0,No
+PROD01828,Fingerprint Atlas,Books,,Fingerprint,8091.88,45,18,-1,No
+PROD01829,Mamaearth Face Wash,Beauty,Face Wash,Mamaearth,37859.65,45,167,1.5,No
+PROD01830,Orient Bed Sheet,home & kitchen,Bed Sheet,Orient,49287.22,9,263,,
+PROD01831,FabIndia T-Shirt,Fashion,T-Shirt,FabIndia,59773.52,12,135,-1,No
+PROD01832,Aashirvaad Toor Dal,Grocery,Toor Dal,Aashirvaad,33625.41,39,186,2.7,No
+PROD01833,Amul Maggi,Grocery,Maggi,Amul,47903.19,13,193,1.5,0
+PROD01834,Biotique Lipstick,Beauty,Lipstick,Biotique,34571.57,29,,2.8,
+PROD01835,Lakmé Shampoo,Beauty,Shampoo,Lakmé,72634.49,59,120,4.2,yes
+PROD01836,Milton Pillow,Home & Kitchen,,Milton,27342.03,18,424,2.1,No
+PROD01837,Yonex Dumbbells,SPORTS,Dumbbells,Yonex,54032.48,43,195,3.6,No
+PROD01838,Orient Water Bottle,Home & Kitchen,Water Bottle,Orient,30778.43,48,345,4.4,Available
+PROD01839,Manyavar Shoes,fashion,Shoes,,45530.34,40,437,1.7,No
+PROD01840,Dove Toner,Beauty,Toner,Dove,21904.36,55,25,1.6,Yes
+PROD01841,Rupa Atlas,Books,Atlas,Rupa,1875.56,8,377,1.9,No
+PROD01842,JBL Mouse,Electronics,Mouse,JBL,47636.45,25,2,3.4,No
+PROD01843,S.Chand Atlas,Books,,S.Chand,67817.39,57,213,2.0,Yes
+PROD01844,Haldiram Maggi,GROCERY,Maggi,Haldiram,62186.46,34,24,3.2,yes
+PROD01845,Dell Smartphone,Electronics,Smartphone,Dell,76641.35,31,187,4.1,
+PROD01846,JBL Smartwatch,Electronics,Smartwatch,JBL,50401.74,19,29,0,Yes
+PROD01847,MRF Skipping Rope,Sports,Skipping Rope,MRF,21882.4,45,131,3.6,Yes
+PROD01848,Realme Smartwatch,Electronics,Smartwatch,Realme,6337.87,40,156,1.7,No
+PROD01849,Garnier Toner,,Toner,,4987.91,-10,108,4.1,Available
+PROD01850,Pigeon Mop,,Mop,Pigeon,68895.46,38,79,3.2,1
+PROD01851,Decathlon Badminton Racket,Sports,Badminton Racket,Decathlon,58933.95,50,461,1.1,Yes
+PROD01852,ITC Basmati Rice,Grocery,Basmati Rice,,62376.55,22,395,2.0,Yes
+PROD01853,Philips Mixer Grinder,HOME & KITCHEN,Mixer Grinder,Philips,20255.69,55,232,6.5,No
+PROD01854,MRF Skipping Rope,sports,,MRF,74408.91,49,95,2.7,1
+PROD01855,Nike Belt,Fashion,Belt,Nike,3821.01,37,18,4.6,Yes
+PROD01856,Zara Kurta,Fashion,Kurta,Zara,-5075.94,56,184,1.8,Yes
+PROD01857,Haldiram Saffola Oil,Grocery,Saffola Oil,Haldiram,20037.5,150,28,3.7,Yes
+PROD01858,Vector X Yoga Mat,Sports,Yoga Mat,Vector X,50528.81,48,238,2.1,No
+PROD01859,,Fashion,Jeans,,47299.02,28,105,1.1,Yes
+PROD01860,Samsung Smartphone,Electronics,Smartphone,Samsung,18090.6,19,267,4.0,No
+PROD01861,Orient Workbook,Books,Workbook,Orient,65076.45,18,156,4.2,Yes
+PROD01862,SG Skipping Rope,Sports,Skipping Rope,SG,18416.06,33,432,3.6,Yes
+PROD01863,Patanjali Saffola Oil,Grocery,Saffola Oil,Patanjali,53159.26,16,465,1.7,yes
+PROD01864,Biotique Kajal,BEAUTY,,Biotique,24641.72,55,127,1.5,No
+PROD01865,Adidas Jeans,Fashion,Jeans,Adidas,12782.73,14,250,1.4,Available
+PROD01866,S.Chand Biography,Books,Biography,S.Chand,75800.65,8,327,4.0,0
+PROD01867,SG Skipping Rope,Sports,Skipping Rope,SG,,22,114,2.7,Yes
+PROD01868,Dell Smartphone,Electronics,,Dell,47077.24,28,262,1.8,
+PROD01869,JBL Mouse,Electronics,Mouse,JBL,0,43,166,1.0,No
+PROD01870,Orient Knife Set,Home & Kitchen,Knife Set,Orient,47473.43,22,88,3.4,0
+PROD01871,Adidas Water Jug,Sports,Water Jug,Adidas,44254.39,37,442,-1,No
+PROD01872,Yonex Knee Cap,sports,,Yonex,3364.06,40,459,1.0,No
+PROD01873,Fingerprint Atlas,,Atlas,Fingerprint,49293.37,39,69,1.4,Out of Stock
+PROD01874,Lakmé Sunscreen,Beauty,Sunscreen,Lakmé,5383.57,31,332,3.5,No
+PROD01875,Haldiram Green Tea,Grocery,Green Tea,Haldiram,2806.31,9,188,1.6,Yes
+PROD01876,Mi Charger,Electronics,Charger,Mi,37606.28,8,229,4.0,No
+PROD01877,Zara Jacket,Fashion,Jacket,Zara,37556.85,34,29,3.5,Yes
+PROD01878,WOW Face Wash,Beauty,Face Wash,,-62028.25,60,106,1.1,yes
+PROD01879,Orient Comic,,Comic,Orient,53737.27,2,70,4.0,No
+PROD01880,Nivea Foundation,Beauty,Foundation,Nivea,7870.35,20,271,1.5,No
+PROD01881,Penguin Novel,Books,Novel,Penguin,24952.12,,436,1.3,No
+PROD01882,L'Oreal Serum,Beauty,Serum,L'Oreal,-27908.2,7,209,4.5,Available
+PROD01883,Westland Journal,Books,Journal,Westland,38872.91,1,341,6.5,Yes
+PROD01884,Borosil Water Bottle,Home & Kitchen,Water Bottle,Borosil,,53,392,2.0,No
+PROD01885,Zara Belt,fashion,Belt,Zara,15439.99,59,216,0,No
+PROD01886,Biba Belt,FASHION,,Biba,79500.74,57,300,,Yes
+PROD01887,Apple Speaker,Electronics,Speaker,Apple,3464.36,45,297,2.2,Available
+PROD01888,Puma Belt,Fashion,Belt,Puma,74574.69,6,241,2.9,Out of Stock
+PROD01889,Himalaya Toner,Beauty,Toner,Himalaya,-63586.03,-10,190,1.5,No
+PROD01890,Garnier Lipstick,Beauty,Lipstick,Garnier,30593.04,5,196,3.9,No
+PROD01891,Cosco Water Jug,Sports,Water Jug,,9999999,28,283,1.0,No
+PROD01892,ITC Atta,Grocery,Atta,ITC,11769.51,46,71,1.1,No
+PROD01893,Lakmé Sunscreen,Beauty,Sunscreen,Lakmé,59156.15,40,128,4.8,No
+PROD01894,MRF Cycling Gloves,Sports,Cycling Gloves,MRF,34525.89,45,374,2.2,Yes
+PROD01895,W Kurta,Fashion,Kurta,,20338.96,11,383,4.3,No
+PROD01896,Tata Green Tea,Grocery,Green Tea,Tata,33756.42,3,387,4.0,No
+PROD01897,Adidas Saree,fashion,Saree,Adidas,34789.18,54,307,4.7,Yes
+PROD01898,Nike Jeans,Fashion,Jeans,Nike,16391.4,28,234,4.9,No
+PROD01899,Yonex Dumbbells,Sports,,Yonex,24431.11,48,498,2.7,yes
+PROD01900,Rupa Biography,Books,Biography,Rupa,10293.48,43,48,2.9,No
+PROD01901,Yonex Knee Cap,,Knee Cap,Yonex,75902.74,43,2,1.3,No
+PROD01902,Samsung Smartwatch,Electronics,Smartwatch,Samsung,22251.04,16,384,4.6,No
+PROD01903,Amul Biscuits,Grocery,Biscuits,Amul,68560.67,10,496,4.5,yes
+PROD01904,MDH Atta,Grocery,Atta,MDH,49339.11,49,393,5.0,
+PROD01905,Pigeon Mop,Home & Kitchen,Mop,Pigeon,10565.46,1,90,4.8,No
+PROD01906,,,,Disha,41556.81,50,259,3.1,No
+PROD01907,boAt Speaker,Electronics,Speaker,boAt,69603.49,60,114,2.2,No
+PROD01908,Mamaearth Serum,beauty,Serum,Mamaearth,20826.81,21,341,2.1,yes
+PROD01909,Realme Keyboard,Electronics,Keyboard,Realme,14801.71,60,-5,3.3,
+PROD01910,Adidas Football,,Football,Adidas,-78129.25,8,473,4.7,Yes
+PROD01911,boAt Power Bank,Electronics,Power Bank,boAt,22593.29,60,467,1.7,yes
+PROD01912,Dove Kajal,Beauty,Kajal,Dove,-28617.48,59,421,1.1,Yes
+PROD01913,Nivia Cycling Gloves,Sports,Cycling Gloves,Nivia,74158.83,4,37,2.9,Yes
+PROD01914,Apple Mouse,Electronics,Mouse,Apple,31533.39,46,30,,0
+PROD01915,W Leggings,Fashion,Leggings,W,75690.81,40,330,3.2,No
+PROD01916,Himalaya Lipstick,beauty,Lipstick,Himalaya,12735.65,27,29,1.7,No
+PROD01917,,Electronics,,JBL,55844.27,11,260,2.4,
+PROD01918,Decathlon Knee Cap,Sports,Knee Cap,,52029.22,55,24,2.1,No
+PROD01919,Zara Jeans,Fashion,Jeans,Zara,46289.9,20,,4.9,No
+PROD01920,Amul Honey,grocery,Honey,Amul,5170.15,8,462,1.5,Yes
+PROD01921,Mamaearth Moisturizer,Beauty,Moisturizer,Mamaearth,75552.05,18,207,2.7,Yes
+PROD01922,Penguin Atlas,Books,Atlas,,4750.81,58,196,1.6,No
+PROD01923,Lenovo Mouse,Electronics,Mouse,Lenovo,42816.89,53,435,-1,Yes
+PROD01924,Nivia Dumbbells,Sports,Dumbbells,Nivia,53019.51,58,25,1.4,Yes
+PROD01925,Patanjali Salt,GROCERY,,Patanjali,17705.52,40,167,1.6,No
+PROD01926,Mi Earbuds,Electronics,Earbuds,Mi,66157.7,12,41,3.9,Available
+PROD01927,HarperCollins Cookbook,Books,Cookbook,HarperCollins,7465.04,53,80,,Yes
+PROD01928,,Beauty,Toner,WOW,25723.81,35,26,2.3,
+PROD01929,Aashirvaad Maggi,Grocery,Maggi,,46528.74,35,36,2.5,0
+PROD01930,,GROCERY,Toor Dal,MDH,57966.9,20,232,3.8,No
+PROD01931,Puma Dress,Fashion,Dress,Puma,57388.2,33,336,4.0,0
+PROD01932,Dell Earbuds,Electronics,Earbuds,Dell,29752.12,13,186,6.5,No
+PROD01933,Lenovo Mouse,ELECTRONICS,Mouse,Lenovo,64519.4,2,394,2.0,No
+PROD01934,MDH Amul Butter,Grocery,Amul Butter,MDH,14761.17,43,144,3.9,No
+PROD01935,Patanjali Saffola Oil,,Saffola Oil,Patanjali,46519.0,11,141,4.7,Yes
+PROD01936,Penguin Novel,Books,Novel,Penguin,-58950.2,26,,2.6,Yes
+PROD01937,Cello Bed Sheet,Home & Kitchen,Bed Sheet,Cello,4851.67,21,481,3.9,Available
+PROD01938,H&M Belt,Fashion,Belt,H&M,10238.83,23,299,1.8,Yes
+PROD01939,Patanjali Biscuits,Grocery,Biscuits,Patanjali,58142.73,28,389,6.5,Yes
+PROD01940,Garnier Toner,Beauty,Toner,Garnier,50352.12,30,194,,Yes
+PROD01941,Mi Earbuds,Electronics,Earbuds,Mi,79222.05,25,283,6.5,
+PROD01942,Burnish Badminton Racket,Sports,Badminton Racket,Burnish,15461.84,40,346,1.7,No
+PROD01943,Apple Smartphone,Electronics,Smartphone,Apple,16921.28,29,36,2.1,No
+PROD01944,MRF Skipping Rope,Sports,Skipping Rope,MRF,56761.2,54,357,2.4,Yes
+PROD01945,Aashirvaad Maggi,Grocery,Maggi,Aashirvaad,393.23,1,20,2.9,
+PROD01946,W Saree,Fashion,Saree,W,32351.09,39,257,1.5,0
+PROD01947,Hawkins Curtain,,Curtain,Hawkins,9944.6,8,458,3.9,No
+PROD01948,Orient Comic,Books,Comic,Orient,9196.64,8,330,3.7,Yes
+PROD01949,Dell Smartwatch,Electronics,Smartwatch,Dell,21824.94,12,-5,1.7,Yes
+PROD01950,Adidas T-Shirt,Fashion,T-Shirt,Adidas,21477.04,18,91,4.8,No
+PROD01951,Philips Tiffin Box,Home & Kitchen,Tiffin Box,Philips,32679.72,31,205,3.5,No
+PROD01952,Bajaj Pillow,Home & Kitchen,Pillow,Bajaj,16439.51,51,198,4.6,no
+PROD01953,Yonex Badminton Racket,sports,Badminton Racket,Yonex,67892.13,-10,105,3.7,1
+PROD01954,MDH Basmati Rice,Grocery,Basmati Rice,MDH,9868.35,33,138,4.2,yes
+PROD01955,Libas Jeans,Fashion,Jeans,Libas,30625.99,53,221,3.7,Yes
+PROD01956,Aashirvaad Saffola Oil,Grocery,Saffola Oil,Aashirvaad,45743.05,6,295,2.6,No
+PROD01957,Libas T-Shirt,Fashion,T-Shirt,Libas,17841.82,42,12,4.3,No
+PROD01958,L'Oreal Moisturizer,Beauty,Moisturizer,L'Oreal,57503.52,10,440,0,Yes
+PROD01959,WOW Face Wash,Beauty,,WOW,6284.92,11,348,0,Out of Stock
+PROD01960,Biba T-Shirt,FASHION,T-Shirt,Biba,35229.77,17,321,0,No
+PROD01961,Himalaya Hair Oil,beauty,Hair Oil,Himalaya,76313.24,44,65,2.5,No
+PROD01962,Hawkins Pillow,Home & Kitchen,Pillow,Hawkins,25728.71,21,24,4.1,No
+PROD01963,Dabur Green Tea,GROCERY,Green Tea,Dabur,10890.86,22,275,-1,Yes
+PROD01964,Nivea Serum,BEAUTY,Serum,Nivea,10314.66,,89,1.6,Yes
+PROD01965,Amul Basmati Rice,Grocery,,Amul,70586.43,23,25,3.1,Yes
+PROD01966,,Books,Atlas,Penguin,72243.71,56,139,3.8,Yes
+PROD01967,Burnish Yoga Mat,Sports,,,0,20,-5,1.1,Yes
+PROD01968,MRF Cricket Bat,Sports,Cricket Bat,MRF,9999999,3,210,3.9,No
+PROD01969,Prestige Knife Set,Home & Kitchen,Knife Set,Prestige,46850.21,12,62,1.4,Yes
+PROD01970,Lakmé Kajal,Beauty,,Lakmé,13797.21,0,426,1.6,Yes
+PROD01971,ITC Green Tea,Grocery,Green Tea,ITC,0,-10,136,3.1,No
+PROD01972,Adidas Cricket Bat,Sports,Cricket Bat,Adidas,4837.39,45,468,3.1,Yes
+PROD01973,Nivea Hair Oil,Beauty,Hair Oil,Nivea,78300.72,43,174,2.5,Yes
+PROD01974,JBL Power Bank,,Power Bank,JBL,9999999,2,253,3.8,Yes
+PROD01975,Milton Mop,home & kitchen,Mop,Milton,9999999,58,406,4.4,Yes
+PROD01976,,Home & Kitchen,Curtain,Borosil,29183.09,0,125,3.6,No
+PROD01977,Nestle Honey,Grocery,Honey,Nestle,34517.68,28,295,3.2,No
+PROD01978,WOW Sunscreen,Beauty,Sunscreen,WOW,68838.29,36,424,3.5,Yes
+PROD01979,Pigeon Mop,Home & Kitchen,Mop,Pigeon,,16,164,4.6,0
+PROD01980,Nivea Serum,Beauty,Serum,Nivea,44405.9,16,326,2.8,yes
+PROD01981,HarperCollins Comic,Books,Comic,HarperCollins,-679.97,,-5,4.2,Yes
+PROD01982,Milton Knife Set,Home & Kitchen,Knife Set,Milton,4385.67,53,441,3.9,No
+PROD01983,Dove Kajal,Beauty,Kajal,Dove,35588.04,10,101,,Yes
+PROD01984,Nike Shoes,Fashion,Shoes,Nike,19411.35,15,16,3.6,No
+PROD01985,Prestige Pillow,Home & Kitchen,,Prestige,72685.77,45,425,3.8,Yes
+PROD01986,Hawkins Tiffin Box,Home & Kitchen,Tiffin Box,Hawkins,15928.79,29,179,4.9,No
+PROD01987,H&M Belt,Fashion,Belt,H&M,-76177.81,42,463,2.7,Yes
+PROD01988,,Electronics,Keyboard,OnePlus,32497.48,36,200,1.3,Yes
+PROD01989,,electronics,Smartphone,Dell,76392.4,16,98,2.0,No
+PROD01990,SG Cycling Gloves,Sports,Cycling Gloves,SG,68249.69,31,98,3.4,Yes
+PROD01991,Rupa Self Help Book,Books,Self Help Book,Rupa,18653.88,39,323,1.4,No
+PROD01992,Disha Cookbook,Books,Cookbook,Disha,57420.66,59,21,1.6,Yes
+PROD01993,OnePlus Laptop,Electronics,,OnePlus,38148.31,10,203,2.9,No
+PROD01994,Orient Curtain,home & kitchen,Curtain,Orient,60269.48,11,327,3.2,Yes
+PROD01995,OnePlus Keyboard,ELECTRONICS,,OnePlus,53528.15,12,154,2.4,Yes
+PROD01996,Cello Pillow,Home & Kitchen,Pillow,Cello,18441.56,1,456,2.4,No
+PROD01997,Vector X Water Jug,Sports,Water Jug,Vector X,58041.53,59,215,1.1,Yes
+PROD01998,Haldiram Saffola Oil,Grocery,Saffola Oil,,15594.23,35,472,2.4,No
+PROD01999,Manyavar Shoes,Fashion,Shoes,Manyavar,17951.66,50,189,4.1,yes
+PROD02000,L'Oreal Toner,Beauty,Toner,L'Oreal,4684.69,42,282,1.3,No
