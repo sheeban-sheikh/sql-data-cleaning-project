@@ -595,7 +595,7 @@ SELECT MIN(CAST(shipping_charges AS SIGNED)) min_shipping_charges,MAX(CAST(shipp
 FROM orders
 WHERE shipping_charges!='';
 
--- Checking for Negative and Zero total amount Values
+-- Checking for Negative and Zero Discount Values
 SELECT CAST(discount_applied AS SIGNED) AS discount_applied FROM orders
 WHERE discount_applied<=0;
 
